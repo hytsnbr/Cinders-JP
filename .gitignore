@@ -1,2 +1,5 @@
 *.fmg
 *.fmg.bak
+*.msgbnd.dcx
+*.msgbnd.dcx.bak
+*.dcx
