@@ -4,18 +4,19 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="4201">You lack the license for this DLC.
-Returning to title menu.</text>
-<text id="401116">Unable to locate required DLC:
+<text id="4201">DLCの使用権限がありません
+タイトル画面に戻ります</text>
+<text id="401116">必要なDLCが見つかりません
 
 &lt;?requiredDlcList?&gt;
 
-This profile cannot be loaded until the DLC is installed again.</text>
-<text id="401117">ASHES OF ARIANDEL</text>
-<text id="401300">%null%</text>
-<text id="401301">%null%</text>
-<text id="401302">DLC could not be loaded correctly.
-It cannot be used in the game.</text>
+再度DLCをインストールするまで
+このプロファイルは読み込めません</text>
+<text id="401117">「ASHES OF ARIANDEL」</text>
+<text id="401300">追加コンテンツをチェックしています</text>
+<text id="401301">追加コンテンツがインストールされていません</text>
+<text id="401302">DLCを正しく読み込めませんでした
+ゲームには反映できません</text>
 <text id="401303">%null%</text>
 <text id="401304">%null%</text>
 <text id="401305">%null%</text>
@@ -23,8 +24,8 @@ It cannot be used in the game.</text>
 <text id="401307">%null%</text>
 <text id="401308">%null%</text>
 <text id="401309">%null%</text>
-<text id="401310">New DLC was installed.
-Return to the title menu in order to use.
-Select "OK" to return to the title menu.</text>
+<text id="401310">新しいDLCがインストールされました
+タイトル画面に戻るまでDLCは反映されません
+タイトル画面に戻る場合は「OK」を選択してください</text>
 </entries>
 </fmg>
