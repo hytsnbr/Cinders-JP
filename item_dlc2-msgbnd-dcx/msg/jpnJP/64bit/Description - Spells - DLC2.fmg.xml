@@ -4,96 +4,95 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="1376000">A memory of an old sword found deep within Midir.
-This sorcery uses souls to grant form to the
-thought, and attack with it.
+<text id="1376000">ミディールの深層にあった古い剣の記憶
+それをソウルにより形作り、攻撃する魔術
 
-Attacks are coupled with lightwaves,
-and sustaining the stance before attacking
-increases their speed and potency.
-The sword is named after moonlight, but it is
-slightly different than the one fashioned of the
-paledrake Seath. Perhaps it is rooted in an
-older memory, from not long after the Beginning.</text>
-<text id="1376010">A memory of an old sword found deep within Midir.
-This sorcery uses souls to grant form to the
-thought, and attack with it.
+攻撃は光波を伴い
+攻撃前の構えを継続することで
+その威力、速度が増す
 
-Attacks are coupled with lightwaves,
-and sustaining the stance before attacking
-increases their speed and potency.
+古い剣の名は、これもまた月光であるが
+白竜シースのそれとは、少し姿が異なる
+その記憶は、よりはじまりに近いようだ</text>
+<text id="1376010">ミディールの深層にあった古い剣の記憶
+それをソウルにより形作り、攻撃する魔術
+
+攻撃は光波を伴い
+攻撃前の構えを継続することで
+その威力、速度が増す
 
 Increases Poise Damage to 100.
 
-The sword is named after moonlight, but it is
-slightly different than the one fashioned of the
-paledrake Seath. Perhaps it is rooted in an
-older memory, from not long after the Beginning.</text>
-<text id="2458000">Pyromancy of Zoey, descendant of the desert
-pyromancers.
+古い剣の名は、これもまた月光であるが
+白竜シースのそれとは、少し姿が異なる
+その記憶は、よりはじまりに近いようだ</text>
+<text id="2458000">砂の呪術師の末裔、ゾーイの呪術
+炎を扇とし、大きく打ち払う
 
-Use repeatedly to brush the fan of flame left
-and right.
+また連続使用することで
+炎の扇は左右に打ち払われる
 
-Zoey possessed true beauty, as did all the
-desert pyromancers, but hers did not poison,
-and so she became the unassuming queen
-of the feeble ones. </text>
-<text id="2458010">Pyromancy of Zoey, descendant of the desert
-pyromancers.
+砂の呪術師の例に漏れず、ゾーイもまた美しい
+けれど彼女は、その美しさを毒とせず
+ただ卑小な者たちの、細やかな女王となった</text>
+<text id="2458010">砂の呪術師の末裔、ゾーイの呪術
+炎を扇とし、大きく打ち払う
 
-Use repeatedly to brush the fan of flame left
-and right.
+また連続使用することで
+炎の扇は左右に打ち払われる
 Can be used with no focus cost.
 
-Zoey possessed true beauty, as did all the
-desert pyromancers, but hers did not poison,
-and so she became the unassuming queen
-of the feeble ones. </text>
-<text id="2660000">The last flame lit by the demon prince.
-This pyromancy hurls a clump of chaos.
+砂の呪術師の例に漏れず、ゾーイもまた美しい
+けれど彼女は、その美しさを毒とせず
+ただ卑小な者たちの、細やかな女王となった</text>
+<text id="2660000">デーモンの王子が最後に灯した炎
+混沌としたその欠片を、投げつける呪術
 
-Upon impact, this clump of chaos seethes wildly, condenses briefly, then explodes violently.
+混沌の欠片は着弾地点で激しくたぎり
+一瞬の収縮の後、大きく爆発する
 
-To the demons, these clumps are shreds of life.</text>
-<text id="2660010">The last flame lit by the demon prince.
-This pyromancy hurls a clump of chaos.
+デーモンにとって、それは命の欠片だっ</text>
+<text id="2660010">デーモンの王子が最後に灯した炎
+混沌としたその欠片を、投げつける呪術
 
-Upon impact, this clump of chaos seethes wildly, condenses briefly, then explodes violently.
+混沌の欠片は着弾地点で激しくたぎり
+一瞬の収縮の後、大きく爆発する
 Increases Poise Damage to 100.
 
-To the demons, these clumps are shreds of life.</text>
-<text id="3509000">The few female knights who served in the age of
-the gods used this miracle for dragonslaying.
+デーモンにとって、それは命の欠片だった</text>
+<text id="3509000">神々の時代、数少ない女騎士たちが
+竜狩りに用いた奇跡
 
-Draw lightning bow to fire a lightning arrow.
+雷の弓を引き絞り、雷の矢を射る
 
-The lightning arrows offer a great improvement
-to the range of spears, and were said to have been used to pierce the eyes of dragons from afar.
-But remember, beautiful stories are always
-marked by embellishment.
-</text>
-<text id="3509010">The few female knights who served in the age of
-the gods used this miracle for dragonslaying.
+槍に比べて射程距離に優れ
+彼方から竜の瞳を射抜いたともいう
+美々しい物語には、誇張が付き物だ</text>
+<text id="3509010">神々の時代、数少ない女騎士たちが
+竜狩りに用いた奇跡
 
 Draw lightning bow to fire a lightning arrow with no focus cost.
 
-The lightning arrows offer a great improvement
-to the range of spears, and were said to have been used to pierce the eyes of dragons from afar.
-But remember, beautiful stories are always
-marked by embellishment.
-</text>
-<text id="3557000">A miracle discovered in the last days of Lothric.
+槍に比べて射程距離に優れ
+彼方から竜の瞳を射抜いたともいう
+美々しい物語には、誇張が付き物だ</text>
+<text id="3557000">その終末期に、ロスリックで見出された奇跡
 
 Toss a light that heals 300 HP for those near the point of impact.
 Scales with Spell Buff.
 
-Even those who had forgotten the caress and bounty of the Princess of Sunlight did their best to recall her image. The stories spun about her were most certainly childish, and yet gravely sincere.</text>
-<text id="3557010">A miracle discovered in the last days of Lothric.
+太陽の光の王女
+その癒しと恵みを忘れた人々は
+それでもなお、彼女の後姿を思い描き
+稚拙だが、真剣な物語を紡いだのだ</text>
+<text id="3557010">その終末期に、ロスリックで見出された奇跡
 
 Toss a light that heals 300 HP for those near the point of impact.
 Scales with Spell Buff. Range increased to 5 meters.
 
-Even those who had forgotten the caress and bounty of the Princess of Sunlight did their best to recall her image. The stories spun about her were most certainly childish, and yet gravely sincere.</text>
+太陽の光の王女
+その癒しと恵みを忘れた人々は
+それでもなお、彼女の後姿を思い描き
+稚拙だが、真剣な物語を紡いだのだ</text>
 </entries>
 </fmg>
