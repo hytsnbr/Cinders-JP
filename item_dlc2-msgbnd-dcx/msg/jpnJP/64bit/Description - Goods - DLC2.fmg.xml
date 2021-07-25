@@ -4,21 +4,22 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="315">This special throwing blade has a flat tip, and is wielded by guardians of the Church of Filianore.
+<text id="315">フィリアノールの教会守りたちが持つ
+切っ先の平らな薄刃。特殊な投擲武具
 
-Consume FP to project illusory blades which
-seek their targets.
+ＦＰを消費することで
+敵に向かい導かれるように飛ぶ
+薄刃の幻影を投じる
 Scales with Luck.
 
-Guardians of the Church, of whom few remain,
-watch over Princess Filianore's eternal slumber
-along with the Spears of the Church.</text>
-<text id="379">The Spears of the Church watch over the Princess' slumber, and this serves as proof of their fulfillment of their duty. 
-The embellished gold cloth is woven with a crest of young grass.
+いまや数少ない教会守りは、教会の槍と共に
+王女フィリアノールの永い眠りの番人である</text>
+<text id="379">王女フィリアノールの眠りを守る
+教会の槍たちが、その使命を果たした証
+若草の紋章のあしらわれた黄金の飾り布
 
-The Princess' knights proudly displayed these
-precious favors, which were most often seen
-swaying from their identical ceremonial spears.</text>
+それはかつて、王女の騎士たちの誇りであり
+特に謳われた、揃いの儀式槍にたなびいたという</text>
 <text id="600">%null%</text>
 <text id="601">%null%</text>
 <text id="602">%null%</text>
@@ -39,16 +40,15 @@ swaying from their identical ceremonial spears.</text>
 <text id="617">%null%</text>
 <text id="618">%null%</text>
 <text id="619">%null%</text>
-<text id="620">Proof of a pact, employed by the Judicator Giant.
-Briefly summons the eccentric Silver Knight Ledo.
+<text id="620">巨人の法官が召喚に用いる、契約の証
+異端の銀騎士、レドを一時的に召喚する
 
-Most bound by the Judicator's pact are not
-willing but rather impelled. Yet a rare few are
-linked to the giant by mutual friendship.
+法官の契約は、幾つかの事由で交わされる
+その多くは一方的な執行にすぎないが
+稀に友誼であり、取引であることもある
 
-This is a precious corroboration of such
-amiability, and the only one that manifested
-in physical form.</text>
+これは友誼の例であり
+それ故に、唯一つ形を残したのだろうか</text>
 <text id="621">%null%</text>
 <text id="622">%null%</text>
 <text id="623">%null%</text>
@@ -78,80 +78,73 @@ in physical form.</text>
 <text id="647">%null%</text>
 <text id="648">%null%</text>
 <text id="649">%null%</text>
-<text id="650">Online play item.
-A fragment of the matching ritual spears once
-held by the knights of Princess Filianore.
+<text id="650">オンラインプレイ専用アイテム
+王女フィリアノールの騎士たちが
+かつて揃い持ったという儀式槍の欠片
 
-They are the namesake of the Spears of the Church.
+それは「教会の槍」の名の由来である
 
-When Spears of the Church face unduly
-treacherous foes, this allows them to
-draw upon former majesty, and summon
-a row of upward-thrusting ritual spears.
-</text>
-<text id="651">Online play item.
-A fragment of the matching ritual spears once
-held by the knights of Princess Filianore.
+教会の槍が、真に危険な相手と対したとき
+使用により、かつての威勢を呼び起こし
+居並んで空を突く儀式槍を召喚する</text>
+<text id="651">オンラインプレイ専用アイテム
+王女フィリアノールの騎士たちが
+かつて揃い持ったという儀式槍の欠片
 
-These Divine Spears of gold were placed in
-the trusted hands of exalted Spears.
+黄金のそれは、特に聖槍と呼ばれ
+卓越した「槍」の手に委ねられるという
 
-When Spears of the Church face unduly
-treacherous foes, this allows them to
-draw upon former majesty, and summon
-a row of upward-thrusting ritual spears.
-</text>
-<text id="745">Soul of Slave Knight Gael.
-One of the twisted souls, steeped in strength.
+教会の槍が、真に危険な相手と対したとき
+使用により、かつての威勢を呼び起こし
+居並んで空を突く儀式槍を召喚する</text>
+<text id="745">奴隷騎士ゲールのソウル
+力を帯びた、異形のソウルのひとつ
 
-The red-hooded, wandering slave knight Gael
-sought the blood of the dark soul
-as pigment for the Painted World.
-But Gael knew he was no Champion,
-that the dark soul would likely ruin him,
-and that he had little hope of a safe return.</text>
-<text id="746">Soul of the demon prince.
-One of the twisted souls, steeped in strength.
+彷徨える奴隷騎士、赤頭巾のゲールは
+絵画世界の顔料のため、暗い魂の血を求めた
+だがゲールは、自らが英雄でないと知っていた
+暗い魂は彼を侵し、帰ることはないだろうと</text>
+<text id="746">デーモンの王子のソウル
+力を帯びた、異形のソウルのひとつ
 
-The demons, birthed from a common Chaos, share almost everything between them, even the pride of their prince, and his near-faded flame.
+ひとつの混沌から生じたデーモンたちは
+多くのものを共有する
+王子の誇り、その消えかけた炎ですらも
 
-So that the last demon standing may rekindle it.</text>
-<text id="747">Soul of Darkeater Midir.
-One of the twisted souls, steeped in strength.
+そして最後の一体が、それを再び灯したのだ</text>
+<text id="747">闇喰らいのミディールのソウル
+力を帯びた、異形のソウルのひとつ
 
-Midir, descendant of Archdragons, was raised
-by the gods, and owing to his immortality,
-was given a duty to eternally battle the dark,
-a duty that he would never forget, even after
-the gods perished.</text>
-<text id="2156">The small banner used by envoys of
-Great Lord Gwyn in the days of yore.
+古い竜の末裔ミディールは、神に育てられ
+朽ちぬが故に、永遠に闇を喰らう使命をもった
+神がとうに滅びた後も、忘れることはなかった</text>
+<text id="2156">古く大王グウィンの勅使が用いた小環旗
 
-Face the ringed cliff and hold the banner high
-to summon facilitators of transport.
+輪の岩壁を臨み掲げれば、運び手がやってくる
 
-For the pygmies, who took the dark soul,
-the Great Lord gifted the Ringed City,
-an isolated place at world's end, and his
-beloved youngest daughter, promising her
-that he would come for her when the day came.</text>
-<text id="2157">Umbral ash of the old stone-humped woman. With
-this, the shrine handmaid will prepare new items.
+大王は、闇の魂を得た小人に
+最果てに閉ざされた輪の都と
+愛しい末娘を贈ったという
 
-Things that have dreadfully run their course
-accrue at the great dreg-heap. This old woman
-was once the wet nurse of royalty.</text>
-<text id="2158">Blood of the dark soul that seeped from the
-hole within Slave Knight Gael. 
+いつか迎えをよこすと約して</text>
+<text id="2157">蓋かぶりの老女の遺灰
+祭祀場の侍女が、新たな品を用立てるだろう
 
-Used as pigment by his lady in Ariandel to depict a painted world.
+吹き溜まりには、成れの果てばかりが積もっていく
+老女とて、かつては貴人の乳母であった</text>
+<text id="2158">奴隷騎士ゲールの、虚ろに生じた暗い魂の血
 
-When Gael came upon the pygmy lords,
-he discovered that their blood had long ago
-dried, and so consumed the dark soul.</text>
-<text id="2159">A small, transparent stone that once graced the green young grass crest.
+アリアンデルの「お嬢様」が
+絵画世界を描くための顔料となる
 
-This semi-precious gem honors a Spear of Church after a battle well-fought, and is said to slightly enhance their blessing of protection.
+ゲールが小人の王たちに見えたとき
+彼らの血は、とうの昔に枯れ果てていた
+そして彼は、暗い魂を喰らった</text>
+<text id="2159">かつて若草の緑の紋章を飾ったという
+澄みきった、小さな半貴石
+
+戦いの後、教会の槍が手にする名誉であり
+与えられる加護の力を、僅かに増すという
 
 Grants additional HP, Stamina recovery and boosts damage absorption for a short duration.</text>
 <text id="10000">%null%</text>
@@ -237,97 +230,95 @@ Grants additional HP, Stamina recovery and boosts damage absorption for a short 
 <text id="10228">%null%</text>
 <text id="10229">%null%</text>
 <text id="10230">%null%</text>
-<text id="1376000">A memory of an old sword found deep within Midir.
-This sorcery uses souls to grant form to the
-thought, and attack with it.
+<text id="1376000">ミディールの深層にあった古い剣の記憶
+それをソウルにより形作り、攻撃する魔術
 
-Attacks are coupled with lightwaves,
-and sustaining the stance before attacking
-increases their speed and potency.
+攻撃は光波を伴い
+攻撃前の構えを継続することで
+その威力、速度が増す
 
-The sword is named after moonlight, but it is
-slightly different than the one fashioned of the
-paledrake Seath. Perhaps it is rooted in an
-older memory, from not long after the Beginning.</text>
-<text id="1376010">A memory of an old sword found deep within Midir.
-This sorcery uses souls to grant form to the
-thought, and attack with it.
+古い剣の名は、これもまた月光であるが
+白竜シースのそれとは、少し姿が異なる
+その記憶は、よりはじまりに近いようだ</text>
+<text id="1376010">ミディールの深層にあった古い剣の記憶
+それをソウルにより形作り、攻撃する魔術
 
-Attacks are coupled with lightwaves,
-and sustaining the stance before attacking
-increases their speed and potency.
+攻撃は光波を伴い
+攻撃前の構えを継続することで
+その威力、速度が増す
 
 Increases Poise Damage to 100.
 
-The sword is named after moonlight, but it is
-slightly different than the one fashioned of the
-paledrake Seath. Perhaps it is rooted in an
-older memory, from not long after the Beginning.</text>
-<text id="2458000">Pyromancy of Zoey, descendant of the desert
-pyromancers.
+古い剣の名は、これもまた月光であるが
+白竜シースのそれとは、少し姿が異なる
+その記憶は、よりはじまりに近いようだ</text>
+<text id="2458000">砂の呪術師の末裔、ゾーイの呪術
+炎を扇とし、大きく打ち払う
 
-Use repeatedly to brush the fan of flame left
-and right.
+また連続使用することで
+炎の扇は左右に打ち払われる
 
-Zoey possessed true beauty, as did all the
-desert pyromancers, but hers did not poison,
-and so she became the unassuming queen
-of the feeble ones. </text>
-<text id="2458010">Pyromancy of Zoey, descendant of the desert
-pyromancers.
+砂の呪術師の例に漏れず、ゾーイもまた美しい
+けれど彼女は、その美しさを毒とせず
+ただ卑小な者たちの、細やかな女王となった</text>
+<text id="2458010">砂の呪術師の末裔、ゾーイの呪術
+炎を扇とし、大きく打ち払う
 
-Use repeatedly to brush the fan of flame left
-and right.
+また連続使用することで
+炎の扇は左右に打ち払われる
 Can be used with no focus cost.
 
-Zoey possessed true beauty, as did all the
-desert pyromancers, but hers did not poison,
-and so she became the unassuming queen
-of the feeble ones. </text>
-<text id="2660000">The last flame lit by the demon prince.
-This pyromancy hurls a clump of chaos.
+砂の呪術師の例に漏れず、ゾーイもまた美しい
+けれど彼女は、その美しさを毒とせず
+ただ卑小な者たちの、細やかな女王となった</text>
+<text id="2660000">デーモンの王子が最後に灯した炎
+混沌としたその欠片を、投げつける呪術
 
-Upon impact, this clump of chaos seethes wildly, condenses briefly, then explodes violently.
+混沌の欠片は着弾地点で激しくたぎり
+一瞬の収縮の後、大きく爆発する
 
-To the demons, these clumps are shreds of life.</text>
-<text id="2660010">The last flame lit by the demon prince.
-This pyromancy hurls a clump of chaos.
+デーモンにとって、それは命の欠片だっ</text>
+<text id="2660010">デーモンの王子が最後に灯した炎
+混沌としたその欠片を、投げつける呪術
 
-Upon impact, this clump of chaos seethes wildly, condenses briefly, then explodes violently.
+混沌の欠片は着弾地点で激しくたぎり
+一瞬の収縮の後、大きく爆発する
 Increases Poise Damage to 100.
 
-To the demons, these clumps are shreds of life.</text>
-<text id="3509000">The few female knights who served in the age of
-the gods used this miracle for dragonslaying.
+デーモンにとって、それは命の欠片だった</text>
+<text id="3509000">神々の時代、数少ない女騎士たちが
+竜狩りに用いた奇跡
 
-Draw lightning bow to fire a lightning arrow.
+雷の弓を引き絞り、雷の矢を射る
 
-The lightning arrows offer a great improvement
-to the range of spears, and were said to have been used to pierce the eyes of dragons from afar.
-But remember, beautiful stories are always
-marked by embellishment.
-</text>
-<text id="3509010">The few female knights who served in the age of
-the gods used this miracle for dragonslaying.
+槍に比べて射程距離に優れ
+彼方から竜の瞳を射抜いたともいう
+美々しい物語には、誇張が付き物だ</text>
+<text id="3509010">神々の時代、数少ない女騎士たちが
+竜狩りに用いた奇跡
 
 Draw lightning bow to fire a lightning arrow with no focus cost.
 
-The lightning arrows offer a great improvement
-to the range of spears, and were said to have been used to pierce the eyes of dragons from afar.
-But remember, beautiful stories are always
-marked by embellishment.
-</text>
-<text id="3557000">A miracle discovered in the last days of Lothric.
+槍に比べて射程距離に優れ
+彼方から竜の瞳を射抜いたともいう
+美々しい物語には、誇張が付き物だ</text>
+<text id="3557000">その終末期に、ロスリックで見出された奇跡
 
 Toss a light that heals 300 HP for those near the point of impact.
 Scales with Spell Buff.
 
-Even those who had forgotten the caress and bounty of the Princess of Sunlight did their best to recall her image. The stories spun about her were most certainly childish, and yet gravely sincere.</text>
-<text id="3557010">A miracle discovered in the last days of Lothric.
+太陽の光の王女
+その癒しと恵みを忘れた人々は
+それでもなお、彼女の後姿を思い描き
+稚拙だが、真剣な物語を紡いだのだ</text>
+<text id="3557010">その終末期に、ロスリックで見出された奇跡
 
 Toss a light that heals 300 HP for those near the point of impact.
 Scales with Spell Buff. Range increased to 5 meters.
 
-Even those who had forgotten the caress and bounty of the Princess of Sunlight did their best to recall her image. The stories spun about her were most certainly childish, and yet gravely sincere.</text>
+太陽の光の王女
+その癒しと恵みを忘れた人々は
+それでもなお、彼女の後姿を思い描き
+稚拙だが、真剣な物語を紡いだのだ</text>
 </entries>
 </fmg>
