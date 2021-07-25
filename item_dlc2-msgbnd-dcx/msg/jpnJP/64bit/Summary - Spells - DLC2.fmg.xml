@@ -4,15 +4,15 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="1376000">Conceive old moonlight sword and attack</text>
+<text id="1376000">古き月光の剣を形作り、攻撃する</text>
 <text id="1376010">Conceive heavy old moonlight sword and attack</text>
-<text id="2458000">Make a large sweep with a fan of flame</text>
+<text id="2458000">炎を扇とし、大きく打ち払う</text>
 <text id="2458010">Make a large sweep with a fan of flame with no focus cost</text>
-<text id="2660000">Hurl chaos clump that seethes and explodes</text>
+<text id="2660000">混沌の欠片を投げつけ、たぎらせ、爆発させる</text>
 <text id="2660010">Hurl great chaos clump that seethes and explodes</text>
-<text id="3509000">Fire lightning arrow</text>
+<text id="3509000">雷の矢を射る</text>
 <text id="3509010">Refined Fire lightning arrow</text>
-<text id="3557000">Toss a light that heals those nearby impact point</text>
+<text id="3557000">光を投げつけ、着弾地点周囲のＨＰを回復する</text>
 <text id="3557010">Toss a light that heals those nearby impact point</text>
 </entries>
 </fmg>
