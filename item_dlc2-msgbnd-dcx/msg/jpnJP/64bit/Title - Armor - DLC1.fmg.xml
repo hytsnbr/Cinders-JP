@@ -4,24 +4,24 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="20000000">Vilhelm's Helm</text>
-<text id="20001000">Vilhelm's Armor</text>
-<text id="20002000">Vilhelm's Gauntlets</text>
-<text id="20003000">Vilhelm's Leggings</text>
-<text id="55500000">Slave Knight Hood</text>
-<text id="55501000">Slave Knight Armor</text>
-<text id="55502000">Slave Knight Gauntlets</text>
-<text id="55503000">Slave Knight Leggings</text>
-<text id="56500000">Ordained Hood</text>
-<text id="56501000">Ordained Dress</text>
-<text id="56503000">Ordained Trousers</text>
-<text id="58500000">Follower Helm</text>
-<text id="58501000">Follower Armor</text>
-<text id="58502000">Follower Gloves</text>
-<text id="58503000">Follower Boots</text>
-<text id="60500000">Millwood Knight Helm</text>
-<text id="60501000">Millwood Knight Armor</text>
-<text id="60502000">Millwood Knight Gauntlets</text>
-<text id="60503000">Millwood Knight Leggings</text>
+<text id="20000000">ヴィルヘルムの兜</text>
+<text id="20001000">ヴィルヘルムの鎧</text>
+<text id="20002000">ヴィルヘルムの手甲</text>
+<text id="20003000">ヴィルヘルムの足甲</text>
+<text id="55500000">奴隷騎士の頭巾</text>
+<text id="55501000">奴隷騎士の鎧</text>
+<text id="55502000">奴隷騎士の手甲</text>
+<text id="55503000">奴隷騎士の足甲</text>
+<text id="56500000">修道女のフード</text>
+<text id="56501000">修道女のドレス</text>
+<text id="56503000">修道女のズボン</text>
+<text id="58500000">幽鬼の兜</text>
+<text id="58501000">幽鬼の鎧</text>
+<text id="58502000">幽鬼の手袋</text>
+<text id="58503000">幽鬼のブーツ</text>
+<text id="60500000">ミルウッド騎士の兜</text>
+<text id="60501000">ミルウッド騎士の鎧</text>
+<text id="60502000">ミルウッド騎士の手甲</text>
+<text id="60503000">ミルウッド騎士の足甲</text>
 </entries>
 </fmg>
