@@ -3,3 +3,5 @@
 *.msgbnd.dcx
 *.msgbnd.dcx.bak
 *.dcx
+Yabber/
+*.bat
