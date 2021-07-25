@@ -4,119 +4,179 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="20000000">The black helm of Vilhelm, Knight of Londor, and a nice fit for any lean Hollow.
+<text id="20000000">痩せた亡者の黒い甲冑
+「ロンドールの騎士」ヴィルヘルムの兜
 
-This hollow knight, who served the three sisters who founded the Sable Church, was particularly loyal to the eldest, and was known as a cold-blooded hangman.
-
-Effect: increases Dark damage by 2.5%.</text>
-<text id="20001000">The black armor of Vilhelm, Knight of Londor, and a nice fit for any lean Hollow.
-
-This hollow knight, who served the three sisters who founded the Sable Church, was particularly loyal to the eldest, and was known as a cold-blooded hangman.
+黒教会の創始者たる三姉妹
+特にその長女に仕えた亡者の騎士は
+酷薄な葬送者として知られていた
 
 Effect: increases Dark damage by 2.5%.</text>
-<text id="20002000">The black gauntlets of Vilhelm, Knight of Londor, and a nice fit for any lean Hollow.
+<text id="20001000">痩せた亡者の黒い甲冑
+「ロンドールの騎士」ヴィルヘルムの鎧
 
-This hollow knight, who served the three sisters who founded the Sable Church, was particularly loyal to the eldest, and was known as a cold-blooded hangman.
-
-Effect: increases Dark damage by 2.5%.</text>
-<text id="20003000">The black leggings of Vilhelm, Knight of Londor, and a nice fit for any lean Hollow.
-
-This hollow knight, who served the three sisters who founded the Sable Church, was particularly loyal to the eldest, and was known as a cold-blooded hangman.
+黒教会の創始者たる三姉妹
+特にその長女に仕えた亡者の騎士は
+酷薄な葬送者として知られていた
 
 Effect: increases Dark damage by 2.5%.</text>
-<text id="55500000">A cloth hood issued to slave knights, colored red to vibrantly signify their stature.
+<text id="20002000">痩せた亡者の黒い甲冑
+「ロンドールの騎士」ヴィルヘルムの手甲
 
-Long ago, only the Undead served as slave knights, warriors used as fodder in the bleakest of battles.
+黒教会の創始者たる三姉妹
+特にその長女に仕えた亡者の騎士は
+酷薄な葬送者として知られていた
 
-They grew decrepit, their skin charred black and their bones twisted. Eventually they went outright mad, but were never relieved from duty.
+Effect: increases Dark damage by 2.5%.</text>
+<text id="20003000">痩せた亡者の黒い甲冑
+「ロンドールの騎士」ヴィルヘルムの足甲
+
+黒教会の創始者たる三姉妹
+特にその長女に仕えた亡者の騎士は
+酷薄な葬送者として知られていた
+
+Effect: increases Dark damage by 2.5%.</text>
+<text id="55500000">奴隷騎士に与えられる装束
+その立場を衆目に示す赤い頭巾
+
+かつて不死者だけが奴隷騎士として叙され
+あらゆる凄惨な戦いを強いられたという
+
+老いさらばえ、皮膚が焼け爛れ
+骨が歪み、正気などとうに失っても
+その戦いが終わることはなかった
+
+Effect: increases Dark damage by 2.5%.</text>
+<text id="55501000">奴隷騎士に与えられる鎧
+微細な意匠の施された名誉の品
+
+かつて不死者だけが奴隷騎士として叙され
+あらゆる凄惨な戦いを強いられたという
+
+老いさらばえ、皮膚が焼け爛れ
+骨が歪み、正気などとうに失っても
+その戦いが終わることはなかった
 
 Effect: reduces weapon stamina consumption by 5%.</text>
-<text id="55501000">Armor issued to slave knights. The fine craftsmanship made this a symbol of honor.
+<text id="55502000">奴隷騎士に与えられる手甲
+微細な意匠の施された名誉の品
 
-Long ago, only the Undead served as slave knights, warriors used as fodder in the bleakest of battles.
+かつて不死者だけが奴隷騎士として叙され
+あらゆる凄惨な戦いを強いられたという
 
-They grew decrepit, their skin charred black and their bones twisted. Eventually they went outright mad, but were never relieved from duty.
-
-Effect: reduces weapon stamina consumption by 5%.</text>
-<text id="55502000">Gauntlets issued to slave knights. The fine craftsmanship made this a symbol of honor.
-
-Long ago, only the Undead served as slave knights, warriors used as fodder in the bleakest of battles.
-
-They grew decrepit, their skin charred black and their bones twisted. Eventually they went outright mad, but were never relieved from duty.
+老いさらばえ、皮膚が焼け爛れ
+骨が歪み、正気などとうに失っても
+その戦いが終わることはなかった
 
 Effect: reduces weapon stamina consumption by 5%.</text>
-<text id="55503000">Leggings issued to slave knights. The fine craftsmanship made this a symbol of honor.
+<text id="55503000">奴隷騎士に与えられる足甲
+微細な意匠の施された名誉の品
 
-Long ago, only the Undead served as slave knights, warriors used as fodder in the bleakest of battles.
+かつて不死者だけが奴隷騎士として叙され
+あらゆる凄惨な戦いを強いられたという
 
-They grew decrepit, their skin charred black and their bones twisted. Eventually they went outright mad, but were never relieved from duty.
+老いさらばえ、皮膚が焼け爛れ
+骨が歪み、正気などとうに失っても
+その戦いが終わることはなかった
 
 Effect: reduces weapon stamina consumption by 5%.</text>
-<text id="56500000">Garb of Friede, Sister of the Painted World.
-A common black hood.
+<text id="56500000">絵画の修道女、フリーデの装束
+厚手の布を用いた薄青のドレス
 
-After renouncing everything, Friede discovered a people that she wished to protect, and assumed the precise form that they yearned for.
+彼女は全てを棄て、また守るべきものを見出した
+そして、彼らの望む姿をその身に纏ったのだ
 
 Effect: boosts magic defence by 5%.</text>
-<text id="56501000">Garb of Friede, Sister of the Painted World.
-A light blue dress sewn with thick fabric.
+<text id="56501000">絵画の修道女、フリーデの装束
+厚手の布を用いた薄青のドレス
 
-After renouncing everything, Friede discovered a people that she wished to protect, and assumed the precise form that they yearned for.
+彼女は全てを棄て、また守るべきものを見出した
+そして、彼らの望む姿をその身に纏ったのだ
 
 Effect: boosts magic defence by 5%.</text>
 <text id="56502000">%null%</text>
-<text id="56503000">Garb of Friede, Sister of the Painted World.
-Hidden beneath her light blue dress are the trousers of a swordsman.
+<text id="56503000">絵画の修道女、フリーデの装束
+薄青のドレスに隠されたそれは
+だが剣士のズボンである
 
-An offer of protection implies the eventual wielding of a blade and spilling of blood, as Friede learned during the establishment of the Sable Church.
+何かを守るのなら、いつか刃と死が必要になる
+かつて彼女が、黒教会を築いたときのように
 
 Effect: boosts magic defence by 5%.</text>
-<text id="58500000">Helm worn by the Farron Followers.
+<text id="58500000">ファランの幽鬼たちが用いた兜
 
-When a warrior of Farron fell to the Abyss, the tall, lean Followers, with their hollowed eyes, quietly appeared in groups to hunt them down.
+長身痩躯、虚ろな眼窩の戦士たちは
+ファランの戦士が深淵に飲まれたとき
+うっそりと現れ、集団でそれを狩ったという
 
-Farron and its Watchers fell to ruin, but the Followers survived as a wandering pack of Hollows.
-
-Effect: increases stamina damage by 25%.</text>
-<text id="58501000">Armor worn by the Farron Followers.
-
-When a warrior of Farron fell to the Abyss, the tall, lean Followers, with their hollowed eyes, quietly appeared in groups to hunt them down.
-
-Farron and its Watchers fell to ruin, but the Followers survived as a wandering pack of Hollows.
+そしてファランが滅びた後は
+望まれずさまよう、亡者の群れとなった
 
 Effect: increases stamina damage by 25%.</text>
-<text id="58502000">Gloves worn by the Farron Followers.
+<text id="58501000">ファランの幽鬼たちが用いた鎧
 
-When a warrior of Farron fell to the Abyss, the tall, lean Followers, with their hollowed eyes, quietly appeared in groups to hunt them down.
+長身痩躯、虚ろな眼窩の戦士たちは
+ファランの戦士が深淵に飲まれたとき
+うっそりと現れ、集団でそれを狩ったという
 
-Farron and its Watchers fell to ruin, but the Followers survived as a wandering pack of Hollows.
-
-Effect: increases stamina damage by 25%.</text>
-<text id="58503000">Boots worn by the Farron Followers.
-
-When a warrior of Farron fell to the Abyss, the tall, lean Followers, with their hollowed eyes, quietly appeared in groups to hunt them down.
-
-Farron and its Watchers fell to ruin, but the Followers survived as a wandering pack of Hollows.
+そしてファランが滅びた後は
+望まれずさまよう、亡者の群れとなった
 
 Effect: increases stamina damage by 25%.</text>
-<text id="60500000">Helm worn by knights of Millwood. Adorned with antlers believed to grow from the blessed beast of the Ethereal Oak.
+<text id="58502000">ファランの幽鬼たちが用いた手袋
 
-When the fabled Millwood forest was discovered it was a vacant ruin. The only thing left was the Ethereal Oak, stood rotting. No corpses were discovered, yet their belongings lay neatly on the ground.
+長身痩躯、虚ろな眼窩の戦士たちは
+ファランの戦士が深淵に飲まれたとき
+うっそりと現れ、集団でそれを狩ったという
+
+そしてファランが滅びた後は
+望まれずさまよう、亡者の群れとなった
+
+Effect: increases stamina damage by 25%.</text>
+<text id="58503000">ファランの幽鬼たちが用いたブーツ
+
+長身痩躯、虚ろな眼窩の戦士たちは
+ファランの戦士が深淵に飲まれたとき
+うっそりと現れ、集団でそれを狩ったという
+
+そしてファランが滅びた後は
+望まれずさまよう、亡者の群れとなった
+
+Effect: increases stamina damage by 25%.</text>
+<text id="60500000">ミルウッド騎士たちの兜
+霊樹の聖獣が冠するという
+鹿角があしらわれている
+
+伝承の森ミルウッドは、それが発見されたとき
+腐った霊樹のそびえる無人の遺跡だったという
+そこには死体ひとつなく
+すべてがひっそりと捨てられていた
 
 Effect: increases Strength by 2.</text>
-<text id="60501000">Armor worn by knights of Millwood. The charbronze breastplate and the thick black cape are adorned with the symbol of the Ethereal Oak.
+<text id="60501000">ミルウッド騎士たちの鎧
+焦銅の胸当にも、黒い厚手のマントにも
+霊樹のシンボルがあしらわれている
 
-When the fabled Millwood forest was discovered it was a vacant ruin. The only thing left was the Ethereal Oak, stood rotting. No corpses were discovered, yet their belongings lay neatly on the ground.
+伝承の森ミルウッドは、それが発見されたとき
+腐った霊樹のそびえる無人の遺跡だったという
+そこには死体ひとつなく
+すべてがひっそりと捨てられていた
 
 Effect: increases Strength by 2.</text>
-<text id="60502000">Charbronze gauntlets worn by knights of Millwood.
+<text id="60502000">ミルウッド騎士たちの焦銅の手甲
 
-When the fabled Millwood forest was discovered it was a vacant ruin. The only thing left was the Ethereal Oak, stood rotting. No corpses were discovered, yet their belongings lay neatly on the ground.
+伝承の森ミルウッドは、それが発見されたとき
+腐った霊樹のそびえる無人の遺跡だったという
+そこには死体ひとつなく
+すべてがひっそりと捨てられていた
 
 Effect: increases Strength by 2.</text>
-<text id="60503000">Charbronze leggings worn by knights of Millwood.
+<text id="60503000">ミルウッド騎士たちの焦銅の足甲
 
-When the fabled Millwood forest was discovered it was a vacant ruin. The only thing left was the Ethereal Oak, stood rotting. No corpses were discovered, yet their belongings lay neatly on the ground.
+伝承の森ミルウッドは、それが発見されたとき
+腐った霊樹のそびえる無人の遺跡だったという
+そこには死体ひとつなく
+すべてがひっそりと捨てられていた
 
 Effect: increases Strength by 2.</text>
 </entries>

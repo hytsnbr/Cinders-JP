@@ -4,209 +4,298 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="28501000">Ordinary garb from an ancient land of sorcery.
-The gold embellishments betray a faint residue of magic, but this clothing was never intended for battle.
+<text id="28501000">古い魔術の国の平服
+黄金の飾りは僅かな魔術を帯びているが
+本来、戦いのための装束ではない
 
 Effect: increases max FP by 5%.</text>
-<text id="28502000">These arm wrappings, sewn with violet cloth and  everyday use.
+<text id="28502000">金糸の刺繍が施された、紫布の腕帯
+本来は平服の帯として使用されるもの
 
-Yet they served well enough in many a battle, enwreathing the arms of one who would go on to embrace the sword.
-
-Effect: increases max FP by 5%.</text>
-<text id="28503000">Undergarments combined with an overlayer, the former never intended for public display.
-
-Indeed, all manner of things are bound to accrue at world's end.
+慣れぬ剣を持つための間に合わせは
+時を経て、戦いに馴染んでいる
 
 Effect: increases max FP by 5%.</text>
-<text id="29500000">Crown of Shira, knight in service to Filianore.
-Finely crafted with silver and fashioned with a pearl from a Man Eater Shell.
+<text id="28503000">布の下着と外履きの組み合わせ
+下着の方は、本来、公で露わにするものではない
 
-Shira delivered the crucified mad king to a darkroom, where she stayed, in her formal wear, even though none would see her.
+最果てには、色々なものが吹き溜まる
 
-Effect: boosts effect duration by 25%.</text>
-<text id="29501000">Armor of Shira, knight in service to Filianore.
-A rare women's piece from ancient times.
+Effect: increases max FP by 5%.</text>
+<text id="29500000">フィリアノールの騎士、シラの頭冠
+繊細な銀細工に、バイバルの真珠があしらわれている
 
-With a spun gold shawl draped over the silver breastplate and a green woven skirt, this armor offers a subdued yet refined elegance, apropos to both a handmaiden of the Princess and one whose veins coarse with royal blood.
-
-Effect: boosts effect duration by 25%.</text>
-<text id="29502000">Gloves of Shira, knight in service to Filianore.
-Crafted with carthamin leather and graced with brass buttons.
-
-One article of Shira's knight garb.
+狂王の磔を抱いて暗室に閉じ籠ったシラは
+誰のためでもなく、その正装を崩さなかった
 
 Effect: boosts effect duration by 25%.</text>
-<text id="29503000">Trousers of Shira, knight in service to Filianore.
-Made of carthamin leather boots over a silk underlayer.
+<text id="29501000">フィリアノールの騎士、シラの装束
+古い由来には珍しい女性用の鎧
 
-One article of Shira's knight garb.
+白銀の胸当に金糸のショール
+緑衣のスカートを組み合わせたそれは
+王女の侍女、そして王族の末裔に相応しく
+控えめだが上品な美しさを持っている
 
 Effect: boosts effect duration by 25%.</text>
-<text id="32000000">Steel helm of the amnesiac Lapp.
+<text id="29502000">フィリアノールの騎士、シラのグローブ
+紅花色のレザーを、真鍮のボタンで留めたもの
 
-This plate-armor helm, that covers the head cleanly without even slight gaps, provides heavy defense.
+彼女の騎士装束の一部である
 
-Quite fit to conceal a hollowed body, and indeed, one's very identity.
+Effect: boosts effect duration by 25%.</text>
+<text id="29503000">フィリアノールの騎士、シラのズボン
+絹の下履きと、紅花色のレザーブーツの組み合わせ
 
-Effect: boosts soul absorption by 2.5%.</text>
-<text id="32001000">Steel armor of the amnesiac Lapp.
+彼女の騎士装束の一部である
 
-This plate-armor body, that covers the torso cleanly without even slight gaps, provides heavy defense.
+Effect: boosts effect duration by 25%.</text>
+<text id="32000000">記憶を亡くしたラップの鉄の兜
 
-Quite fit to conceal a hollowed body, and indeed, one's very identity.
+防御効果の高い重甲冑であり
+隙間なくすっぽりと、頭部を覆い隠す
 
-Effect: boosts soul absorption by 2.5%.</text>
-<text id="32002000">Steel gauntlets of the amnesiac Lapp.
-
-These plate-armor gauntlets, that cover the arms cleanly without even a slight gap, provide heavy defense.
-
-Quite fit to conceal a hollowed body, and indeed, one's very identity.
-
-Effect: boosts soul absorption by 2.5%.</text>
-<text id="32003000">Steel leggings of the amnesiac Lapp.
-
-These plate-armor leggings, that cover the legs cleanly without even a slight gap, provide heavy defense.
-
-Quite fit to conceal a hollowed body, and indeed, one's very identity.
+備者の正体を隠すには亡者の体や、装
+きっと丁度よいだろう
 
 Effect: boosts soul absorption by 2.5%.</text>
-<text id="63500000">The hood of the Ringed Knights.
+<text id="32001000">記憶を亡くしたラップの鉄の鎧
 
-These knights don Abyss-tainted black cloth, with layer upon layer hiding their eyes.
+防御効果の高い重甲冑であり
+胴部全体を隙間なく覆い隠す
 
-This was nothing less than an attempt to reveal that which the seal of fire has occluded, a subtle defiance of the gods' wishes. 
+亡者の体や、装備者の正体を隠すには
+きっと丁度よいだろう
+
+Effect: boosts soul absorption by 2.5%.</text>
+<text id="32002000">記憶を亡くしたラップの鉄の手甲
+
+防御効果の高い重甲冑であり
+腕部全体を隙間なく覆い隠す
+
+亡者の体や、装備者の正体を隠すには
+きっと丁度よいだろう
+
+Effect: boosts soul absorption by 2.5%.</text>
+<text id="32003000">記憶を亡くしたラップの鉄の足甲
+
+防御効果の高い重甲冑であり
+脚部全体を隙間なく覆い隠す
+
+亡者の体や、装備者の正体を隠すには
+きっと丁度よいだろう
+
+Effect: boosts soul absorption by 2.5%.</text>
+<text id="63500000">輪の騎士たちのフード
+
+彼らは、深淵に浸された黒布を被り
+またその目を幾重にも覆う
+
+火の封がすべての
+見えざるものをかき消さぬよう
+それは、神々への小さな抵抗である
 
 Effect: boosts damage against Abyssal enemies by 5%.</text>
-<text id="63501000">Malformed black armor of the Ringed Knights.
-The armor of early men was forged in the Abyss, and betrays a smidgen of life.
+<text id="63501000">輪の騎士たちの、歪んだ黒い鎧
 
-For this reason the gods cast a seal of fire upon such armor, and those who possessed them.
+古い人の防具は、深淵によって鍛えられ
+僅かにだが生を帯びる
 
-Effect: boosts damage against Abyssal enemies by 5%.</text>
-<text id="63502000">Malformed black gauntlets of the Ringed Knights.
-The armor of early men was forged in the Abyss, and betrays a smidgen of life.
-
-For this reason the gods cast a seal of fire upon such armor, and those who possessed them.
+そしてそれ故に、持ち主たちと同様に
+神々に火の封を施されたという
 
 Effect: boosts damage against Abyssal enemies by 5%.</text>
-<text id="63503000">Malformed black leggings of the Ringed Knights.
-The armor of early men was forged in the Abyss, and betrays a smidgen of life.
+<text id="63502000">輪の騎士たちの、歪んだ黒い手甲
 
-For this reason the gods cast a seal of fire upon such armor, and those who possessed them.
+古い人の防具は、深淵によって鍛えられ
+僅かにだが生を帯びる
+
+そしてそれ故に、持ち主たちと同様に
+神々に火の封を施されたという
+
+Effect: boosts damage against Abyssal enemies by 5%.</text>
+<text id="63503000">輪の騎士たちの、歪んだ黒い足甲
+
+古い人の防具は、深淵によって鍛えられ
+僅かにだが生を帯びる
+
+そしてそれ故に、持ち主たちと同様に
+神々に火の封を施されたという
 
 Effect: boosts damage against Abyssal enemies by 5%.</text>
 <text id="64500000">Shadowy mass that covers the head of those who sought the dark soul.
 
 Effect: increases Dark damage by 2.5%.</text>
-<text id="64501000">Armor worn by the Harald Legion, who sought the dark soul.
+<text id="64501000">かつて暗い魂を求めたハーラルド戦士団の鎧
 
-The armor sank into the dark with the legion, where their cavities bloated in grotesque displays,　never again to fit any ordinarily-shaped body.
-
-Effect: increases Dark damage by 2.5%.</text>
-<text id="64502000">Gauntlets worn by the Harald Legion, who sought the dark soul.
-
-The gauntlets sank into the dark with the legion, the leather partly melted and the metal pieces showing signs of an unsightly bloating.
+それは戦士たちと共に闇に沈み
+空洞を抱え膨れた、醜い塊になり果てている
+まともな者の体型には、決して似合わないだろう
 
 Effect: increases Dark damage by 2.5%.</text>
-<text id="64503000">Leggings worn by the Harald Legion, who sought the dark soul.
+<text id="64502000">かつて暗い魂を求めたハーラルド戦士団の手甲
 
-The leggings sank into the dark with the legion, the leather partly melted and the metal pieces showing signs of an unsightly bloating.
-
-Effect: increases Dark damage by 2.5%.</text>
-<text id="67500000">Stark melted iron helm of the ancient Dragonslayer Armour.
-
-The Armour, defeated by the Champion of Ash in Lothric, was left ages to rust, until it slipped into an abyssal swamp, where it was possessed once again by the memory of the hunt.
+それは戦士たちと共に闇に沈み
+革部は半ば溶けて失われ
+金属部は、醜い膨張がはじまっている
 
 Effect: increases Dark damage by 2.5%.</text>
-<text id="67501000">Stark melted iron body armor of the ancient Dragonslayer Armour.
+<text id="64503000">かつて暗い魂を求めたハーラルド戦士団の足甲
 
-The Armour, defeated by the Champion of Ash in Lothric, was left ages to rust, until it slipped into an abyssal swamp, where it was possessed once again by the memory of the hunt.
-
-Effect: increases Dark damage by 2.5%.</text>
-<text id="67502000">Stark melted iron gauntlets of the ancient Dragonslayer Armour.
-
-The Armour, defeated by the Champion of Ash in Lothric, was left ages to rust, until it slipped into an abyssal swamp, where it was possessed once again by the memory of the hunt.
+それは戦士たちと共に闇に沈み
+革部は半ば溶けて失われ
+金属部は、醜い膨張がはじまっている
 
 Effect: increases Dark damage by 2.5%.</text>
-<text id="67503000">Stark melted iron leggings of the ancient Dragonslayer Armour.
+<text id="67500000">無骨で重い、熔鉄の兜
+古い竜狩りの名残
 
-The Armour, defeated by the Champion of Ash in Lothric, was left ages to rust, until it slipped into an abyssal swamp, where it was possessed once again by the memory of the hunt.
+かつてロスリックで
+灰の英雄に敗れたそれは
+ずっと捨ておかれ、深淵の沼に滑り落ち
+再び狩りの記憶に支配された
 
 Effect: increases Dark damage by 2.5%.</text>
-<text id="68500000">An empty head of a white-faced locust that rose from an abyssal swamp.
+<text id="67501000">無骨で重い、熔鉄の鎧
+古い竜狩りの名残
 
-The white-faced locusts were meant to beckon men to the dark with sermons, but most of them are unable to think past their own stomachs. Someone must rise to the occasion, and restore the path of righteousness.
+かつてロスリックで
+灰の英雄に敗れたそれは
+ずっと捨ておかれ、深淵の沼に滑り落ち
+再び狩りの記憶に支配された
+
+Effect: increases Dark damage by 2.5%.</text>
+<text id="67502000">無骨で重い、熔鉄の手甲
+古い竜狩りの名残
+
+かつてロスリックで
+灰の英雄に敗れたそれは
+ずっと捨ておかれ、深淵の沼に滑り落ち
+再び狩りの記憶に支配された
+
+Effect: increases Dark damage by 2.5%.</text>
+<text id="67503000">無骨で重い、熔鉄の足甲
+古い竜狩りの名残
+
+かつてロスリックで
+灰の英雄に敗れたそれは
+ずっと捨ておかれ、深淵の沼に滑り落ち
+再び狩りの記憶に支配された
+
+Effect: increases Dark damage by 2.5%.</text>
+<text id="68500000">深淵の沼に湧く白面の虫
+中身空っぽのその頭部
+
+白面の虫は、人を闇に誘う説教者のはずが
+いまや食欲に我を忘れるものばかりである
+正道を継ぐ者が必要なのだ
+
+きっと、君がそうなのだろう？
+深淵に湧き、火の時代に望まれぬ。虫も人も同じだ
+ましてこれを被るなら、姿まで同じじゃあないか
 
 Effect: increases max FP by 5%.</text>
-<text id="80500000">Helm of the company of knights who were sent to the Ringed City on an old king's orders.
+<text id="80500000">古く王命により、輪の都を訪れた騎士団の兜
 
-The knights sought the dark soul, but were so soundly crushed, they had little choice but to swear themselves to the Judicator Giant.
-
-Effect: increases max HP by 5%.</text>
-<text id="80501000">Armor of the company of knights who were sent to the Ringed City on an old king's orders.
-
-The knights sought the dark soul, but were so soundly crushed, they had little choice but to swear themselves to the Judicator Giant.
+闇の魂を求めた彼らは、だが一敗地に塗れ
+巨人の法官の、契約の一部になったという
 
 Effect: increases max HP by 5%.</text>
-<text id="80502000">Gauntlets of the company of knights who were sent to the Ringed City on an old king's orders.
+<text id="80501000">古く王命により、輪の都を訪れた騎士団の鎧
 
-The knights sought the dark soul, but were so soundly crushed, they had little choice but to swear themselves to the Judicator Giant.
-
-Effect: increases max HP by 5%.</text>
-<text id="80503000">Leggings of the company of knights who were sent to the Ringed City on an old king's orders.
-
-The knights sought the dark soul, but were so soundly crushed, they had little choice but to swear themselves to the Judicator Giant.
+闇の魂を求めた彼らは、だが一敗地に塗れ
+巨人の法官の、契約の一部になったという
 
 Effect: increases max HP by 5%.</text>
-<text id="81500000">Hood of the desert pyromancers, who once walked the halls of the Earthen Peak. It is said that the thin burgundy cloth breathes with magic.
+<text id="80502000">古く王命により、輪の都を訪れた騎士団の手甲
 
-Desert pyromancers, most of them female, were known for their great fans of flame, and enchanting looks.
+闇の魂を求めた彼らは、だが一敗地に塗れ
+巨人の法官の、契約の一部になったという
+
+Effect: increases max HP by 5%.</text>
+<text id="80503000">古く王命により、輪の都を訪れた騎士団の足甲
+
+闇の魂を求めた彼らは、だが一敗地に塗れ
+巨人の法官の、契約の一部になったという
+
+Effect: increases max HP by 5%.</text>
+<text id="81500000">かつての土の塔の住人、砂の呪術師のフード
+エンジ色の薄布は魔力を帯びているという
+
+砂の呪術師は、その多くが女性であり
+炎の扇と、魅惑的な容姿とで知られていた
 
 Effect: increases Fire damage by 2.5%.</text>
-<text id="81501000">Garb of the desert pyromancers, who once walked the halls of the Earthen Peak. It is said that the thin burgundy cloth breathes with magic.
+<text id="81501000">かつての土の塔の住人、砂の呪術師の上衣
+エンジ色の薄布は魔力を帯びているという
 
-Desert pyromancers, most of them female, were known for their great fans of flame, and enchanting looks.
-
-Effect: increases Fire damage by 2.5%.</text>
-<text id="81502000">Gloves of the desert pyromancers, who once walked the halls of the Earthen Peak. It is said that the thin burgundy cloth breathes with magic.
-
-Desert pyromancers, most of them female, were known for their great fans of flame, and enchanting looks.
+砂の呪術師は、その多くが女性であり
+炎の扇と、魅惑的な容姿とで知られていた
 
 Effect: increases Fire damage by 2.5%.</text>
-<text id="81503000">Skirt of the desert pyromancers, who once walked the halls of the Earthen Peak. It is said that the thin burgundy cloth breathes with magic.
+<text id="81502000">かつての土の塔の住人、砂の呪術師の手袋
+エンジ色の薄布は魔力を帯びているという
 
-Desert pyromancers, most of them female, were known for their great fans of flame, and enchanting looks.
+砂の呪術師は、その多くが女性であり
+炎の扇と、魅惑的な容姿とで知られていた
 
 Effect: increases Fire damage by 2.5%.</text>
-<text id="82500000">The purple hat of the witch Zullie, who intended to seduce Alva the Wayfarer, but eventually became his closest supporter, spending her entire life with him.
+<text id="81503000">かつての土の塔の住人、砂の呪術師のスカート
+エンジ色の薄布は魔力を帯びているという
 
-The pointed hat is a symbol of heretical magical crafts, and Zullie wore hers with an unspoken, but deep sense of pride.
+砂の呪術師は、その多くが女性であり
+炎の扇と、魅惑的な容姿とで知られていた
 
-Effect: increases Dark damage by 2.5%.</text>
-<text id="82501000">The purple garb of the witch Zullie, who intended to seduce Alva the Wayfarer, but eventually became his closest supporter, spending her entire life with him.
+Effect: increases Fire damage by 2.5%.</text>
+<text id="82500000">Tかつて放浪の騎士アルバを誘惑し
+後に彼の協力者として生涯を共にした
+魔女ジャーリーの紫の帽子
 
-It is said that Zullie the witch, who was never loved, nor loved another, experienced all manner of misfortune, and yet in the end, found her purpose in life.
-
-Effect: increases Dark damage by 2.5%.</text>
-<text id="82502000">The purple wrappings of the witch Zullie, who intended to seduce Alva the Wayfarer, but eventually became his closest supporter, spending her entire life with him.
-
-It is said that Zullie the witch, who was never loved, nor loved another, experienced all manner of misfortune, and yet in the end, found her purpose in life.
-
-Effect: increases Dark damage by 2.5%.</text>
-<text id="82503000">The purple trousers of the witch Zullie, who intended to seduce Alva the Wayfarer, but eventually became his closest supporter, spending her entire life with him.
-
-It is said that Zullie the witch, who was never loved, nor loved another, experienced all manner of misfortune, and yet in the end, found her purpose in life.
+とんがり帽子は異端の魔術の印であり
+彼女は密かに
+だが誇りを持ってそれを纏ったという
 
 Effect: increases Dark damage by 2.5%.</text>
-<text id="83500000">The purple veil of the witch Zullie, who intended to seduce Alva the Wayfarer, but eventually became his closest supporter, spending her entire life with him.
+<text id="82501000">かつて放浪の騎士アルバを誘惑し
+後に彼の協力者として生涯を共にした
+魔女ジャーリーの紫の上衣
 
-Zullie's veil was for travel, and to hide her affiliation with the misunderstood craft of witches.
+誰からも愛されず、誰も愛さなかった魔女は
+不遇の果て、生きることの意味を知ったという
+
+Effect: increases Dark damage by 2.5%.</text>
+<text id="82502000">かつて放浪の騎士アルバを誘惑し
+後に彼の協力者として生涯を共にした
+魔女ジャーリーの紫の腕帯
+
+誰からも愛されず、誰も愛さなかった魔女は
+不遇の果て、生きることの意味を知ったという
+
+Effect: increases Dark damage by 2.5%.</text>
+<text id="82503000">かつて放浪の騎士アルバを誘惑し
+後に彼の協力者として生涯を共にした
+魔女ジャーリーの紫のズボン
+
+誰からも愛されず、誰も愛さなかった魔女は
+不遇の果て、生きることの意味を知ったという
+
+Effect: increases Dark damage by 2.5%.</text>
+<text id="83500000">かつて放浪の騎士アルバを誘惑し
+後に彼の協力者として生涯を共にした
+魔女ジャーリーの紫のベール
+
+それは旅の装束であり
+自らの異端を隠すものであったという
 
 Effect: boosts effect duration by 25%.</text>
-<text id="84500000">An eye-occluding mask of unknown origin.
-Small cracks allow the wearer to see.
+<text id="84500000">由来の知れぬ目隠しの仮面
+小さな割れ目で視線は確保されている
 
-This purple steel creation has a certain resemblance to the Fire Keeper's crown, but the similarity is purely cosmetic.
+闇攻撃の威力を高めるが
+闇によるダメージも大きくなってしまう
+
+紫鉄のそれは、どこか火防女の頭冠に似ているが
+それは形ばかりのことだ
 
 Effect: boosts soul absorption by 2.5%.</text>
 </entries>
