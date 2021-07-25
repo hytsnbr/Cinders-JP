@@ -4,15 +4,18 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="10090">A green-rusted ornament of young grass, the crest of Princess Filianore.
+<text id="10090">緑に錆びた若草の飾り
+若草は王女フィリアノールの紋章である
 
 Restores 3 HP every second whilst worn.
 
 Enables the collection of Filianore's Spear Ornament from enemies.
 
-The Spears of the Church watch over the Princess' slumber, and when the church is compromised by a trespasser, the Judicator summons them as loyal spirits to eliminate the threat.
+教会の槍は、王女の眠りの守り人であり
+教会に不法者のあったとき、法官の召喚に応え
+誓約霊としてそれを狩る使命がある
 
-Loyal spirits summoned as Spears of the Church are granted a blessing of protection.
+そして教会の槍の誓約霊には、加護が与えられる
 </text>
 </entries>
 </fmg>
