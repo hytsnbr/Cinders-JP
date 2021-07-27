@@ -2510,7 +2510,7 @@ thought only to exist in legend...</text>
 <text id="60005002">The lake is swarming with them.</text>
 <text id="60005003">If only somebody could kill them...</text>
 <text id="60005004">Then I could move deeper into the catacombs.</text>
-<text id="60006000">...</text>
+<text id="60006000">...Scour the lands of Lothric...restore memories of the past...</text>
 <text id="60007000">Well, you are a rare visitor.</text>
 <text id="60007001">Welcome to the sanctum, ashen one.</text>
 <text id="60007002">If you seek the power of the magical arts, I may be able to help with that.</text>
@@ -2735,6 +2735,14 @@ thought only to exist in legend...</text>
 <text id="60044021">But do not bother me further.</text>
 <text id="60044030">Is this... some sort of a dream?</text>
 <text id="60044031">Of course, I accept your proposal.</text>
+<text id="60050000">The memory swirls...</text>
+<text id="60050001">Irritating thoughts emerge...</text>
+<text id="60050002">Afflicted thoughts emerge...</text>
+<text id="60050003">Pestering thoughts emerge...</text>
+<text id="60050004">Tormented thoughts emerge...</text>
+<text id="60050005">Amalgamation of anguish emerges!</text>
+<text id="60050006">Tranquility restored!</text>
+<text id="60060000">...Akseliane..</text>
 <text id="90000000"></text>
 <text id="90000001"></text>
 </entries>

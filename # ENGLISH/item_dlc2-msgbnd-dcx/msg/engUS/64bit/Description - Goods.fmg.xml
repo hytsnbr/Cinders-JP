@@ -947,6 +947,7 @@ Little Dusk's first sorcerer's staff eventually became a seedling, and then thre
 <text id="455">An old rusted copper coin.
 
 Crushing the coin boosts item discovery.
+Lasts until death or warp.
 
 Those who have lost their fortunes rely upon this superstitious practice, hoping to retrieve what was once theirs, and more.</text>
 <text id="456">Special brew of Siegward of Catarina.
@@ -957,7 +958,8 @@ Restores HP and temporarily boosts frost resistance.
 Leave it to Siegward to discover a drink that even an Undead can enjoy. Perhaps his long years spent Undead have left him wanting to drain a cup or two and revel as if he were still among the living.</text>
 <text id="457">A rusty old gold coin that surely has no currency.
 
-Crushing the coin gives a large, if temporary, boost to item discovery.
+Crushing the coin gives a large boost to item discovery.
+Lasts until death or warp.
 
 A rich man lost his fortune, but it returned to him twofold. He was swift to squander his retrieved fortune, smugly confident that it was bound to double once again.</text>
 <text id="458">Medicinal pellet made from crushed insects.
@@ -1119,10 +1121,10 @@ The power of the dragons seduced many, who subsequently fell to the Ancient Wyve
 One of the twisted souls, steeped in strength.
 
 Their duty was never forgotten, even when all else had.</text>
-<text id="703">Soul of Odessa, the Frostfire Colossus.
+<text id="703">Soul of Princess Yngvil, the frigid demon.
 One of the twisted souls, steeped in strength. 
 
-Chaos Flame, progenitor of demons, corrupted all those who opposed its usurpation of Eleum Loyce. Even the lion-hearted frostweaver was distorted by its roiling hunger.</text>
+Chaos Flame, progenitor of demons, corrupted all those who opposed its usurpation of Eleum Loyce. Even the lion-hearted princess Yngvil was distorted by its roiling hunger.</text>
 <text id="712">Soul of the champion Gundyr.
 One of the twisted souls, steeped in strength.
 
@@ -1274,10 +1276,10 @@ One of the twisted souls, steeped in strength.
 
 A visitor to the Undead Settlement, Aborr came to offer the services of himself and his brother Gavlan. 
 However, as the inhabitants of the settlement became hollow, so did he, leaving him unable to tell friend from foe.</text>
-<text id="752">Soul of the Herald of Winter
+<text id="752">Soul of Prince Dorthinus.
 One of the twisted souls, steeped in strength.
 
-Once a loyal knight, beholden to a vindictive king in distant lands. Although his original purpose has long been forgotten, his journey to Ariandel has awakened purpose anew.</text>
+Once a resplendent young prince, Prince Dorthinus has stewed in the malice brought forth by his failure to woo the heart of Princess Princess Yngvil.</text>
 <text id="753">Soul of the Rock, a legendary knight of yore.
 One of the twisted souls, steeped in strength.
 
@@ -1336,19 +1338,22 @@ Primordial fragment lost to the sands of time.
 Used at Affixing Table to affix accessories, enhancing their strength.
 </text>
 <text id="1000">Titanite shard for weapon reinforcement.
-Remnant of the past.
+
+Reinforces weapons and shields to +3.
 
 Titanite shards are fragments of
 the Legendary Slabs. Titanite is
 etched into weapons to reinforce.</text>
 <text id="1001">Titanite shard for weapon reinforcement.
-Remnant of the past.
+
+Reinforces weapons and shields to +6.
 
 Titanite shards are fragments of
 the Legendary Slabs. Titanite is
 etched into weapons to reinforce.</text>
 <text id="1002">Titanite chunk for weapon reinforcement.
-Remnant of the past.
+
+Reinforces weapons and shields to +9.
 
 Few records of chunks exist, and once one was
 discovered in Lothric, the race to locate
@@ -1356,7 +1361,8 @@ Legendary Slabs began, but there have been
 no reports of success.</text>
 <text id="1003">Titanite slab for weapon reinforcement,
 said to once belong to the gods.
-Remnant of the past.
+
+Reinforces weapons and shields to +10.
 
 Titanite slabs are smithing materials of the gods,
 and weapons reinforced with slabs will be admired
@@ -1432,10 +1438,10 @@ Offer to Irina of Carim or Scribe Vadan.</text>
 <text id="1150">Essence of the Old Chaos, touched by powerful frost magic.
 Only that which tamed the Chaos may be imbued with this mythical essence.
 
-Boosts Frostbite resistance by 50% during the Frostfire Colossus encounter.</text>
-<text id="1160">Northwarders may only become oracles of the war gods upon completing a journey of great hardship. Odessa chose to travel north, beyond where any life had traveled before. From the world's farthest reaches she returned with this crystal, emanating a frozen brilliance.
+Boosts Frostbite resistance by 50% during the Princess Yngvil encounter.</text>
+<text id="1160">Nobles of Eleum Loyce may only become oracles upon completing a journey of great hardship. Princess Yngvil chose to travel north, beyond where any life had traveled before. From the world's farthest reaches she returned with this crystal, emanating a frozen brilliance.
 
-Boosts Fire absorption by 25% during the Frostfire Colossus encounter.</text>
+Boosts Fire absorption by 25% during the Princess Yngvil encounter.</text>
 <text id="1250">A gem of infused titanite.
 Also known as stark stone.
 
@@ -1535,15 +1541,16 @@ Present to the statue in the Cathedral of the Deep to travel to Yorshka's church
 Present to the statue in Irithyll to travel to the Painted World of Ariandel, or vice versa.</text>
 <text id="2022">A broken tablet, enscribed with myths of old.
 
-Enables Hard mode. Irreversible.
+Enables Mythic mode. Irreversible.
 
 Effects:
-- Reduces absorptions by 25%.
-- Reduces soul absorption by 75%.
-- Reduces stamina recovery by 10.
-- Reduces aux resistances by 50%.
-- Removes the ability to sell items.
-- Removes the soul absorption bonus from Curses.</text>
+- You can no longer reinforce weaponry and shields.
+- Unlocks special offerings from Magnum Ursus.
+
+Modifiers:
+- Reduces absorptions by 33%.
+- Reduces aux resistances by 33%.
+</text>
 <text id="2023">The soul of a giant who perished in the Smouldering Lake.
 
 Present to the petrified giant in lower Smouldering Lake to travel up to the top of the lake.</text>
@@ -1950,12 +1957,14 @@ Once used, boosts the power of imbued dark, greatly increasing Dark attack tempo
 Once used, boosts the inherent physicality of a weapon, greatly increasing Physical attack temporarily.</text>
 <text id="3004">A rusty old coin that surely has no currency.
 
-Crushing the coin gives a temporary boost to soul gain.
+Crushing the coin gives a boost to soul gain.
+Lasts until death or warp.
 
 A rich man lost his fortune, but it returned to him twofold. He was swift to squander his retrieved fortune, smugly confident that it was bound to double once again.</text>
 <text id="3005">A rusty old silver coin that surely has no currency.
 
-Crushing the coin gives a large, if temporary, boost to soul gain.
+Crushing the coin gives a large boost to soul gain.
+Lasts until death or warp.
 
 A rich man lost his fortune, but it returned to him twofold. He was swift to squander his retrieved fortune, smugly confident that it was bound to double once again.</text>
 <text id="3018">Powerful bisque urn filled with dark energies. 
@@ -2065,6 +2074,9 @@ Take on the upper appearance of a skeleton.</text>
 <text id="3051">Consume to unleash the latent magic within.
 
 Take on the upper appearance of a murkman.</text>
+<text id="3052">Consume to unleash the latent magic within.
+
+Take on the appearance of a Humanity Sprite.</text>
 <text id="4000">A gem of infused titanite.
 Forged many common weapons.
 
@@ -2232,7 +2244,7 @@ Many a champion have fallen to the beasts that roam the lands of Lothric. Their 
 Use to absorb its latent power, granting immunity to status effects for 30 seconds.
 
 Many a champion have fallen to the beasts that roam the lands of Lothric. Their sacrifice will sustain others more worthy of strength.</text>
-<text id="4205">The fading soul of a fallen beserker.
+<text id="4205">The fading soul of a fallen berserker.
 
 Use to absorb its latent power, increasing stamina recovery by 100 for 30 seconds.
 
@@ -2551,7 +2563,7 @@ Read to revive the champions of yore and warp to Firelink Shrine.
 Those who cannot remember the past are condemned to repeat it...</text>
 <text id="5026">A worn tome that contains an account of a past heir of fire and its downfall.
 
-Read to revive the Frostfire Colossus and warp to the entrance of the boss arena.
+Read to revive the Princess Yngvil and warp to the entrance of the boss arena.
 
 Those who cannot remember the past are condemned to repeat it...</text>
 <text id="5027">A worn tome that contains an account of a past heir of fire and its downfall.
@@ -2571,7 +2583,7 @@ Read to revive Aborr and warp to the entrance of the boss arena.
 Those who cannot remember the past are condemned to repeat it...</text>
 <text id="5030">A worn tome that contains an account of a past heir of fire and its downfall.
 
-Read to revive the Herald of Winter and warp to the entrance of the boss arena.
+Read to revive the Prince Dorthinus and warp to the entrance of the boss arena.
 
 Those who cannot remember the past are condemned to repeat it...</text>
 <text id="5031">A worn tome that contains an account of a past heir of fire and its downfall.
@@ -2685,6 +2697,7 @@ This moss is said only to grow in locations of great suffering and loss. Alas, s
 <text id="8006">Gain souls</text>
 <text id="8007">Screenshot arena</text>
 <text id="8008">Reset treasures</text>
+<text id="8009">Enter new journey</text>
 <text id="10000">An illusionary emblem that will disguise your own armor as another.
 
 Applies illusionary helmet based on the Havel's Set.</text>
@@ -3891,6 +3904,57 @@ Applies illusionary helmet based on not wearing armor.</text>
 <text id="12331">An illusionary emblem that will disguise your own armor as another.
 
 Applies illusionary armor based on not wearing armor.</text>
+<text id="12340">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary helmet based on the Ironclad Set.</text>
+<text id="12341">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary armor based on the Ironclad Set.</text>
+<text id="12350">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary helmet based on the Sanctum Knight Set.</text>
+<text id="12351">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary armor based on the Sanctum Knight Set.</text>
+<text id="12360">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary helmet based on the Imported Set.</text>
+<text id="12361">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary armor based on the Imported Set.</text>
+<text id="12370">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary helmet based on the Stalwart Knight Set.</text>
+<text id="12371">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary armor based on the Stalwart Knight Set.</text>
+<text id="12380">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary helmet based on the Okami Set.</text>
+<text id="12381">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary armor based on the Okami Set.</text>
+<text id="12390">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary helmet based on the Eastern General Set.</text>
+<text id="12391">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary armor based on the Eastern General Set.</text>
+<text id="12401">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary armor based on the Eastern Wolf Set.</text>
+<text id="12410">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary helmet based on the Fallen Prince's Set.</text>
+<text id="12411">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary armor based on the Fallen Prince's Set.</text>
+<text id="12420">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary helmet based on the Eastern Commander Set.</text>
+<text id="12421">An illusionary emblem that will disguise your own armor as another.
+
+Applies illusionary armor based on the Eastern Commander Set.</text>
 <text id="20050">A blue phial concocted by Ritualist Ellie.
 
 Scoff down the phial to restore 20% HP to nearby active companions.</text>
@@ -3907,6 +3971,15 @@ Scoff down the phial to boost the damage of nearby active companions by 20% for 
 <text id="20054">A purple phial concocted by Ritualist Ellie.
 
 Scoff down the phial to boost the stamina of nearby active companions, allowing them to attack for longer. Lasts 30 seconds.</text>
+<text id="40000">A crumbling token.
+
+Exchange with the Fire Keeper for weaponry and spells</text>
+<text id="40001">A crumbling token.
+
+Exchange with the Fire Keeper for armor.</text>
+<text id="40002">A crumbling token.
+
+Exchange with the Fire Keeper for accessories.</text>
 <text id="1200000">Variation of Soul Arrow developed
 by sorcerers of the Undead Legion of Farron.
 
@@ -4333,7 +4406,8 @@ negating magic by denying its claim to physicality.
 <text id="1740000">Highly dangerous sorcery employed by Dragon
 School spooks. Only taught to trusted members.
 
-Releases dense mist that inflicts 15 Curse and  removes 0.2% HP per tick.
+Releases dense mist that inflicts 15 Curse per tick.
+Mist reduces Elemental absorption by 50% for 10 seconds on contact.
 Beware, as the caster is not immune to its effect.
 Lasts for 5 seconds.
 
@@ -4343,7 +4417,8 @@ The names of these learned sorcerers became feared for this gruesome spectacle.<
 <text id="1740010">Highly dangerous sorcery employed by Dragon
 School spooks. Only taught to trusted members.
 
-Releases dense lingering mist that inflicts 15 Curse and  removes 0.2% HP per tick.
+Releases dense lingering mist that inflicts 15 Curse per tick.
+Mist reduces Elemental absorption by 50% for 10 seconds on contact.
 Beware, as the caster is not immune to its effect.
 Lasts for 8 seconds.
 
@@ -4527,6 +4602,7 @@ virulent poison and a young lady.</text>
 <text id="2422000">Pyromancy of Carthus of the Sands.
 
 Emits an acid which corrodes enemies, draining 1 durability per tick.
+Acid reduces Physical absorption by 50% for 10 seconds on contact.
 Lasts 6 seconds.
 
 Carthus' swordsmen attached great value to victory,
@@ -4535,6 +4611,7 @@ For where is the honor in death and scoured bones?</text>
 <text id="2422010">Pyromancy of Carthus of the Sands.
 
 Emits an acid which corrodes enemies, draining 1 durability per tick.
+Acid reduces Physical absorption by 50% for 10 seconds on contact.
 Lasts 12 seconds.
 
 Carthus' swordsmen attached great value to victory,
@@ -4584,7 +4661,7 @@ Warriors of Carthus favored supplemental pyromancies such as this, which was use
 <text id="2435010">Pyromancy of Carthus of the Sands.
 Reinforces right weapon with flame.
 
-Increases Fire damage by 100 for 120 seconds.
+Increases Fire damage by 100 and reduces Stamina Consumption by 20% for 60 seconds.
 Scales with Spell Buff.
 
 Warriors of Carthus favored supplemental pyromancies such as this, which was used to enhance the curved blades of its swordsmen.</text>
@@ -5224,7 +5301,7 @@ only in fragments and whispers in remote regions.</text>
 <text id="3590010">Miracle once used in the great wars of the forgotten sun god.
 Reinforces right weapon with sunlight.
 
-Increases Lightning damage by 100 for 120 seconds.
+Increases Lightning damage by 100 and boosts damage against Hollow enemies by 20% for 60 seconds.
 Scales with Spell Buff.
 
 The power of the sun has never been forgotten, and its power burns bright.</text>
@@ -5242,7 +5319,7 @@ Perhaps this is better, as revenge is better left to the Blades.</text>
 to the Darkmoon covenant.
 Reinforces right weapon with Darkmoon light.
 
-Increases Magic damage by 100 for 120 seconds.
+Increases Magic damage by 100 and boosts damage against Abyssal enemies by 20% for 60 seconds.
 Scales with Spell Buff.
 
 Miracles of the Darkmoon are tales of revenge, but Captain Yorshka recites only for the sake of remembering her brother, without knowledge of its meaning.
@@ -5274,14 +5351,14 @@ The Queen's holy maiden Gertrude was visited by an angel, who revealed this tale
 Despite losing both her sight and her voice, she was determined to record the tale. Ordinary men cannot decipher her fragmentary scrawl, nor comprehend how it became the foundation of the Angelic faith of Lothric.</text>
 <text id="3760000">Miracle taught to Lothric Knights.
 
-Increases Physical damage by 60 and restores 5 HP every second for 60 seconds.
+Increases Physical damage by 60, restores 5 HP every second and boosts damage to undead enemies by 20% for 60 seconds.
 
 The Knight is one of the Three Pillars of Lothric,
 said to have strengthened ties with the High Priestess
 after the Scholars acquired the Grand Archives.</text>
 <text id="3760010">Miracle taught to Lothric Knights.
 
-Increases Physical damage by 75 and restores 5 HP every second for 120 seconds.
+Increases Physical damage by 75, restores 5 HP every second and boosts damage to undead enemies by 20% for 120 seconds.
 
 The Knight is one of the Three Pillars of Lothric,
 said to have strengthened ties with the High Priestess
@@ -5696,7 +5773,7 @@ Scales with Spell Buff.
 </text>
 <text id="4210010">An echo of Elfriede's black flame, the eldest amongst her sisters and leader of the Sable Church.
 
-Imbue right weapon with black flame, adding 100 Dark damage. Lasts 120 seconds.
+Imbue right weapon with black flame, adding 100 Dark damage and boosting damage against Demons by 20% for 60 seconds.
 Scales with Spell Buff.
 </text>
 <text id="4301000">One of the first hexes known by Dorhys the deranged evangelist.
