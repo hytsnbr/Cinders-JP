@@ -3,3 +3,8 @@
 *.msgbnd.dcx
 *.msgbnd.dcx.bak
 *.dcx
+*.exe
+*.dll
+*.bat
+*.config
+*.txt
