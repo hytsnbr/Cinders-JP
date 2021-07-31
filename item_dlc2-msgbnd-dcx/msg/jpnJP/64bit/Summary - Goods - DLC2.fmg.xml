@@ -4,8 +4,8 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="315">Throw illusory blades that seek foes</text>
-<text id="379">Proof of a Church Spear's fulfilment of duty</text>
+<text id="315">敵に向かい導かれるように飛ぶ、薄刃の幻影を投じる</text>
+<text id="379">教会の槍たちが、その使命を果たした証</text>
 <text id="600">%null%</text>
 <text id="601">%null%</text>
 <text id="602">%null%</text>
@@ -26,7 +26,7 @@
 <text id="617">%null%</text>
 <text id="618">%null%</text>
 <text id="619">%null%</text>
-<text id="620">Briefly summon the eccentric Silver Knight Ledo</text>
+<text id="620">異端の銀騎士、レドを一時的に召喚する</text>
 <text id="621">%null%</text>
 <text id="622">%null%</text>
 <text id="623">%null%</text>
@@ -56,14 +56,15 @@
 <text id="647">%null%</text>
 <text id="648">%null%</text>
 <text id="649">%null%</text>
-<text id="650">Summon a row of upwardly thrusting ritual spears</text>
-<text id="651">Summon a row of upwardly thrusting ritual spears</text>
-<text id="745">One of the twisted souls, steeped in strength</text>
-<text id="746">One of the twisted souls, steeped in strength</text>
-<text id="747">One of the twisted souls, steeped in strength</text>
-<text id="2156">Hold before the ringed cliff for delivery</text>
-<text id="2157">Shrine handmaid prepares new items</text>
-<text id="2158">Pigment to depict a painted world</text>
+<text id="650">null%</text>
+<text id="650">居並んで空を突く儀式槍を召喚する</text>
+<text id="651">居並んで空を突く儀式槍を召喚する</text>
+<text id="745">力を帯びた、異形のソウルのひとつ</text>
+<text id="746">力を帯びた、異形のソウルのひとつ</text>
+<text id="747">力を帯びた、異形のソウルのひとつ</text>
+<text id="2156">輪の岩壁を臨み掲げれば、運び手がやってくる</text>
+<text id="2157">祭祀場の侍女が、新たな品を用立てる</text>
+<text id="2158">絵画世界を描くための顔料となる</text>
 <text id="2159">Grants Spears of the Church blessing</text>
 <text id="10000">%null%</text>
 <text id="10001">%null%</text>
@@ -148,16 +149,16 @@
 <text id="10228">%null%</text>
 <text id="10229">%null%</text>
 <text id="10230">%null%</text>
-<text id="1376000">Conceive old moonlight sword and attack</text>
+<text id="1376000">古き月光の剣を形作り、攻撃する</text>
 <text id="1376010">Conceive heavy old moonlight sword and attack</text>
-<text id="1604000">Fires great dark soul dregs</text>
-<text id="2458000">Make a large sweep with a fan of flame</text>
+<text id="1604000">暗いソウルの大澱を放つ</text>
+<text id="2458000">炎を扇とし、大きく打ち払う</text>
 <text id="2458010">Make a large sweep with a fan of flame with no focus cost</text>
-<text id="2660000">Hurl chaos clump that seethes and explodes</text>
+<text id="2660000">混沌の欠片を投げつけ、たぎらせ、爆発させる</text>
 <text id="2660010">Hurl great chaos clump that seethes and explodes</text>
-<text id="3509000">Fire lightning arrow</text>
+<text id="3509000">雷の矢を射る</text>
 <text id="3509010">Fire lightning arrow with no focus cost</text>
-<text id="3557000">Toss a light that heals those nearby impact point</text>
-<text id="3557010">Toss a light that heals those nearby impact point</text>
+<text id="3557000">光を投げつけ、着弾地点周囲のＨＰを回復する</text>
+<text id="3557010">光を投げつけ、着弾地点周囲のＨＰを回復する</text>
 </entries>
 </fmg>

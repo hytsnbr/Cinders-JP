@@ -8,15 +8,16 @@
 <text id="2">&lt;?sysmsg@2?&gt;</text>
 <text id="3">&lt;?sysmsg@3?&gt;</text>
 <text id="4">&lt;?sysmsg@4?&gt;</text>
-<text id="5">Accept</text>
-<text id="6">Do Not Accept</text>
-<text id="11000">Drop item.
-Specify quantity.</text>
+<text id="5">同意する</text>
+<text id="6">同意しない</text>
+<text id="11000">このアイテムを捨てます
+捨てる数を選択してください</text>
 <text id="11001">%null%</text>
-<text id="11002">Reset item order?</text>
-<text id="11003">Drop item</text>
-<text id="12010">Cannot equip duplicate accessories</text>
-<text id="12021">Loss of attunement slots will cause &lt;?removeMagic?&gt; to be removed</text>
+<text id="11002">アイテムの並び順を初期状態に戻します</text>
+<text id="11003">このアイテムを捨てます</text>
+<text id="12010">同じアクセサリーを装備することはできません</text>
+<text id="12021">記憶スロットが減少するため
+魔法「&lt;?removeMagic?&gt;」をはずします</text>
 <text id="12022">%null%</text>
 <text id="12023">%null%</text>
 <text id="12024">%null%</text>
@@ -25,9 +26,10 @@ Specify quantity.</text>
 <text id="12027">%null%</text>
 <text id="12028">%null%</text>
 <text id="12029">%null%</text>
-<text id="12030">Insufficient strength to wield this weapon with one hand.
-Hold with both hands to use effectively.</text>
-<text id="12031">Unable to wield this weapon effectively with present stats</text>
+<text id="12030">この武器を片手で使用するには、筋力が足りません
+両手持ちの場合のみ、十分な性能を発揮します</text>
+<text id="12031">この武器を使用するには、必要能力値が足りません
+十分な性能を発揮しません</text>
 <text id="12032">%null%</text>
 <text id="12033">%null%</text>
 <text id="12034">%null%</text>
@@ -36,24 +38,24 @@ Hold with both hands to use effectively.</text>
 <text id="12037">%null%</text>
 <text id="12038">%null%</text>
 <text id="12039">%null%</text>
-<text id="12040">This accessory breaks when removed.
-OK to equip this accessory?</text>
-<text id="12041">This accessory breaks when removed.
-OK to unequip this accessory?</text>
-<text id="16000">Restore all settings to default values</text>
-<text id="16001">Cancel changes and exit</text>
-<text id="16100">Delete the message.</text>
-<text id="16500">Are you sure you want to quit the game?</text>
-<text id="16600">Reset gesture order</text>
-<text id="17800">Some players have not been evaluated</text>
+<text id="12040">このアクセサリーは、装備をはずすと壊れてしまいます
+装備しますか？</text>
+<text id="12041">このアクセサリーは、装備をはずすと壊れてしまいます
+装備をはずしますか？</text>
+<text id="16000">すべての設定を初期状態に戻します</text>
+<text id="16001">設定変更を破棄して戻ります</text>
+<text id="16100">メッセージを削除します</text>
+<text id="16500">ゲームを終了し、タイトル画面へ戻ります</text>
+<text id="16600">ジェスチャーの並び順を初期状態に戻します</text>
+<text id="17800">未評価のプレイヤーが存在します</text>
 <text id="17801">%null%</text>
 <text id="17802">%null%</text>
 <text id="17803">%null%</text>
-<text id="17804">You've obtained &lt;?getSoulNum?&gt; Souls</text>
-<text id="18000">Warp to selected bonfire</text>
-<text id="18001">No bonfires available for warping</text>
-<text id="18050">You are bound by the &lt;?pcOath?&gt; Covenant</text>
-<text id="18051">Abandon and join the &lt;?pcOath?&gt; Covenant?</text>
+<text id="17804">評価により&lt;?getSoulNum?&gt;のソウルを取得しました</text>
+<text id="18000">選択した篝火に転送します</text>
+<text id="18001">転送できる篝火がありません</text>
+<text id="18050">すでに誓約&lt;?pcOath?&gt;を交わしています</text>
+<text id="18051">これを破棄して、新しい誓約&lt;?pcOath?&gt;を交わしますか？</text>
 <text id="18052">%null%</text>
 <text id="18053">%null%</text>
 <text id="18054">%null%</text>
@@ -62,94 +64,93 @@ OK to unequip this accessory?</text>
 <text id="18057">%null%</text>
 <text id="18058">%null%</text>
 <text id="18059">%null%</text>
-<text id="18060">Restore your humanity?</text>
-<text id="18061">Offer your humanity?</text>
-<text id="18100">Send this phantom home?</text>
-<text id="18101">No phantom to send home</text>
-<text id="18200">Cannot use indictment</text>
-<text id="18201">Cannot use indictment</text>
-<text id="18400">Rate this message?</text>
-<text id="20020">Confirm reinforcement</text>
-<text id="20021">This will cancel reinforcement.
-Is this OK?</text>
-<text id="20022">Reset reinforcement.
-Is this OK?</text>
-<text id="20120">Trade for humanity</text>
-<text id="20121">This will cancel trade.
-Is this OK?</text>
-<text id="20122">Parameters will be reset.
-Is this OK?</text>
-<text id="22001">Already attuned</text>
-<text id="22002">Insufficient attunement slots</text>
-<text id="22003">No magic to attune</text>
-<text id="22004">Insufficient stats to use this magic</text>
-<text id="22005">Wrong covenant for this magic</text>
-<text id="23006">Cannot deposit additional items</text>
-<text id="23007">Cannot hold additional items</text>
-<text id="30000">Purchase for &lt;?demandSoul?&gt; souls?</text>
-<text id="30001">Purchase for &lt;?demandSoul?&gt; souls?</text>
-<text id="30002">Insufficient souls</text>
-<text id="30003">Your stock of this
-item is at maximum</text>
+<text id="18060">人間性を回復しますか？</text>
+<text id="18061">人間性を捧げますか？</text>
+<text id="18100">選択した霊体を元の世界に送還しますか？</text>
+<text id="18101">送還できる霊体がいません</text>
+<text id="18200">告罪符は使用できません</text>
+<text id="18201">告罪符は使用できません</text>
+<text id="18400">このメッセージを評価しますか？</text>
+<text id="20020">強化項目を決定します</text>
+<text id="20021">強化内容を破棄します
+よろしいですか？</text>
+<text id="20022">強化項目を初期化します
+よろしいですか？</text>
+<text id="20120">人間性との交換を行います</text>
+<text id="20121">交換内容を破棄します
+よろしいですか？</text>
+<text id="20122">初期化します
+よろしいですか？</text>
+<text id="22001">すでに記憶しています</text>
+<text id="22002">記憶スロットが足りません</text>
+<text id="22003">記憶できる魔法がありません</text>
+<text id="22004">この魔法を使用するには、必要能力値が足りません</text>
+<text id="22005">この魔法を使用するには、誓約が不適切です</text>
+<text id="23006">これ以上、アイテムを預けることはできません</text>
+<text id="23007">これ以上、アイテムを所持することはできません</text>
+<text id="30000">&lt;?demandSoul?&gt;ソウルで購入しますか？</text>
+<text id="30001">&lt;?demandSoul?&gt;ソウルで購入しますか？</text>
+<text id="30002">ソウルが足りません</text>
+<text id="30003">このアイテムを
+これ以上所持することはできません</text>
 <text id="30004">%null%</text>
 <text id="30005">%null%</text>
-<text id="30006">No items to purchase</text>
-<text id="30007">Cannot hold additional items</text>
-<text id="30100">Specify quantity to feed.
-Souls gained: &lt;?sellSouls?&gt;</text>
-<text id="30101">Cannot feed this item</text>
-<text id="30102">No items to feed</text>
-<text id="30103">Feed this item?</text>
-<text id="31000">Repair for &lt;?demandSoul?&gt; souls?</text>
-<text id="31001">Insufficient souls</text>
-<text id="31002">No equipment requires repair</text>
-<text id="31003">Cannot repair crystal weapon</text>
-<text id="32000">Reinforce &lt;?itemNameBeforeForge?&gt;
-into &lt;?itemNameAfterForge?&gt;?</text>
-<text id="32001">Insufficient souls</text>
-<text id="32002">Insufficient materials</text>
-<text id="32003">No weapons for reinforcement</text>
+<text id="30006">購入できるアイテムがありません</text>
+<text id="30007">これ以上、アイテムを所持することはできません</text>
+<text id="30100">食べさせる数を選択してください
+入手ソウル：&lt;?sellSouls?&gt;</text>
+<text id="30101">このアイテムは食べさせられません</text>
+<text id="30102">食べさせるアイテムがありません</text>
+<text id="30103">このアイテムを食べさせますか？</text>
+<text id="31000">&lt;?demandSoul?&gt;ソウルで修理しますか？</text>
+<text id="31001">ソウルが足りません</text>
+<text id="31002">修理が必要な武器、防具はありません</text>
+<text id="31003">結晶武器は修理できません</text>
+<text id="32000">&lt;?itemNameBeforeForge?&gt;から
+&lt;?itemNameAfterForge?&gt;に強化しますか？</text>
+<text id="32001">ソウルが足りません</text>
+<text id="32002">素材が足りません</text>
+<text id="32003">強化できる武器がありません</text>
 <text id="32004">%null%</text>
 <text id="32005">%null%</text>
-<text id="32006">Undo ascension?
-Materials used for ascension will be lost.</text>
-<text id="32007">Cannot reinforce this weapon.
-Reinforcement would result in exceeding inventory limit.</text>
+<text id="32006">進化をリセットしますか？
+リセットしても、今まで使用した素材は戻りません</text>
+<text id="32007">強化後の武器が所持可能個数を越えてしまいます
+この武器を強化できません</text>
 <text id="32008">%null%</text>
-<text id="32009">Cannot restore crystal weapons</text>
-<text id="32010">No armor for reinforcing</text>
-<text id="32011">No weapons for ascension</text>
-<text id="32012">Reinforce &lt;?itemNameBeforeForge?&gt;
-into &lt;?itemNameAfterForge?&gt;?</text>
-<text id="32013">Ascend &lt;?itemNameBeforeForge?&gt;
-to &lt;?itemNameAfterForge?&gt;?</text>
-<text id="32014">Cannot reinforce this armor.
-Reinforcement would result in exceeding inventory limit.</text>
-<text id="32015">Cannot ascend this armor.
-Ascension would result in exceeding inventory limit.</text>
+<text id="32009">結晶の武器はリセットできません</text>
+<text id="32010">強化できる防具がありません</text>
+<text id="32011">進化できる武器がありません</text>
+<text id="32012">&lt;?itemNameBeforeForge?&gt;から
+&lt;?itemNameAfterForge?&gt;に強化しますか？</text>
+<text id="32013">&lt;?itemNameBeforeForge?&gt;から
+&lt;?itemNameAfterForge?&gt;に進化させますか？</text>
+<text id="32014">強化後の防具が所持可能個数を越えてしまいます
+この防具を強化できません</text>
+<text id="32015">進化後の武器が所持可能個数を越えてしまいます
+この武器を進化できません</text>
 <text id="32016">%null%</text>
 <text id="32017">%null%</text>
 <text id="32018">%null%</text>
 <text id="32019">%null%</text>
-<text id="32020">&lt;?itemNameBeforeForge?&gt;
-reinforced into &lt;?itemNameAfterForge?&gt;.</text>
-<text id="32021">Restored &lt;?itemNameBeforeForge?&gt;
-to &lt;?itemNameAfterForge?&gt;.</text>
-<text id="32022">&lt;?itemNameBeforeForge?&gt;
-ascended to &lt;?itemNameAfterForge?&gt;.</text>
-<text id="32023">&lt;?itemNameBeforeForge?&gt;
-reinforced into &lt;?itemNameAfterForge?&gt;.</text>
+<text id="32020">&lt;?itemNameBeforeForge?&gt;から
+&lt;?itemNameAfterForge?&gt;に強化しました</text>
+<text id="32021">&lt;?itemNameBeforeForge?&gt;から
+&lt;?itemNameAfterForge?&gt;に進化をリセットしました</text>
+<text id="32022">&lt;?itemNameBeforeForge?&gt;から
+&lt;?itemNameAfterForge?&gt;に進化させました</text>
+<text id="32023">&lt;?itemNameBeforeForge?&gt;から
+&lt;?itemNameAfterForge?&gt;に強化しました</text>
 <text id="41000">&lt;?sysmsg@41000?&gt;</text>
-<text id="42000">Cancel character creation and return to title screen?</text>
-<text id="42001">Character name required</text>
-<text id="42002">Enter character name</text>
-<text id="42003">OK to start game with this character?</text>
-<text id="42500">Cancel character creation and return to
-title screen?</text>
-<text id="43001">Changing gender will cause
-edited face data to be lost.
-Change gender?</text>
-<text id="44000">Leave this message?</text>
+<text id="42000">作成中のキャラクターを破棄してタイトルに戻りますか？</text>
+<text id="42001">キャラクターの名前が入力されていません</text>
+<text id="42002">キャラクターの名前を入力します</text>
+<text id="42003">このキャラクターでゲームをはじめます。よろしいですか？</text>
+<text id="42500">作成中のキャラクターを破棄してタイトルに戻りますか？</text>
+<text id="43001">性別を変更すると
+編集した顔の内容が失われます
+変更しますか？</text>
+<text id="44000">このメッセージを書きますか？</text>
 <text id="44001">%null%</text>
 <text id="44002">%null%</text>
 <text id="44003">%null%</text>
@@ -159,8 +160,8 @@ Change gender?</text>
 <text id="44007">%null%</text>
 <text id="44008">%null%</text>
 <text id="44009">%null%</text>
-<text id="44010">Leave a message?</text>
-<text id="44500">Erase this message?</text>
+<text id="44010">メッセージを書きますか？</text>
+<text id="44500">このメッセージを消しますか？</text>
 <text id="45000">&lt;?sysmsg@45000?&gt;</text>
 <text id="45001">&lt;?sysmsg@45001?&gt;</text>
 <text id="45100">&lt;?sysmsg@45100?&gt;</text>
