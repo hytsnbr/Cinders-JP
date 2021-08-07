@@ -1,6 +1,7 @@
-*.msgbnd.dcx
-*.msgbnd.dcx.bak
+*.fmg
+*.fmg.bak
 *.dcx
+*.bak
 *.bat
 *.txt
 \# RESOURCES/
