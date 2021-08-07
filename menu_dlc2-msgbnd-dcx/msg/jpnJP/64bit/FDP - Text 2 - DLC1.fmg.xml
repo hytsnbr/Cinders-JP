@@ -4,90 +4,97 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="60017">Special Straight Sword</text>
-<text id="60046">Special Thrusting Sword</text>
-<text id="60086">Reaper</text>
-<text id="70100">Lion Stance</text>
-<text id="70101">Elfriede's Blackflame</text>
-<text id="70102">Prying Wedge</text>
-<text id="70103">Quill Dart</text>
-<text id="70104">Warcry</text>
-<text id="70105">Earthen Wrath</text>
-<text id="70106">Breathe Fire</text>
-<text id="70107">Quake</text>
-<text id="70108">Hurl Spear</text>
-<text id="70109">Elfriede's Stance</text>
-<text id="70110">Raptor Flurry</text>
-<text id="70111">Pierce Earth</text>
-<text id="70112">Awakening</text>
-<text id="70113">Parting Flame</text>
-<text id="211111">The Painted World of Ariandel</text>
-<text id="211400">Sister Friede</text>
-<text id="211401">Snowfield</text>
-<text id="211402">Rope Bridge Cave</text>
-<text id="211403">Corvian Settlement</text>
-<text id="211404">Snowy Mountain Pass</text>
-<text id="211405">Ariandel Chapel</text>
+<text id="60017">特殊直剣</text>
+<text id="60046">特殊刺剣</text>
+<text id="60086">鎌</text>
+<text id="70100">獅子の構え</text>
+<text id="70101">エルフリーデの黒炎</text>
+<text id="70102">崩しの連撃</text>
+<text id="70103">投げ羽</text>
+<text id="70104">ウォークライ</text>
+<text id="70105">大地の怒り</text>
+<text id="70106">炎吹き</text>
+<text id="70107">地鳴り</text>
+<text id="70108">投げ槍</text>
+<text id="70109">エルフリーデの構え</text>
+<text id="70110">猛禽の連撃</text>
+<text id="70111">地射ち</text>
+<text id="70112">覚醒</text>
+<text id="70113">送り火</text>
+<text id="211111">アリアンデル絵画世界</text>
+<text id="211400">修道女フリーデ</text>
+<text id="211401">雪原</text>
+<text id="211402">吊り橋を臨む洞</text>
+<text id="211403">鴉村</text>
+<text id="211404">雪の山道</text>
+<text id="211405">アリアンデルの礼拝所</text>
 <text id="211406">Winter's Rest</text>
-<text id="211407">Depths of the Painting</text>
+<text id="211407">絵画の底</text>
 <text id="211408">Dunnel's Respite</text>
-<text id="331150">Combatant</text>
-<text id="331151">Combatant</text>
-<text id="331152">Combatant</text>
-<text id="331153">Combatant</text>
-<text id="331154">Combatant</text>
-<text id="331155">Combatant</text>
-<text id="331156">Combatant</text>
-<text id="331157">Combatant</text>
-<text id="331158">Combatant</text>
-<text id="331159">Combatant</text>
-<text id="331200">Win streak</text>
+<text id="331150">闘士</text>
+<text id="331151">闘士</text>
+<text id="331152">闘士</text>
+<text id="331153">闘士</text>
+<text id="331154">闘士</text>
+<text id="331155">闘士</text>
+<text id="331156">闘士</text>
+<text id="331157">闘士</text>
+<text id="331158">闘士</text>
+<text id="331159">闘士</text>
+<text id="331200">撃破数</text>
 <text id="401330">ASHES OF ARIANDEL</text>
-<text id="506000">Undead Match</text>
-<text id="506100">Match Format</text>
-<text id="506101">Arena</text>
-<text id="506102">Password Matchmaking</text>
-<text id="506103">Enter Match</text>
-<text id="506104">Cancel</text>
+<text id="506000">不死の闘技</text>
+<text id="506100">闘技形式</text>
+<text id="506101">闘技場</text>
+<text id="506102">合言葉マッチング</text>
+<text id="506103">参戦</text>
+<text id="506104">中止</text>
 <text id="506105">%null%</text>
 <text id="506106">%null%</text>
 <text id="506107">%null%</text>
 <text id="506108">%null%</text>
 <text id="506109">%null%</text>
-<text id="506110">Duel Honor</text>
-<text id="506111">Brawl/Co-op Match Honor</text>
-<text id="506200">Duel</text>
-<text id="506201">2 Player Brawl</text>
-<text id="506202">4 Player Brawl</text>
-<text id="506203">6 Player Brawl</text>
-<text id="506204">2 Versus 2</text>
-<text id="506205">3 Versus 3</text>
-<text id="506206">Brawl (group)</text>
-<text id="506207">Co-op Match (group)</text>
-<text id="506300">Random</text>
-<text id="506301">Grand Roof</text>
-<text id="506302">Dragon Ruins</text>
-<text id="506303">Kiln of Flame</text>
-<text id="506400">One on one. Fight till one has fallen.
-Use of Estus Flask is forbidden.
-Use of Ashen Estus Flask is limited.</text>
-<text id="506401">Every man for himself.
-Compete for the most kills within the time limit.
-Use of Estus Flask and Ashen Estus Flask is limited.</text>
-<text id="506402">Every man for himself.
-Compete for the most kills within the time limit.
-Use of Estus Flask and Ashen Estus Flask is limited.</text>
-<text id="506403">Every man for himself.
-Compete for the most kills within the time limit.
-Use of Estus Flask and Ashen Estus Flask is limited.</text>
-<text id="506404">Combatants are divided into two teams.
-Compete for the most kills within the time limit.
-Use of Estus Flask and Ashen Estus Flask is limited.</text>
-<text id="506405">Combatants are divided into two teams.
-Compete for the most kills within the time limit.
-Use of Estus Flask and Ashen Estus Flask is limited.</text>
-<text id="506406">Join either 4 Player Brawl or 6 Player Brawl.</text>
-<text id="506407">Join either 2 Versus 2 or 3 Versus 3.</text>
-<text id="506500">Greatest Combatant: &lt;?mvpName?&gt;</text>
+<text id="506110">決闘の名誉</text>
+<text id="506111">乱闘・共闘の名誉</text>
+<text id="506200">決闘</text>
+<text id="506201">乱闘 (2人)</text>
+<text id="506202">乱闘 (4人)</text>
+<text id="506203">乱闘 (6人)</text>
+<text id="506204">共闘 (2対2)</text>
+<text id="506205">共闘 (3対3)</text>
+<text id="506206">乱闘 (多人数)</text>
+<text id="506207">共闘 (多人数)</text>
+<text id="506300">どこでも</text>
+<text id="506301">大屋根</text>
+<text id="506302">古竜遺跡</text>
+<text id="506303">火の炉</text>
+<text id="506400">1対1で、どちらかの撃破まで戦います
+エスト瓶は使用できません
+エストの灰瓶は限られた回数だけ使用できます</text>
+<text id="506401">全員が敵となり
+制限時間内の撃破数を競います
+エスト瓶、エストの灰瓶は
+限られた回数だけ使用できます</text>
+<text id="506402">全員が敵となり
+制限時間内の撃破数を競います
+エスト瓶、エストの灰瓶は
+限られた回数だけ使用できます</text>
+<text id="506403">全員が敵となり
+制限時間内の撃破数を競います
+エスト瓶、エストの灰瓶は
+限られた回数だけ使用できます</text>
+<text id="506404">2つのチームに別れ
+制限時間内の撃破数を競います
+エスト瓶、エストの灰瓶は
+限られた回数だけ使用できます</text>
+<text id="506405">2つのチームに別れ
+制限時間内の撃破数を競います
+エスト瓶、エストの灰瓶は
+限られた回数だけ使用できます</text>
+<text id="506406">乱闘 (4人)または乱闘 (6人)の
+いずれかに参戦します</text>
+<text id="506407">共闘 (2対2)または共闘 (3対3)の
+いずれかに参戦します</text>
+<text id="506500">最高の闘士：&lt;?mvpName?&gt;</text>
 </entries>
 </fmg>

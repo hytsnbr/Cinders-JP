@@ -5,24 +5,24 @@
 <bigendian>False</bigendian>
 <entries>
 <text id="0">%null%</text>
-<text id="27000">Slave Knight Gael</text>
-<text id="37000">Amnesiac Lapp</text>
-<text id="38000">Shira, Knight of Filianore</text>
+<text id="27000">奴隷騎士ゲール</text>
+<text id="37000">記憶を亡くしたラップ</text>
+<text id="38000">フィリアノールの騎士、シラ</text>
 <text id="39000">%null%</text>
-<text id="40000">Stone-humped Hag</text>
-<text id="45000">Halflight, Spear of the Church</text>
-<text id="46000">Desert Pyromancer Zoey</text>
-<text id="47000">Silver Knight Ledo</text>
-<text id="48000">Seeker of the Spurned</text>
-<text id="49000">Moaning Knight</text>
-<text id="890600">Divine Spear Monument</text>
-<text id="890700">Purging Monument</text>
-<text id="900218">Spear of the Church</text>
-<text id="905020">Demon from Below</text>
-<text id="905021">Demon in Pain</text>
-<text id="905022">Demon Prince</text>
-<text id="905023">Demon Prince</text>
-<text id="906200">Slave Knight Gael</text>
+<text id="40000">蓋かぶりの老女</text>
+<text id="45000">教会の槍、ハーフライト</text>
+<text id="46000">砂の呪術師、ゾーイ</text>
+<text id="47000">銀騎士レド</text>
+<text id="48000">忌み探し</text>
+<text id="49000">呻きの騎士</text>
+<text id="890600">聖槍の碑</text>
+<text id="890700">解呪の碑</text>
+<text id="900218">教会の槍</text>
+<text id="905020">うろ底のデーモン</text>
+<text id="905021">傷ついたデーモン</text>
+<text id="905022">デーモンの王子</text>
+<text id="905023">デーモンの王子</text>
+<text id="906200">奴隷騎士ゲール</text>
 <text id="906201">%null%</text>
 <text id="906202">%null%</text>
 <text id="906203">%null%</text>
@@ -32,6 +32,6 @@
 <text id="906207">%null%</text>
 <text id="906208">%null%</text>
 <text id="906209">%null%</text>
-<text id="906210">Darkeater Midir</text>
+<text id="906210">闇喰らいのミディール</text>
 </entries>
 </fmg>

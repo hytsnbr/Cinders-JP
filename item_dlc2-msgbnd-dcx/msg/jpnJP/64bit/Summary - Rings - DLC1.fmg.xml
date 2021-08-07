@@ -4,11 +4,11 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="21000">Increases frost resistance</text>
-<text id="21001">Increases frost resistance</text>
-<text id="21002">Increases frost resistance</text>
-<text id="21003">Increases frost resistance</text>
-<text id="21004">Increases frost resistance</text>
-<text id="21005">Increases frost resistance</text>
+<text id="21000">冷気耐性を高める</text>
+<text id="21001">冷気耐性を高める</text>
+<text id="21002">冷気耐性を高める</text>
+<text id="21003">冷気耐性を高める</text>
+<text id="21004">冷気耐性を高める</text>
+<text id="21005">冷気耐性を高める</text>
 </entries>
 </fmg>

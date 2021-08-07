@@ -4,9 +4,11 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="102004">After 30 items, each additionally placed item replaces the oldest item. Place item anyway?</text>
-<text id="506013">Combatants on friendly team did not show up in time, and matching was cancelled</text>
-<text id="506014">Can be selected in co-op matches with the password applies to "All"</text>
-<text id="506015">Can be selected for co-op matches with a password in use</text>
+<text id="102004">置かれているアイテムが30を超えると、古いものから消えてしまいます
+よろしいですか？</text>
+<text id="506013">一定時間内に、味方チームの闘士が揃わなかったため
+マッチングを中止しました</text>
+<text id="506014">闘技形式が共闘で、合言葉適用範囲を限定しない場合に選択できます</text>
+<text id="506015">闘技形成が共闘で、合言葉が設定されている場合に選択できます</text>
 </entries>
 </fmg>

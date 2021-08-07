@@ -4,10 +4,10 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="506000">Choose a type of Match</text>
-<text id="506001">Choose a Match location</text>
-<text id="506002">Edit Undead Match password. Match only with others using the same password.</text>
-<text id="506003">Enter an Undead Match and begin searching for opponents</text>
-<text id="506004">Cancel matchmaking</text>
+<text id="506000">闘技の形式を選択します</text>
+<text id="506001">闘技場を選択します</text>
+<text id="506002">不死の闘技専用の、合言葉を編集します。一致するプレイヤーとのみマッチングします</text>
+<text id="506003">不死の闘技に参戦し、マッチングを開始します</text>
+<text id="506004">マッチングを中止します</text>
 </entries>
 </fmg>

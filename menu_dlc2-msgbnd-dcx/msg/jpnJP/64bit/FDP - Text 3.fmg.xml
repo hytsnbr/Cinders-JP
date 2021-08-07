@@ -4,9 +4,9 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="4100">Use selected item</text>
-<text id="4101">Leave selected item here</text>
-<text id="4102">Discard selected item</text>
+<text id="4100">選択したアイテムを使用します</text>
+<text id="4101">選択したアイテムをその場に置きます</text>
+<text id="4102">選択したアイテムを破棄します</text>
 <text id="4103">%null%</text>
 <text id="4104">%null%</text>
 <text id="4105">%null%</text>
@@ -14,9 +14,9 @@
 <text id="4107">%null%</text>
 <text id="4108">%null%</text>
 <text id="4109">%null%</text>
-<text id="4110">Use selected items</text>
-<text id="4111">Leave selected items here</text>
-<text id="4112">Discard selected items </text>
+<text id="4110">アイテムをまとめて使用します</text>
+<text id="4111">アイテムをまとめてその場に置きます</text>
+<text id="4112">アイテムをまとめて破棄します</text>
 <text id="4113">%null%</text>
 <text id="4114">%null%</text>
 <text id="4115">%null%</text>
@@ -25,160 +25,144 @@
 <text id="4118">%null%</text>
 <text id="4119">%null%</text>
 <text id="4120">%null%</text>
-<text id="4121">Select items to leave here</text>
-<text id="4122">Select items to discard</text>
-<text id="5100">Use selected number of items</text>
-<text id="5101">Leave selected number of items here</text>
-<text id="5102">Discard selected number of items</text>
+<text id="4121">まとめてその場に置くアイテムを選択してください</text>
+<text id="4122">まとめて破棄するアイテムを選択してください</text>
+<text id="5100">設定した数のアイテムを使用します</text>
+<text id="5101">設定した数のアイテムをその場に置きます</text>
+<text id="5102">設定した数のアイテムを破棄します</text>
 <text id="5103">%null%</text>
-<text id="5104">Purchase selected number of items</text>
-<text id="5105">Sell selected number of items</text>
-<text id="5106">Store selected number of items</text>
-<text id="5107">Take out selected number of items</text>
-<text id="5108">Transpose selected number of items</text>
-<text id="6000">Select a sorting method</text>
-<text id="30000">Select a heading to check</text>
-<text id="40331">Confirm settings and continue.</text>
-<text id="40500">Restore default settings.</text>
-<text id="102000">Select an item to interact with</text>
-<text id="103000">Select slot to equip</text>
-<text id="103500">Select item to equip</text>
-<text id="105000">Check character overview</text>
-<text id="110001">Change up/down camera movement.</text>
-<text id="110002">Change left/right camera movement.</text>
-<text id="110003">Camera reset also resets the camera y-axis.</text>
-<text id="110004">Set camera movement speed.</text>
-<text id="110005">Set auto lock-on to new target when former target dies.</text>
-<text id="110006">Automatically target an enemy when attacking close range with no lock.</text>
-<text id="110007">Set whether the camera automatically avoids walls.</text>
+<text id="5104">設定した数のアイテムを購入します</text>
+<text id="5105">設定した数のアイテムを売却します</text>
+<text id="5106">設定した数のアイテムを格納します</text>
+<text id="5107">設定した数のアイテムを取り出します</text>
+<text id="5108">設定した数のアイテムを錬成します</text>
+<text id="6000">ソート基準を選択してください</text>
+<text id="30000">確認する項目を選択してください</text>
+<text id="40331">設定内容を確定して次の画面に進みます</text>
+<text id="40500">すべての設定を初期状態に戻します</text>
+<text id="102000">操作するアイテムを選択してください</text>
+<text id="103000">装備スロットを選択してください</text>
+<text id="103500">装備するアイテムを選択してください</text>
+<text id="105000">キャラクターのステータスを確認します</text>
+<text id="110001">カメラの上下操作を設定します</text>
+<text id="110002">カメラの左右操作を設定します</text>
+<text id="110003">カメラリセット時の、上下位置リセットを設定します</text>
+<text id="110004">カメラの動く速さを設定します</text>
+<text id="110005">ロックオン対象死亡時の、対象の自動切替を設定します</text>
+<text id="110006">非ロックオン時の、攻撃対象の自動捕捉を設定します</text>
+<text id="110007">カメラの壁接触時の、自動回避を設定します</text>
 <text id="110008">%null%</text>
-<text id="110009">Set controls used for jumping.</text>
-<text id="110010">Allows for manual control of aiming of large weapons when locked-on.</text>
-<text id="110101">Switch depiction of blood on or off, or set to mild.</text>
-<text id="110102">Switch in-game subtitles on or off.</text>
-<text id="110103">Configure how in-game HUD is displayed.</text>
-<text id="110104">Configure cinematic effects used during special attacks.</text>
-<text id="110105">Adjust music level.</text>
-<text id="110106">Adjust sound effect level.</text>
-<text id="110107">Adjust voice level.</text>
-<text id="110201">Adjust screen brightness.</text>
-<text id="110301">Allow or restrict voice chat.</text>
-<text id="110302">Allow or restrict cross-region matching.</text>
-<text id="110303">Edit to match with players using the same password.</text>
-<text id="110304">Change options for display of player names.</text>
-<text id="110305">Choose to start the game in online or offline mode</text>
-<text id="110306">Restrict the visibility of your summon sign in enemy phantom worlds.</text>
-<text id="110500">Save the game and return to title menu.</text>
-<text id="211000">Select bonfire to travel to. Ember indicates Host of Embers presence</text>
-<text id="212000">Choose attribute to level up</text>
-<text id="212001">Spend souls and level up</text>
-<text id="212250">Choose attribute to level up</text>
-<text id="212251">Level up without spending souls (only one level)</text>
-<text id="212500">Choose attribute to level up</text>
-<text id="212501">Level up without spending souls (only one level)</text>
-<text id="212750">Choose attribute to level up</text>
-<text id="212751">Initiate reallocation</text>
-<text id="221000">Select weapon to reinforce</text>
-<text id="221500">Select weapon to infuse</text>
-<text id="221501">Select weapon to create</text>
-<text id="222000">Select attunement slot</text>
-<text id="222001">Select spell to attune</text>
-<text id="223000">Select item to repair</text>
-<text id="231000">Select item to purchase</text>
-<text id="232000">Select item to sell</text>
-<text id="234000">Confirms roster of knights</text>
-<text id="234001">Shows knight's information</text>
-<text id="236000">Select item to transpose</text>
-<text id="251000">Select item to store in box</text>
-<text id="251001">Select item to take from box</text>
-<text id="301000">Select gesture for this slot</text>
-<text id="301001">Select gesture to use</text>
-<text id="321000">Edit message.</text>
-<text id="321001">Change bound gesture.</text>
-<text id="321002">Finish message creation.</text>
-<text id="321003">Select template.</text>
-<text id="321004">Change bound gesture.</text>
-<text id="321005">Select word category.</text>
-<text id="321006">Select template.</text>
-<text id="321007">Select word.</text>
-<text id="321008">Select conjunction.</text>
-<text id="322000">View your own messages.</text>
-<text id="324000">View recently read messages.</text>
-<text id="402011">Enter name</text>
-<text id="402012">Select gender</text>
-<text id="402013">Select age bracket</text>
-<text id="402014">Select class</text>
-<text id="402015">Select burial gift</text>
-<text id="402016">Customize appearance</text>
-<text id="402017">Finalize character</text>
-<text id="402018">Be reborn with altered appearance</text>
-<text id="402201">Male
-Gender has no bearing on ability.</text>
-<text id="402202">Female
-Gender has no bearing on ability.</text>
-<text id="402301">Young
-Age only affects appearance, and has no bearing on ability.</text>
-<text id="402302">Mature
-Age only affects appearance, and has no bearing on ability.</text>
-<text id="402303">Aged
-Age only affects appearance, and has no bearing on ability.</text>
+<text id="110009">ジャンプの操作方法を設定します</text>
+<text id="110010">大型武器を使用したロックオン時の、攻撃方向の任意制御を設定します</text>
+<text id="110101">流血の表現を設定します</text>
+<text id="110102">字幕の表示を設定します</text>
+<text id="110103">HUDの表示を設定します</text>
+<text id="110104">特別な攻撃時の、演出カメラを設定します</text>
+<text id="110105">BGMの音量を設定します</text>
+<text id="110106">SEの音量を設定します</text>
+<text id="110107">ボイスの音量を設定します</text>
+<text id="110201">画面の明るさを設定します</text>
+<text id="110301">ボイスチャットの使用を設定します</text>
+<text id="110302">地域外のプレイヤーとのマッチングを設定します</text>
+<text id="110303">合言葉を編集します。一致するプレイヤーとのみマッチングします</text>
+<text id="110304">他プレイヤーの名称表示方法を設定します</text>
+<text id="110305">オンラインプレイ/オフラインプレイの、どちらでゲームを起動するのか設定します</text>
+<text id="110306">サイン召喚される敵霊体がいる世界に、召喚サインの配信を制限できます</text>
+<text id="110500">ゲームを保存して、タイトル画面に戻ります</text>
+<text id="211000">転送先の篝火を選択してください。残り火は、火の宿主の多さを表します</text>
+<text id="212000">成長させる能力値を選択してください</text>
+<text id="212001">ソウルを消費して、レベルアップを実行します</text>
+<text id="212250">成長させる能力値を選択してください</text>
+<text id="212251">ソウルを消費せず、レベルアップを実行します（1レベルだけ）</text>
+<text id="212500">成長させる能力値を選択してください</text>
+<text id="212501">ソウルを消費せず、レベルアップを実行します（1レベルだけ）</text>
+<text id="212750">成長させる能力値を選択してください</text>
+<text id="212751">生まれ変わりを実行します</text>
+<text id="221000">強化する武器を選択してください</text>
+<text id="221500">変質強化する武器を選択してください</text>
+<text id="221501">変質強化先の武器を選択してください</text>
+<text id="222000">記憶スロットを選択してください</text>
+<text id="222001">記憶する魔法を選択してください</text>
+<text id="223000">修復するアイテムを選択してください</text>
+<text id="231000">購入するアイテムを選択してください</text>
+<text id="232000">売却するアイテムを選択してください</text>
+<text id="234000">騎士名簿を確認します</text>
+<text id="234001">騎士の情報を確認します</text>
+<text id="236000">錬成するアイテムを選択してください</text>
+<text id="251000">木箱に格納するアイテムを選択してください</text>
+<text id="251001">木箱から取り出すアイテムを選択してください</text>
+<text id="301000">スロットに登録するジェスチャーを選択してください</text>
+<text id="301001">使用するジェスチャーを選択してください</text>
+<text id="321000">メッセージの文章を編集します</text>
+<text id="321001">添付するジェスチャーを選択します</text>
+<text id="321002">メッセージの作成を完了します</text>
+<text id="321003">ベース文を選択してください</text>
+<text id="321004">添付するジェスチャーを選択してください</text>
+<text id="321005">単語のカテゴリを選択してください</text>
+<text id="321006">ベース文を選択してください</text>
+<text id="321007">単語を選択してください</text>
+<text id="321008">接続詞を選択してください</text>
+<text id="322000">自分で作成したメッセージを確認します</text>
+<text id="324000">最近読んだメッセージを確認します</text>
+<text id="402011">名前を入力してください</text>
+<text id="402012">性別を選択します</text>
+<text id="402013">年頃を選択します</text>
+<text id="402014">素性を選択します</text>
+<text id="402015">副葬品を選択します</text>
+<text id="402016">外見の詳細を編集します</text>
+<text id="402017">キャラクターの作成を完了します</text>
+<text id="402018">新しい外見に生まれ変わります</text>
+<text id="402201">男性。性別に能力の差はない</text>
+<text id="402202">女性。性別に能力の差はない</text>
+<text id="402301">若年期。外見だけで能力の差はない</text>
+<text id="402302">壮年期。外見だけで能力の差はない</text>
+<text id="402303">老年期。外見だけで能力の差はない</text>
 <text id="402304">Ancient
 Age only affects appearance, and has no bearing on ability.</text>
-<text id="402350">The oh-so-plain face of a commoner.
-Everyone has imperfections, but a commoner
-without flaws is a rare creature indeed.</text>
-<text id="402351">The face of a warrior, as if hewn from
-rock. It's been long whispered in jest
-northerners are born weathered and old.</text>
-<text id="402352">The features of a true blue blood.
-Blue of eye and fair of hair, a little
-reminder of Astora's former glory.</text>
-<text id="402353">Intelligent face with fine lines,
-often ribbed for looking like a prentice.</text>
-<text id="402354">The face of a cheerless cleric of Carim.
-"Novice" is used as something of a
-derogatory term for men of the cloth.</text>
-<text id="402355">The large eyes and mouth give this face a
-look of jubilation. From Catarina, known
-for its zest for life and love of drink.</text>
-<text id="402356">An uncommon face defined by its narrow
-eyes and thin lips. Some praise it as
-the visage of a true dragon.</text>
-<text id="402357">A uniquely deformed face. Or perhaps
-merely ugly. Prejudice births malcontents,
-and malcontents swarm to the Great Swamp.</text>
-<text id="402358">A lifeless face, almost that of a hollow.
-Londor is a realm of those hollow and old.</text>
-<text id="402359">The features of the old gods, as if from
-legend. They say children born like this
-are fated to be taken to the Boreal Valley.</text>
-<text id="402360">The oh-so-plain face of a commoner.
-Everyone has imperfections, but a commoner
-without flaws is a rare creature indeed.</text>
-<text id="402361">The face of a warrior, as if hewn from
-rock. It's been long whispered in jest
-northerners are born weathered and old.</text>
-<text id="402362">The features of a true blue blood.
-Blue of eye and fair of hair, a little
-reminder of Astora's former glory.</text>
-<text id="402363">Intelligent face with fine lines, often ribbed for looking like a prentice.</text>
-<text id="402364">The face of a cheerless cleric of Carim.
-"Novice" is used as something of a
-derogatory term for women of the cloth.</text>
-<text id="402365">The large eyes and mouth give this face a
-look of jubilation. From Catarina, known
-for its zest for life and love of drink.</text>
-<text id="402366">An uncommon face defined by its narrow
-eyes and thin lips. Some praise it as
-the visage of a true dragon.</text>
-<text id="402367">A uniquely deformed face. Or perhaps
-merely ugly. Prejudice births malcontents,
-and malcontents swarm to the Great Swamp.</text>
-<text id="402368">A lifeless face, almost that of a hollow.
-Londor is a realm of those hollow and old.</text>
-<text id="402369">The features of the old gods, as if from
-legend. They say children born like this
-are fated to be taken to the Boreal Valley.</text>
+<text id="402350">ごくありふれた平民の顔
+だが実際は皆どこか歪んでおり
+歪みの無い平民顔は希少である</text>
+<text id="402351">巌のように厳つい、北の戦士たちの面相
+「北に若者なし」とは、恐れ故の揶揄である</text>
+<text id="402352">貴族的で整った顔立ち。金髪碧眼も多い
+没落したアストラの、過去を偲ぶ小さな誇り</text>
+<text id="402353">知的で線の細い顔
+ただし書生顔とは多くは揶揄である</text>
+<text id="402354">陰気な聖職者の国、カリムに見られる面相
+坊主とは、この場合聖職者の蔑称である</text>
+<text id="402355">大きな目と口が特徴的な、陽気そうな顔
+酒と謳歌の国カタリナのイメージ</text>
+<text id="402356">切れ長の細い目と薄い唇が特徴的な異人の顔
+これを讃えるときは「竜の異人顔」という</text>
+<text id="402357">他と違う異形の顔つき。または醜い顔
+偏見は異端を生み、異端は大沼に走る</text>
+<text id="402358">生気のない、まるで亡者のような顔つき
+ロンドールは老人と亡者の国である</text>
+<text id="402359">巷間稀に現れるという、古い神々の面相
+しかしそれは、むしろ不吉の象徴とされる
+冷たい谷から、いつか迎えがくるのだと</text>
+<text id="402360">ごくありふれた平民の顔
+だが実際は皆どこか歪んでおり
+歪みの無い平民顔は希少である</text>
+<text id="402361">巌のように厳つい、北の戦士たちの面相
+「北に若者なし」とは、恐れ故の揶揄である</text>
+<text id="402362">貴族的で整った顔立ち。金髪碧眼も多い
+没落したアストラの、過去を偲ぶ小さな誇り</text>
+<text id="402363">知的で線の細い顔
+ただし書生顔とは多くは揶揄である</text>
+<text id="402364">陰気な聖職者の国、カリムに見られる面相
+坊主とは、この場合聖職者の蔑称である</text>
+<text id="402365">大きな目と口が特徴的な、陽気そうな顔
+酒と謳歌の国カタリナのイメージ</text>
+<text id="402366">切れ長の細い目と薄い唇が特徴的な異人の顔
+これを讃えるときは「竜の異人顔」という</text>
+<text id="402367">他と違う異形の顔つき。または醜い顔
+偏見は異端を生み、異端は大沼に走る</text>
+<text id="402368">生気のない、まるで亡者のような顔つき
+ロンドールは老人と亡者の国である</text>
+<text id="402369">巷間稀に現れるという、古い神々の面相
+しかしそれは、むしろ不吉の象徴とされる
+冷たい谷から、いつか迎えがくるのだと</text>
 <text id="402401">Naked and of unknown origin. Either an unimaginable fool in life, or was stripped of possessions upon burial.</text>
 <text id="402402">An obscure knight of poor renown who collapsed roaming the land.</text>
 <text id="402403">A common thief and pitiful deserter.</text>
@@ -210,150 +194,108 @@ are fated to be taken to the Boreal Valley.</text>
 <text id="402499">A worthless specimen, can't even die right.</text>
 <text id="402501">None.
 Scroll for additional options.</text>
-<text id="402502">A broken stone tablet. Enables Hard mode. Irreversible.
+<text id="402502">A skeleton key that will open almost any door.
 Scroll for additional options.</text>
-<text id="402503">A skeleton key that will open almost any door.
+<text id="402503">A bundle of white branches.
 Scroll for additional options.</text>
-<text id="402504">A bundle of white branches.
+<text id="402504">The soul of a fallen knight.
 Scroll for additional options.</text>
-<text id="402505">The soul of a fallen knight.
+<text id="402505">A bundle of black firebombs.
 Scroll for additional options.</text>
-<text id="402506">A bundle of black firebombs.
+<text id="402506">A set of old lifegems.
 Scroll for additional options.</text>
-<text id="402507">A set of old lifegems.
+<text id="402507">A set of mystical waters.
 Scroll for additional options.</text>
-<text id="402508">A set of mystical waters.
+<text id="402508">A couple of ritual incense.
 Scroll for additional options.</text>
-<text id="402509">A couple of ritual incense.
+<text id="402509">A couple of fire seeds.
 Scroll for additional options.</text>
-<text id="402510">A couple of fire seeds.
+<text id="402510">A couple of crystal fragments.
 Scroll for additional options.</text>
-<text id="402511">A couple of crystal fragments.
+<text id="402511">A couple of abyssal fragments.
 Scroll for additional options.</text>
-<text id="402512">A couple of abyssal fragments.
+<text id="402512">A couple of holy fragments.
 Scroll for additional options.</text>
-<text id="402513">A couple of holy fragments.
-Scroll for additional options.</text>
-<text id="402514">Unlock warp to Untended Graves.
-Scroll for additional options.</text>
-<text id="402515">Unlock warp to Archdragon Peak.
-Scroll for additional options.</text>
-<text id="402516">Unlock warp to Road of Sacrifices.
-Scroll for additional options.</text>
-<text id="402517">Unlock warp to Catacombs of Carthus.
-Scroll for additional options.</text>
-<text id="402518">Unlock warp to Irithyll of the Boreal Valley.
-Scroll for additional options.</text>
-<text id="402519">Unlock warp to Profaned Capital.
-Scroll for additional options.</text>
-<text id="402520">Unlock warp to Consumed King's Garden.
-Scroll for additional options.</text>
-<text id="402521">Unlock warp to Lothric Castle.
-Scroll for additional options.</text>
-<text id="402522">Unlock warp to the Cathedral of the Deep.
-Scroll for additional options.</text>
-<text id="402523">Unlock warp to Painted World of Ariandel.
-Scroll for additional options.</text>
-<text id="402524">Unlock warp to the Dreg Heap.
-Scroll for additional options.</text>
-<text id="402525">Unlock warp to the Ringed City.
-Scroll for additional options.</text>
-<text id="402526">Pick your starting gift.
-Scroll for additional options.</text>
-<text id="402527">Pick your starting gift.
-Scroll for additional options.</text>
-<text id="402528">Pick your starting gift.
-Scroll for additional options.</text>
-<text id="402529">Pick your starting gift.
-Scroll for additional options.</text>
-<text id="402530">Pick your starting gift.
-Scroll for additional options.</text>
-<text id="402531">Pick your starting gift.
-Scroll for additional options.</text>
-<text id="402532">Pick your starting gift.
-Scroll for additional options.</text>
-<text id="406000">Select profile to load.</text>
-<text id="406001">Select profile to delete.</text>
-<text id="420001">Select voice.</text>
-<text id="420002">Select build.</text>
-<text id="420003">Fine-tune build.</text>
-<text id="420004">Edit base skin color.</text>
-<text id="420005">Fine-tune skin color.</text>
-<text id="420006">Select a preset face.</text>
-<text id="420007">Fine-tune facial appearance.</text>
-<text id="420008">Save present settings as a favorite.</text>
-<text id="420009">Load saved favorite.</text>
-<text id="420010">Edit physique.</text>
-<text id="420011">Edit facial characteristics.</text>
-<text id="420012">Edit facial shape.</text>
+<text id="406000">読み込むプロファイルを選択してください</text>
+<text id="406001">削除するプロファイルを選択してください</text>
+<text id="420001">声を選択します</text>
+<text id="420002">体格を選択します</text>
+<text id="420003">体格を詳細に調整します</text>
+<text id="420004">肌のベースとなる色を編集します</text>
+<text id="420005">肌の色を詳細に調整します</text>
+<text id="420006">顔つきを選択します</text>
+<text id="420007">顔つきを詳細に調整します</text>
+<text id="420008">現在の外見を保存します</text>
+<text id="420009">保存されている外見を読み込みます</text>
+<text id="420010">体質を編集します</text>
+<text id="420011">顔の特徴を編集します</text>
+<text id="420012">顔の形状を編集します</text>
 <text id="420013">%null%</text>
 <text id="420014">%null%</text>
-<text id="420015">Edit hair/facial hair.</text>
-<text id="420016">Edit pupils.</text>
-<text id="420017">Edit tattoo/mark.</text>
-<text id="420018">Edit facial balance.</text>
-<text id="420019">Edit forehead and glabella.</text>
-<text id="420020">Edit brow ridge.</text>
-<text id="420021">Edit eyes.</text>
-<text id="420022">Edit nose ridge.</text>
-<text id="420023">Edit nostrils.</text>
-<text id="420024">Edit cheeks.</text>
-<text id="420025">Edit lips.</text>
-<text id="420026">Edit mouth.</text>
-<text id="420027">Edit chin.</text>
-<text id="420028">Edit jaw.</text>
-<text id="420029">Edit hair/brow/beard color.</text>
-<text id="420030">Select hair style.</text>
-<text id="420031">Edit hair color.</text>
-<text id="420032">Select brow shape.</text>
-<text id="420033">Edit brow color.</text>
-<text id="420034">Select beard type.</text>
-<text id="420035">Edit beard color.</text>
-<text id="420036">Select eyelash shape.</text>
-<text id="420037">Edit eyelash color.</text>
-<text id="420038">Select shape of both eyes.</text>
-<text id="420039">Edit color of both eyes.</text>
-<text id="420040">Select shape of right eye.</text>
-<text id="420041">Edit color of right pupil.</text>
-<text id="420042">Select shape of left eye.</text>
-<text id="420043">Edit color of left pupil.</text>
-<text id="420044">Select appearance of tattoo/mark.</text>
-<text id="420045">Edit tattoo/mark color.</text>
-<text id="420046">Adjust position of tattoo/mark.</text>
+<text id="420015">髪/眉/髭/まつげを編集します</text>
+<text id="420016">瞳を編集します</text>
+<text id="420017">入れ墨/痣を編集します</text>
+<text id="420018">顔のバランスを編集します</text>
+<text id="420019">額や眉間を編集します</text>
+<text id="420020">眉骨を編集します</text>
+<text id="420021">眼を編集します</text>
+<text id="420022">鼻筋を編集します</text>
+<text id="420023">小鼻を編集します</text>
+<text id="420024">頬を編集します</text>
+<text id="420025">唇を編集します</text>
+<text id="420026">口を編集します</text>
+<text id="420027">下顎を編集します</text>
+<text id="420028">上顎を編集します</text>
+<text id="420029">髪/眉/髭の色を編集します</text>
+<text id="420030">髪型を選択します</text>
+<text id="420031">髪色を編集します</text>
+<text id="420032">眉の形状を選択します</text>
+<text id="420033">眉色を編集します</text>
+<text id="420034">髭の形状を選択します</text>
+<text id="420035">髭色を編集します</text>
+<text id="420036">まつげの形状を選択します</text>
+<text id="420037">まつげ色を編集します</text>
+<text id="420038">両瞳の形状を選択します</text>
+<text id="420039">両瞳の色を編集します</text>
+<text id="420040">右瞳の形状を選択します</text>
+<text id="420041">右瞳の色を編集します</text>
+<text id="420042">左瞳の形状を選択します</text>
+<text id="420043">左瞳の色を編集します</text>
+<text id="420044">入れ墨/痣の形状を選択します</text>
+<text id="420045">入れ墨/痣の色を編集します</text>
+<text id="420046">入れ墨/痣の配置を調整します</text>
 <text id="420047">%null%</text>
 <text id="420048">%null%</text>
-<text id="420049">Select face similar to present face.</text>
+<text id="420049">現状に似た顔を選択します</text>
 <text id="420050">%null%</text>
-<text id="420051">Edit makeup</text>
+<text id="420051">化粧を編集します</text>
 <text id="420052">%null%</text>
 <text id="420053">%null%</text>
 <text id="420054">%null%</text>
-<text id="420055">Select musculature</text>
-<text id="420056">Select hirsuteness</text>
-<text id="420500">Return appearance to default.</text>
-<text id="420501">Return appearance to default.</text>
-<text id="421000">Young voice.</text>
-<text id="421001">Mature voice.</text>
-<text id="421002">Aged voice.</text>
+<text id="420055">筋肉量を選択します</text>
+<text id="420056">体毛量を選択します</text>
+<text id="420500">外見を初期状態に戻します</text>
+<text id="420501">外見を初期状態に戻します</text>
+<text id="421000">若年期の声質</text>
+<text id="421001">壮年期の声質</text>
+<text id="421002">老年期の声質</text>
 <text id="421003">Silent voice.</text>
-<text id="421110">Average build.</text>
-<text id="421111">Slim build.</text>
-<text id="421112">Very slim build.</text>
-<text id="421113">Muscular build.</text>
-<text id="421114">Very muscular build.
-Thick body.</text>
-<text id="421115">Top-heavy
-muscular build.</text>
-<text id="421116">Bottom-heavy
-muscular build.</text>
-<text id="421117">Proportionally small head.</text>
-<text id="421118">Proportionally large head.
-Must be full of brains.</text>
+<text id="421110">ごく標準的な体型</text>
+<text id="421111">痩せた体型</text>
+<text id="421112">とても痩せた体型</text>
+<text id="421113">逞しい体型</text>
+<text id="421114">とても逞しい体型
+体がぶ厚い</text>
+<text id="421115">特に上半身が逞しい体型</text>
+<text id="421116">特に下半身が逞しい体型</text>
+<text id="421117">頭が小さな体型</text>
+<text id="421118">頭が大きい体型
+賢いのかもしれない</text>
 <text id="421119">%null%</text>
-<text id="421120">Average physique.</text>
-<text id="421121">Muscular physique.</text>
-<text id="421122">Average amount of body hair.</text>
-<text id="421123">Heavy body hair.</text>
-<text id="620000">Please select a character.</text>
+<text id="421120">ごく標準的な筋肉量の体</text>
+<text id="421121">筋肉質の体</text>
+<text id="421122">ごく標準的な体毛量</text>
+<text id="421123">濃い体毛量</text>
+<text id="620000">キャラクターを選択してください</text>
 </entries>
 </fmg>

@@ -4,8 +4,8 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="315">Church Guardian Shiv</text>
-<text id="379">Filianore's Spear Ornament</text>
+<text id="315">教会守りの薄刃</text>
+<text id="379">フィリアノールの槍飾り</text>
 <text id="600">%null%</text>
 <text id="601">%null%</text>
 <text id="602">%null%</text>
@@ -56,15 +56,15 @@
 <text id="647">%null%</text>
 <text id="648">%null%</text>
 <text id="649">%null%</text>
-<text id="650">Ritual Spear Fragment</text>
-<text id="651">Divine Spear Fragment</text>
-<text id="745">Soul of Slave Knight Gael</text>
-<text id="746">Soul of the Demon Prince</text>
-<text id="747">Soul of Darkeater Midir</text>
-<text id="2156">Small Envoy Banner</text>
-<text id="2157">Old Woman's Ashes</text>
-<text id="2158">Blood of the Dark Soul</text>
-<text id="2159">Young Grass Dew</text>
+<text id="650">儀式槍の破片</text>
+<text id="651">聖槍の破片</text>
+<text id="745">奴隷騎士ゲールのソウル</text>
+<text id="746">デーモンの王子のソウル</text>
+<text id="747">闇喰らいのミディールのソウル</text>
+<text id="2156">勅使の小環旗</text>
+<text id="2157">老女の遺灰</text>
+<text id="2158">暗い魂の血</text>
+<text id="2159">若草の雫</text>
 <text id="10000">%null%</text>
 <text id="10001">%null%</text>
 <text id="10002">%null%</text>
@@ -169,16 +169,16 @@
 <text id="10328">%null%</text>
 <text id="10329">%null%</text>
 <text id="10330">%null%</text>
-<text id="1376000">Old Moonlight</text>
+<text id="1376000">古き月光</text>
 <text id="1376010">Heavy Old Moonlight</text>
-<text id="1604000">Great Soul Dregs</text>
-<text id="2458000">Flame Fan</text>
+<text id="1604000">ソウルの大澱</text>
+<text id="2458000">炎の扇</text>
 <text id="2458010">Refined Flame Fan</text>
-<text id="2660000">Seething Chaos</text>
+<text id="2660000">たぎる混沌</text>
 <text id="2660010">Great Seething Chaos</text>
-<text id="3509000">Lightning Arrow</text>
+<text id="3509000">雷の矢</text>
 <text id="3509010">Refined Lightning Arrow</text>
-<text id="3557000">Projected Heal</text>
+<text id="3557000">放つ回復</text>
 <text id="3557010">Extended Projected Heal</text>
 </entries>
 </fmg>

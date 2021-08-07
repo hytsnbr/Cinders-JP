@@ -4,65 +4,100 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="744">Soul of Sister Friede. One of the twisted souls, steeped in strength.
+<text id="744">修道女フリーデのソウル
+力を帯びた、異形のソウルのひとつ
 
-Friede was the first Ash to enter the painting, but together with the good Father, they chose rot over fire.</text>
-<text id="2153">The charred but warm bones of a champion. Burn at the Firelink Shrine bonfire to participate in Undead Matches.
+一人目の灰として絵画を訪れたフリーデは
+だが教父と共に、火ではなく腐れを選んだ</text>
+<text id="2153">まだ燃え尽きていない王者の遺骨
+祭祀場の篝火にくべ、不死の闘技への道を開く
 
-Long ago, an Undead declared a fight. A fight to celebrate their undeath, and to preserve what remained of their souls. So it was that the Undead Matches were born.
+古く、ある不死人が闘いをはじめた
+不死性を貴び、心を亡くさぬための闘いは
+やがて闘技となっていった
 
-The merit of an Undead is measured in deaths. Could there be a greater gift for such a creature, than a fight that has no end?</text>
-<text id="2154">Umbral ash of the Captain of the Millwood Knights. With this, the shrine handmaiden will prepare new items.
+不死の価値は、死の積み重ねにこそある
+終わりなき闘いが必要なのだ</text>
+<text id="2154">ミルウッド騎士長の遺灰
+祭祀場の侍女が、新たな品を用立てるだろう
 
-Long ago, when the Millwood Knights lost the forest they called home, they began a journey so long that even thoughts of their sworn enemy washed away, replaced by a vision of a cold and brittle wood.</text>
-<text id="2155">The key to the contraption leading to the attic of the archive found on the edge of the Corvian Settlement.
+遠い昔、故郷たる森を失った騎士たちは
+あてのない長い旅に仇敵をすら忘れ
+その果てに、ただ冷たい枯れ森を見出した</text>
+<text id="2155">鴉村の外れにある書庫
+その天井裏に繋がる仕掛けの鍵
 
-After Sir Vilhelm led a white-haired woman to the attic of the library, he kept this key as if it were his life.</text>
-<text id="1313000">One of the spells left behind by the young sorcerer Sulyvahn before leaving the Painted World. 
+かつて騎士ヴィルヘルムは
+天井裏に白い髪の女を連れ
+以来この鍵を手放さなかった</text>
+<text id="1313000">若き魔術師サリヴァーンが
+絵画を去る前に残した魔術のひとつ
 
 Imbues right-hand weapon with 30 Frost.
 Lasts for 60 seconds.
 
-Sulyvahn was born and raised inside the painting, yet had little use for his frigid homeland, since he had not yet experienced loss.</text>
-<text id="1313010">One of the spells left behind by the young sorcerer Sulyvahn before leaving the Painted World. 
+絵画で生まれ育った彼にとって
+その冷たい地は、捨てるべき故郷であった
+まだ何も、失ってさえいなかったのだ</text>
+<text id="1313010">若き魔術師サリヴァーンが
+絵画を去る前に残した魔術のひとつ
 
 Imbues right-hand weapon with 60 Frost.
 Lasts for 120 seconds.
 
-Sulyvahn was born and raised inside the painting, yet had little use for his frigid homeland, since he had not yet experienced loss.</text>
-<text id="1741000">One of the spells left behind by the young sorcerer Sulyvahn before leaving the Painted World. 
+絵画で生まれ育った彼にとって
+その冷たい地は、捨てるべき故郷であった
+まだ何も、失ってさえいなかったのだ</text>
+<text id="1741000">若き魔術師サリヴァーンが
+絵画を去る前に残した魔術のひとつ
 
 Creates a cloud of near-freezing mist, inflicting 40 Frost per tick.
 Lasts for 5 seconds.
 
-Sulyvahn was born and raised inside the painting, yet had little use for his frigid homeland, since he had not yet experienced loss.</text>
-<text id="1741010">One of the spells left behind by the young sorcerer Sulyvahn before leaving the Painted World. 
+絵画で生まれ育った彼にとって
+その冷たい地は、捨てるべき故郷であった
+まだ何も、失ってさえいなかったのだ</text>
+<text id="1741010">若き魔術師サリヴァーンが
+絵画を去る前に残した魔術のひとつ
 
 Creates a lingering cloud of near-freezing mist, inflicting 40 Frost per tick.
 Lasts for 8 seconds.
 
-Sulyvahn was born and raised inside the painting, yet had little use for his frigid homeland, since he had not yet experienced loss.</text>
-<text id="2457000">Pyromancer Dunnel was fascinated by this ceremonial art employed by the clerics of the Smouldering Lake.
+絵画で生まれ育った彼にとって
+その冷たい地は、捨てるべき故郷であった
+まだ何も、失ってさえいなかったのだ</text>
+<text id="2457000">死斑の呪術師、ダネルを魅了した儀式呪術
+燻りの湖の助祭たちが用いるもの
 
-Summons a fire-spitting chaos orb.
+飛沫を放つ、混沌の火球を浮かべる
 
-Chaos burns away in the blink of an eye, but was the primordial life born in the Bed of Chaos, and a grievous symbol of Izalith's sin.</text>
-<text id="2457010">Pyromancer Dunnel was fascinated by this ceremonial art employed by the clerics of the Smouldering Lake.
+束の間に燃え尽きるその混沌は
+だが苗床に生じた原初の生命であるという
+それはイザリスの罪の、憐れな証であろう</text>
+<text id="2457010">死斑の呪術師、ダネルを魅了した儀式呪術
+燻りの湖の助祭たちが用いるもの
 
 Summons a fire-spitting chaos orb, which shoots lingering chaos fireballs.
 
-Chaos burns away in the blink of an eye, but was the primordial life born in the Bed of Chaos, and a grievous symbol of Izalith's sin.</text>
-<text id="3556000">A lost Way of White miracle. Launches a white discus which slices into foes and returns to its conjurer.
+束の間に燃え尽きるその混沌は
+だが苗床に生じた原初の生命であるという
+それはイザリスの罪の、憐れな証であろう</text>
+<text id="3556000">失われた白教の奇跡
+白い光輪は敵を切り裂き、やがて術者の元に戻る
 
-Long ago, when the imprints left by the gods were still deep, miracles of the Way of White existed alongside aureoles.
+かつて、神々の名残が濃い時代には
+白教の奇跡は光輪と共にあったという
 
 Those who yearned for the long-lost aureoles fully believed that they would return, one day.</text>
-<text id="3556010">A lost Way of White miracle. Launches a white discus which slices into foes and returns to its conjurer.
+<text id="3556010">失われた白教の奇跡
+白い光輪は敵を切り裂き、やがて術者の元に戻る
 
 Can be used with no focus cost.
 
-Long ago, when the imprints left by the gods were still deep, miracles of the Way of White existed alongside aureoles.
+かつて、神々の名残が濃い時代には
+白教の奇跡は光輪と共にあったという
 
-Those who yearned for the long-lost aureoles fully believed that they would return, one day.</text>
+そして偲ぶ者たちは
+いつの日かそれが戻ると信じていた</text>
 </entries>
 </fmg>

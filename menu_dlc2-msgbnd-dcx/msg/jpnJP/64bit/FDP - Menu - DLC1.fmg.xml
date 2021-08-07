@@ -4,12 +4,11 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="506000">Join Undead Match with present settings?</text>
-<text id="506001">Please wait until all combatants have joined.
-Total players: &lt;?matchTotalCount?&gt;
-Remaining: &lt;?matchRemainingCount?&gt;</text>
-<text id="506002">All combatants present.
-Moving to arena.</text>
+<text id="506000">この設定で、不死の闘技に参戦しますか？</text>
+<text id="506001">闘士が揃うまでお待ちください
+（全&lt;?matchTotalCount?&gt;名まで、あと&lt;?matchRemainingCount?&gt;名）</text>
+<text id="506002">全ての闘士が揃いました
+闘技場に移動します</text>
 <text id="506003">%null%</text>
 <text id="506004">%null%</text>
 <text id="506005">%null%</text>
@@ -17,9 +16,9 @@ Moving to arena.</text>
 <text id="506007">%null%</text>
 <text id="506008">%null%</text>
 <text id="506009">%null%</text>
-<text id="506010">Canceled matchmaking</text>
-<text id="506011">Matchmaking canceled</text>
-<text id="506012">Cancel matchmaking?</text>
+<text id="506010">マッチングを中止しました</text>
+<text id="506011">マッチングが中止されました</text>
+<text id="506012">マッチングを中止しますか？</text>
 <text id="506013">%null%</text>
 <text id="506014">%null%</text>
 <text id="506015">%null%</text>
@@ -27,15 +26,15 @@ Moving to arena.</text>
 <text id="506017">%null%</text>
 <text id="506018">%null%</text>
 <text id="506019">%null%</text>
-<text id="506020">Matchmaking failed</text>
-<text id="506021">Matchmaking failed.
-Failed to create session.</text>
-<text id="506022">Matchmaking failed.
-Failed to join session.</text>
-<text id="506023">Failed to record match result.
+<text id="506020">マッチングに失敗しました</text>
+<text id="506021">マッチングに失敗しました
+セッション作成に失敗しました</text>
+<text id="506022">マッチングに失敗しました
+セッション参加に失敗しました</text>
+<text id="506023">闘技結果の登録に失敗しました
 
-To try again, select YES.
+再度登録を実行する場合は「YES」を選択してください
 
-To continue without recording match result, select NO.</text>
+闘技結果を登録せずに続ける場合は「NO」を選択してください</text>
 </entries>
 </fmg>
