@@ -1,10 +1,7 @@
-*.fmg
-*.fmg.bak
 *.msgbnd.dcx
 *.msgbnd.dcx.bak
 *.dcx
 *.bat
 *.txt
-
 \# RESOURCES/
 Yabber/
