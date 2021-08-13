@@ -150,7 +150,14 @@
 <text id="308">%null%</text>
 <text id="309">%null%</text>
 <text id="310">Throwing Knife</text>
-<text id="311">Poison Throwing Knife</text>
+<text id="311">Poisonous Knife</text>
+<text id="320">Sorcerous Knife</text>
+<text id="321">Flaming Knife</text>
+<text id="322">Sparking Knife</text>
+<text id="323">Abyssal Knife</text>
+<text id="324">Cursed Knife</text>
+<text id="325">Lacerating Knife</text>
+<text id="326">Frigid Knife</text>
 <text id="330">Charcoal Pine Resin</text>
 <text id="331">Gold Pine Resin</text>
 <text id="332">%null%</text>
@@ -349,6 +356,7 @@
 <text id="753">Soul of the Rock</text>
 <text id="754">Twisted Soul</text>
 <text id="755">Soul of the Maiden</text>
+<text id="756">Soul of the Marauder</text>
 <text id="800">Lifegem</text>
 <text id="801">Radiant Lifegem</text>
 <text id="802">Old Radiant Lifegem</text>
@@ -521,6 +529,7 @@
 <text id="2178">Heavenly Braille Divine Tome</text>
 <text id="2200">Infusing Essence</text>
 <text id="2201">Degrading Essence</text>
+<text id="3003">Throwing Frying Pan</text>
 <text id="3004">Tarnished Coin</text>
 <text id="3005">Tarnished Silver Coin</text>
 <text id="3018">Hexing Urn</text>
@@ -680,6 +689,8 @@
 <text id="5031">Tome: The Rock</text>
 <text id="5032">Tome: Twisted Knight</text>
 <text id="5033">Tome: Fallen Protector</text>
+<text id="5034">Tome: Titanite Abomination</text>
+<text id="5035">Tome: The Marauder</text>
 <text id="5300">Opus of Rituals</text>
 <text id="5400">Spellbound Bomb</text>
 <text id="5410">Spellbound Urn</text>
@@ -1431,7 +1442,7 @@
 <text id="4203000">Black Fire Vestiges</text>
 <text id="4203010">Scorching Black Fire Vestiges</text>
 <text id="4204000">Black Fire Scatter</text>
-<text id="4204010">Refined Black Fire Scatter</text>
+<text id="4204010">Great Black Fire Scatter</text>
 <text id="4205000">Black Flame</text>
 <text id="4205010">Scorching Black Flame</text>
 <text id="4206000">Black Serpent</text>

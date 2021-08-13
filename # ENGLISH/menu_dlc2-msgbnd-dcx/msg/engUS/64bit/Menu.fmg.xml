@@ -1873,7 +1873,7 @@ Persisting will transform you into a grub.</text>
 <text id="15000003">%null%</text>
 <text id="15000004">%null%</text>
 <text id="15000005">Leave</text>
-<text id="15000006">%null%</text>
+<text id="15000006">Return</text>
 <text id="15000007">%null%</text>
 <text id="15000008">%null%</text>
 <text id="15000009">%null%</text>
@@ -2081,7 +2081,7 @@ Persisting will transform you into a grub.</text>
 <text id="15013006">Yes</text>
 <text id="15013007">No</text>
 <text id="15013008">Progress reset.</text>
-<text id="15013009">%null%</text>
+<text id="15013009">Browse Items</text>
 <text id="15013010">Reinforce Staff</text>
 <text id="15013011">%null%</text>
 <text id="15013012">%null%</text>
@@ -3662,72 +3662,46 @@ Legendary: 15 Ritual Incense</text>
 <text id="99030010">You must be embered to summon a companion.</text>
 <text id="99030020">This companion is dead.</text>
 <text id="99030030">Companion is already active.</text>
-<text id="99030100">Dismal Knight has not been killed 
-in this journey yet.</text>
+<text id="99030100">Dismal Knight</text>
 <text id="99030101">Vordt of the Boreal Valley has not 
 been killed in this journey yet.</text>
 <text id="99030102">Curse-rotted Greatwood has not been 
 killed in this journey yet.</text>
-<text id="99030103">Crystal Sage has not been killed 
-in this journey yet.</text>
+<text id="99030103">Crystal Sage</text>
 <text id="99030104">Deacons of the Deep has not been 
 killed in this journey yet.</text>
-<text id="99030105">Abyss Watchers has not been killed 
-in this journey yet.</text>
-<text id="99030106">High Lord Wolnir has not been killed 
-in this journey yet.</text>
-<text id="99030107">Old Demon King has not been killed 
-in this journey yet.</text>
-<text id="99030108">Pontiff Sulyvahn has not been killed 
-in this journey yet.</text>
-<text id="99030109">Aldrich has not been killed 
-in this journey yet.</text>
-<text id="99030110">Yhorm the Giant has not been killed 
-in this journey yet.</text>
+<text id="99030105">Abyss Watchers</text>
+<text id="99030106">High Lord Wolnir</text>
+<text id="99030107">Old Demon King</text>
+<text id="99030108">Pontiff Sulyvahn</text>
+<text id="99030109">Aldrich</text>
+<text id="99030110">Yhorm the Giant</text>
 <text id="99030111">Dancer of the Boreal Valley has not 
 been killed in this journey yet.</text>
 <text id="99030112">Oceiros, the Consumed King has not 
 been killed in this journey yet.</text>
-<text id="99030113">Dragonslayer Armour has not been killed 
-in this journey yet.</text>
-<text id="99030114">Ancient Wyvern has not been killed 
-in this journey yet.</text>
-<text id="99030115">Nameless King has not been killed 
-in this journey yet.</text>
-<text id="99030116">Champion Gundyr has not been killed 
-in this journey yet.</text>
-<text id="99030117">Twin Princes has not been killed 
-in this journey yet.</text>
-<text id="99030118">Soul of Cinder has not been killed 
-in this journey yet.</text>
-<text id="99030119">Sister Friede has not been killed 
-in this journey yet.</text>
-<text id="99030120">Lordran Remnants has not been killed 
-in this journey yet.</text>
-<text id="99030121">Demon Prince has not been killed 
-in this journey yet.</text>
-<text id="99030122">Darkeater Midir has not been killed 
-in this journey yet.</text>
-<text id="99030123">Slave Knight Gael has not been killed 
-in this journey yet.</text>
-<text id="99030124">Halflight has not been killed 
-in this journey yet.</text>
-<text id="99030125">Princess Yngvil has not been killed 
-in this journey yet.</text>
-<text id="99030126">Cathedral Guardian has not been killed 
-in this journey yet.</text>
-<text id="99030127">Mirror Knight has not been killed 
-in this journey yet.</text>
-<text id="99030128">Aborr has not been killed 
-in this journey yet.</text>
-<text id="99030129">Prince Dorthinus has not been killed 
-in this journey yet.</text>
-<text id="99030130">The Rock has not been killed 
-in this journey yet.</text>
-<text id="99030131">Twisted Knight has not been killed 
-in this journey yet.</text>
-<text id="99030132">Fallen Protector has not been killed 
-in this journey yet.</text>
+<text id="99030113">Dragonslayer Armour</text>
+<text id="99030114">Ancient Wyvern</text>
+<text id="99030115">Nameless King</text>
+<text id="99030116">Champion Gundyr</text>
+<text id="99030117">Twin Princes</text>
+<text id="99030118">Soul of Cinder</text>
+<text id="99030119">Sister Friede</text>
+<text id="99030120">Lordran Remnants</text>
+<text id="99030121">Demon Prince</text>
+<text id="99030122">Darkeater Midir</text>
+<text id="99030123">Slave Knight Gael</text>
+<text id="99030124">Halflight</text>
+<text id="99030125">Princess Yngvil</text>
+<text id="99030126">Cathedral Guardian</text>
+<text id="99030127">Mirror Knight</text>
+<text id="99030128">Aborr</text>
+<text id="99030129">Prince Dorthinus</text>
+<text id="99030130">The Rock</text>
+<text id="99030131">Twisted Knight</text>
+<text id="99030132">Fallen Protector</text>
+<text id="99030133">Titanite Abomination</text>
+<text id="99030134">The Marauder</text>
 <text id="99030200">Salve, Regina, Mater misericordiae...</text>
 <text id="99030201">...vita, dulcedo, et spes nostra, salve.</text>
 <text id="99030202">Ad te clamamus exsules filii Hevae...</text>
@@ -4144,7 +4118,7 @@ to commune with the fallen knight.</text>
 <text id="99050013">Repeating Yearning Dregs</text>
 <text id="99050014">Black Fire Whip</text>
 <text id="99050015">Weakening Black Fire Orb</text>
-<text id="99050016">Refined Black Fire Scatter</text>
+<text id="99050016">Great Black Fire Scatter</text>
 <text id="99050017">Scorching Black Fire Vestiges</text>
 <text id="99050018">Scorching Black Flame</text>
 <text id="99050019">Quickened Black Serpent</text>
@@ -4226,7 +4200,7 @@ to commune with the fallen knight.</text>
 <text id="99052013">Repeating Yearning Dregs crafted</text>
 <text id="99052014">Black Fire Whip crafted</text>
 <text id="99052015">Weakening Black Fire Orb crafted</text>
-<text id="99052016">Refined Black Fire Scatter crafted</text>
+<text id="99052016">Great Black Fire Scatter crafted</text>
 <text id="99052017">Scorching Black Fire Vestiges crafted</text>
 <text id="99052018">Scorching Black Flame crafted</text>
 <text id="99052019">Quickened Black Serpent crafted</text>
@@ -4265,11 +4239,12 @@ to commune with the fallen knight.</text>
 <text id="99060011">Wanderer Mode</text>
 <text id="99060012">Mythic Mode</text>
 <text id="99060013">Gauntlet Mode</text>
+<text id="99060014">Explorer Mode</text>
 <text id="99060020">Standard mode applies the following effects:
 - None</text>
 <text id="99060021">Wanderer mode applies the following effects:
 - Weaponry and shields can no longer be reinforced.
-- Bosses bestow a permanent 1% damage boost when first killed.</text>
+- Bosses bestow a permanent small damage boost when first killed.</text>
 <text id="99060022">Mythic mode applies the following effects:
 - Weaponry and shields can no longer be reinforced.
 - World is populated by more enemies.
@@ -4280,6 +4255,13 @@ to commune with the fallen knight.</text>
 - Each boss will drop a Weapon, Armor or Accessory token.
 - Spend tokens at the Fire Keeper.
 - Defeat all bosses to complete the gauntlet.</text>
+<text id="99060024">Explorer mode applies the following effects:
+- Increases absorptions by 33%.
+- Grants passive HP regeneration, restoring 1% every second.
+- Grants 30 stamina recovery.
+- Reduces soul absorption by 25%.
+- Invalidates challenge run rewards from Magnum Ursus.
+- Prevents Magnum Ursus from affixing accessories.</text>
 <text id="99060030">Cemetery of Ash</text>
 <text id="99060031">Untended Graves</text>
 <text id="99060032">Archdragon Peak</text>
@@ -4323,19 +4305,143 @@ once you begin your journey.</text>
 once you begin your journey.</text>
 <text id="99060100">Engage the boss or your progress will be reset.</text>
 <text id="99060101">Engage the boss immediately!</text>
-<text id="99060110">Next Boss</text>
+<text id="99060110">Enter the Gauntlet</text>
 <text id="99060120">Gauntlet Type</text>
-<text id="99060121">Set Order</text>
-<text id="99060122">Random Order</text>
-<text id="99060123">Face Boss</text>
-<text id="99060130">Gauntlet will consist of bosses in a set order.
+<text id="99060125">Switch Gauntlet Type</text>
+<text id="99060126">Gauntlet Configuration</text>
+<text id="99060127">Browse Inventory</text>
+<text id="99060128">Enable DLC Bosses</text>
+<text id="99060129">Disable DLC Bosses</text>
+<text id="99060130">DLC Bosses will now appear in the gauntlet.</text>
+<text id="99060131">DLC Bosses will now no longer appear in the gauntlet.</text>
+<text id="99060150">Ordered</text>
+<text id="99060151">Random</text>
+<text id="99060152">Endless</text>
+<text id="99060153">Reverse Ordered</text>
+<text id="99060154">Reverse Endless</text>
+<text id="99060155">Boss Select</text>
+<text id="99060160">Gauntlet will now consist of bosses in a set order.
 
 Defeat all bosses to complete the gauntlet.</text>
-<text id="99060131">Gauntlet will consist of bosses in a random order. 
+<text id="99060161">Gauntlet will now consist of bosses in a random order. 
 
 Each time the boss will be randomised. Once defeated, 
 a boss will no longer appear in the pool of available bosses.
 
-Defeat all bosses to complete the gauntlet.</text>
+Defeat all bosses at least once to complete the gauntlet.</text>
+<text id="99060162">Gauntlet will now consist of bosses in a set order
+without breaks between bosses.
+
+Returning to Firelink Shrine will reset progress.
+
+Defeat all bosses at least onceto complete the gauntlet.</text>
+<text id="99060163">Gauntlet will now consist of bosses in a reversed set order.
+
+Defeat all bosses at least once to complete the gauntlet.</text>
+<text id="99060164">Gauntlet will now consist of bosses in a reversed set order
+without breaks between bosses.
+
+Returning to Firelink Shrine will reset progress.
+
+Defeat all bosses at least once to complete the gauntlet.</text>
+<text id="99060165">Gauntlet will now consist of boss selection, 
+allowing you to select which boss to fight.
+
+Once a boss is defeated, they will stop be selectable.
+
+Defeat all bosses at least once to complete the gauntlet.</text>
+<text id="99060200">Dismal Knight</text>
+<text id="99060201">Vordt of the Boreal Valley</text>
+<text id="99060202">Curse-rotted Greatwood</text>
+<text id="99060203">Crystal Sage</text>
+<text id="99060204">Deacons of the Deep </text>
+<text id="99060205">Abyss Watchers</text>
+<text id="99060206">High Lord Wolnir</text>
+<text id="99060207">Old Demon King</text>
+<text id="99060208">Pontiff Sulyvahn</text>
+<text id="99060209">Aldrich</text>
+<text id="99060210">Yhorm the Giant</text>
+<text id="99060211">Dancer of the Boreal Valley</text>
+<text id="99060212">Oceiros, the Consumed King</text>
+<text id="99060213">Dragonslayer Armour</text>
+<text id="99060214">Ancient Wyvern</text>
+<text id="99060215">Nameless King</text>
+<text id="99060216">Champion Gundyr</text>
+<text id="99060217">Twin Princes</text>
+<text id="99060218">Soul of Cinder</text>
+<text id="99060219">Sister Friede</text>
+<text id="99060220">Lordran Remnants</text>
+<text id="99060221">Demon Prince</text>
+<text id="99060222">Darkeater Midir</text>
+<text id="99060223">Slave Knight Gael</text>
+<text id="99060224">Halflight</text>
+<text id="99060225">Princess Yngvil</text>
+<text id="99060226">Cathedral Guardian</text>
+<text id="99060227">Mirror Knight</text>
+<text id="99060228">Aborr</text>
+<text id="99060229">Prince Dorthinus</text>
+<text id="99060230">The Rock</text>
+<text id="99060231">Twisted Knight</text>
+<text id="99060232">Fallen Protector</text>
+<text id="99060233">Titanite Abomination</text>
+<text id="99060234">The Marauder</text>
+<text id="99060300">Ascension</text>
+<text id="99060301">Sorceries</text>
+<text id="99060302">Pyromancies</text>
+<text id="99060303">Miracles</text>
+<text id="99060304">Hexes</text>
+<text id="99061000">Masteries</text>
+<text id="99061001">Summary</text>
+<text id="99061002">Enable</text>
+<text id="99061003">Disable</text>
+<text id="99061011">Attunement</text>
+<text id="99061012">Endurance</text>
+<text id="99061013">Vitality</text>
+<text id="99061014">Strength</text>
+<text id="99061015">Dexterity</text>
+<text id="99061016">Intelligence</text>
+<text id="99061017">Faith</text>
+<text id="99061018">Luck</text>
+<text id="99061021">Mastery of Attunement provides the following:
+- Increases passive FP restoration to 15 per second.</text>
+<text id="99061022">Mastery of Endurance provides the following:
+- Grants immunity to all non-lethal fall damage.</text>
+<text id="99061023">Mastery of Vitality provides the following:
+- Gain 100 attack deflection for 3 seconds every 9 seconds.</text>
+<text id="99061024">Mastery of Strength provides the following:
+- Boosts maximum equipment load by 25%.</text>
+<text id="99061025">Mastery of Dexterity provides the following:
+- Reduces weapon stamina consumption by 25%.</text>
+<text id="99061026">Mastery of Intelligence provides the following:
+- FP regeneration is no longer paused by any melee attack.</text>
+<text id="99061027">Mastery of Faith provides the following:
+- Doubles the effectiveness of HP restoration.</text>
+<text id="99061028">Mastery of Luck provides the following:
+- Gain a 5% chance to deal double damage with any attack.</text>
+<text id="99061031">You do not have 99 Attunement.</text>
+<text id="99061032">You do not have 99 Endurance.</text>
+<text id="99061033">You do not have 99 Vitality.</text>
+<text id="99061034">You do not have 99 Strength.</text>
+<text id="99061035">You do not have 99 Dexterity.</text>
+<text id="99061036">You do not have 99 Intelligence.</text>
+<text id="99061037">You do not have 99 Faith.</text>
+<text id="99061038">You do not have 99 Luck.</text>
+<text id="99061041">You have enabled the Mastery of Attunement.</text>
+<text id="99061042">You have enabled the Mastery of Endurance.</text>
+<text id="99061043">You have enabled the Mastery of Vitality.</text>
+<text id="99061044">You have enabled the Mastery of Strength.</text>
+<text id="99061045">You have enabled the Mastery of Dexterity.</text>
+<text id="99061046">You have enabled the Mastery of Intelligence.</text>
+<text id="99061047">You have enabled the Mastery of Faith.</text>
+<text id="99061048">You have enabled the Mastery of Luck.</text>
+<text id="99061050">Disabled.</text>
+<text id="99061100">Hollowing</text>
+<text id="99061101">Hollowing has a marked effect on you, causing the following effects:
+- Reduces max HP by 5%.
+- Boosts Dark damage by 10%.
+- Boosts Dark absorption by 10%.
+
+This effect can stack up to 10 times once at 99 Hollowing.
+</text>
 </entries>
 </fmg>

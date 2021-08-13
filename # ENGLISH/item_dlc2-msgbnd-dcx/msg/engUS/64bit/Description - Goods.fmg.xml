@@ -501,7 +501,7 @@ Though the stench makes it difficult to carry on one's person, inflicting toxins
 Throw to shatter, spreading souls which attract enemies. Not effective for all foes.</text>
 <text id="295">%null%</text>
 <text id="296">Tool used to hunt down the Undead.
-Blocks Estus recovery within a limited area.
+Blocks Estus recovery and reduces any form of healing to zero within a limited area for 25 seconds.
 
 Used long ago by Lloyd's cleric knights on their Undead hunts. Although Allfather Lloyd is long forgotten by the Way of White, his hunts have lived on, and this charm allows one to challenge Undead without fear of tenacious healing.</text>
 <text id="297">More powerful bisque urn filled with special black
@@ -550,7 +550,7 @@ Throw behind at enemies to inflict 60 Poison against them and yourself.
 
 Strictly speaking, this consists of different material than the dung pie, but waste is waste, no sense in splitting hairs.</text>
 <text id="304">Tool used in duels of judgment. Nulls effects
-of special area effects for a short time.
+of special area effects and prevents spell casting for 20 seconds.
 
 Allfather Lloyd's knights lived in fear of his duels of judgment, in which verdicts were carried out by his Sword of Law.</text>
 <text id="305">%null%</text>
@@ -559,7 +559,7 @@ Allfather Lloyd's knights lived in fear of his duels of judgment, in which verdi
 <text id="308">%null%</text>
 <text id="309">%null%</text>
 <text id="310">Small throwing knife.
-Throw at enemies to inflict damage.
+Throw at enemies to inflict physical damage.
 Scales with Luck.
 
 Most items choose their wielder, and only
@@ -571,6 +571,55 @@ Scales with Luck.
 
 Used by assassins of Londor, land of Hollows.
 The poison is jokingly known as Hollow's blood.</text>
+<text id="320">Small throwing knife imbued with magic.
+Throw at enemies to inflict magic damage.
+Scales with Luck.
+
+Most items choose their wielder, and only
+experience can improve their effectiveness.
+True strength can be gained in no other way.</text>
+<text id="321">Small throwing knife imbued with fire.
+Throw at enemies to inflict fire damage.
+Scales with Luck.
+
+Most items choose their wielder, and only
+experience can improve their effectiveness.
+True strength can be gained in no other way.</text>
+<text id="322">Small throwing knife imbued with lightning.
+Throw at enemies to inflict lightning damage.
+Scales with Luck.
+
+Most items choose their wielder, and only
+experience can improve their effectiveness.
+True strength can be gained in no other way.</text>
+<text id="323">Small throwing knife imbued with darkness.
+Throw at enemies to inflict dark damage.
+Scales with Luck.
+
+Most items choose their wielder, and only
+experience can improve their effectiveness.
+True strength can be gained in no other way.</text>
+<text id="324">A throwing knife dipped in the abyss.
+Throw at enemies to deal damage and inflict 30 Curse.
+Scales with Luck.
+
+Most items choose their wielder, and only
+experience can improve their effectiveness.
+True strength can be gained in no other way.</text>
+<text id="325">A lacerating throwing knife.
+Throw at enemies to deal damage and inflict 20 Bleed.
+Scales with Luck.
+
+Most items choose their wielder, and only
+experience can improve their effectiveness.
+True strength can be gained in no other way.</text>
+<text id="326">A throwing knife dipped in frost.
+Throw at enemies to deal damage and inflict 30 Frost.
+Scales with Luck.
+
+Most items choose their wielder, and only
+experience can improve their effectiveness.
+True strength can be gained in no other way.</text>
 <text id="330">Black charcoal-like pine resin.
 Temporarily applies fire to right-hand weapon.
 
@@ -1294,6 +1343,12 @@ One of the twisted souls, steeped in strength.
 The fair maiden and her loyal protector were once adherents of the sun.
 As eons passed, the pair succumbed to hollowing, becoming listless and void of coherent thought.
 As the emptiness permeated, they were drawn to the comforting voices of the abyss.</text>
+<text id="756">Soul of the Marauder, a duplicitous knave.
+One of the twisted souls, steeped in strength.
+
+Bestowed with the mother's gift from Brume Tower, the Marauder slew her former adherent and donned his armor. However, his nature was not one of loyalty, and soon the mother much regretted her choice.
+
+As the ages pasted, the Marauder wandered the lands, in search of his next victim.</text>
 <text id="800">Small stone made up of crystallized souls. 
 
 Restores 300 HP over 30 seconds.
@@ -1955,6 +2010,11 @@ Once used, boosts the power of imbued dark, greatly increasing Dark attack tempo
 <text id="2304">Ember once used to forge the stone weaponry of giants.
 
 Once used, boosts the inherent physicality of a weapon, greatly increasing Physical attack temporarily.</text>
+<text id="3003">A seemingly mundane frying pan, small enough to be used as a projectile.
+
+Throw to inflict high Poise damage and Stamina damage.
+
+Not to be underestimated, as it can be thrown with enough force to send most enemies flying.</text>
 <text id="3004">A rusty old coin that surely has no currency.
 
 Crushing the coin gives a boost to soul gain.
@@ -1972,7 +2032,7 @@ A rich man lost his fortune, but it returned to him twofold. He was swift to squ
 Explodes, inflicting great dark damage.</text>
 <text id="3019">Powerful bisque urn filled with holy water. 
 
-Explodes, inflicting great damage to hollows.</text>
+Explodes, inflicting physical damage and reducing all absorptions by 10% for 10 seconds.</text>
 <text id="3020">Powerful bisque urn filled with magical energies. 
 
 Explodes, inflicting great magic damage.</text>
@@ -2599,6 +2659,16 @@ Those who cannot remember the past are condemned to repeat it...</text>
 <text id="5033">A worn tome that contains an account of a past heir of fire and its downfall.
 
 Read to revive the Fallen Protector and warp to the entrance of the boss arena.
+
+Those who cannot remember the past are condemned to repeat it...</text>
+<text id="5034">A worn tome that contains an account of a past heir of fire and its downfall.
+
+Read to revive the Titanite Abomination and warp to the entrance of the boss arena.
+
+Those who cannot remember the past are condemned to repeat it...</text>
+<text id="5035">A worn tome that contains an account of a past heir of fire and its downfall.
+
+Read to revive the Marauder and warp to the entrance of the boss arena.
 
 Those who cannot remember the past are condemned to repeat it...</text>
 <text id="5300">Enchanted book inscribed with a cryptic ritual.
@@ -4814,6 +4884,8 @@ One of the Great Swamp's more advanced spells.
 
 Hurls an exploding fireball.
 
+The amount of fireballs is increased with Intelligence.
+
 A rare technique that undergoes change after
 leaving the caster's hand, making this a spell
 renowned for its difficulty.</text>
@@ -4821,7 +4893,9 @@ renowned for its difficulty.</text>
 One of the Great Swamp's more advanced spells.
 
 Hurls an incendiary exploding fireball.
-Deals 10 damage per second for 10 seconds. Stacks.
+Deals 2 damage per second for 10 seconds. Stacks.
+
+The amount of fireballs is increased with Intelligence.
 
 A rare technique that undergoes change after
 leaving the caster's hand, making this a spell
@@ -5706,10 +5780,14 @@ The black flame born from fire bore its smoldering essence and perished in the a
 
 Hurls an exploding black fireball, inflicting 10 Toxic each.
 
+The amount of fireballs is increased with Intelligence.
+
 Those who linger too long on the brink of the Abyss will often slip. What they find within can astound even the most learned man.</text>
 <text id="4204010">Hex discovered by grave wardens after High Lord Wolnir fell to the Abyss.
 
-Hurls an exploding black fireball with no focus cost, inflicting 10 Toxic each.
+Hurls an exploding great black fireball, inflicting 15 Toxic each.
+
+The amount of fireballs is increased with Intelligence.
 
 Those who linger too long on the brink of the Abyss will often slip. What they find within can astound even the most learned man.</text>
 <text id="4205000">Hex discovered by grave wardens after High Lord Wolnir fell to the Abyss.

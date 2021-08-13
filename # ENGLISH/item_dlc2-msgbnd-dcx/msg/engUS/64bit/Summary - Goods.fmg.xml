@@ -119,7 +119,7 @@
 <text id="293">Turns enemy toxic, but also affects user</text>
 <text id="294">Attracts certain types of enemies</text>
 <text id="295">%null%</text>
-<text id="296">Prevents Estus recovery within a limited area</text>
+<text id="296">Prevents HP recovery within a limited area</text>
 <text id="297">Explodes, inflicting fire damage</text>
 <text id="298">%null%</text>
 <text id="299">Thrown behind, explodes inflicting fire damage</text>
@@ -127,14 +127,21 @@
 <text id="301">Cleanse Undead with holy essence</text>
 <text id="302">Thrown behind, explodes inflicting high fire damage</text>
 <text id="303">Turns enemy toxic, but also affects user</text>
-<text id="304">Temporarily disables special effects in vicinity</text>
+<text id="304">Temporarily disables special effects and prevents spell casting in vicinity</text>
 <text id="305">%null%</text>
 <text id="306">%null%</text>
 <text id="307">%null%</text>
 <text id="308">%null%</text>
 <text id="309">%null%</text>
-<text id="310">Throw at foes to inflict damage</text>
-<text id="311">Throw at foes to inflict damage and poison</text>
+<text id="310">Throw at foes to inflict physical damage</text>
+<text id="311">Throw at foes to inflict physical damage and poison</text>
+<text id="320">Throw at foes to inflict magic damage</text>
+<text id="321">Throw at foes to inflict fire damage</text>
+<text id="322">Throw at foes to inflict lightning damage</text>
+<text id="323">Throw at foes to inflict dark damage</text>
+<text id="324">Throw at foes to inflict physical damage and curse</text>
+<text id="325">Throw at foes to inflict physical damage and bleed</text>
+<text id="326">Throw at foes to inflict physical damage and frostbite</text>
 <text id="330">Applies fire to right-hand weapon</text>
 <text id="331">Applies lightning to right-hand weapon</text>
 <text id="332">%null%</text>
@@ -333,6 +340,7 @@
 <text id="753">One of the twisted souls, steeped in strength</text>
 <text id="754">One of the twisted souls, steeped in strength</text>
 <text id="755">One of the twisted souls, steeped in strength</text>
+<text id="756">One of the twisted souls, steeped in strength</text>
 <text id="800">Restore small amount of HP over time</text>
 <text id="801">Restore medium amount of HP over time</text>
 <text id="802">Restore large amount of HP over time</text>
@@ -513,6 +521,7 @@
 <text id="3000">Offer this to Cornyx</text>
 <text id="3001">Used for ascended reinforcement to +14/+9, or forged into new items</text>
 <text id="3002">Used for ascended reinforcement to +15/+10</text>
+<text id="3003">Throw to inflict high Poise damage and Stamina damage</text>
 <text id="3004">Crush to boost soul gain</text>
 <text id="3005">Crush to greatly boost soul gain</text>
 <text id="3006">Applies an aura of flame</text>
@@ -528,7 +537,7 @@
 <text id="3016">Grants brief immunity to Lightning</text>
 <text id="3017">Grants brief immunity to Dark</text>
 <text id="3018">Explodes, inflicting dark damage</text>
-<text id="3019">Explodes, inflicting massive damage to hollows</text>
+<text id="3019">Explodes, inflicting physical damage and reducing all absorptions</text>
 <text id="3020">Explodes, inflicting magic damage</text>
 <text id="3021">Temporarily increases strength</text>
 <text id="3022">Temporarily increases dexterity</text>
@@ -685,6 +694,8 @@
 <text id="5031">Revive the Rock</text>
 <text id="5032">Revive the Twisted Knight</text>
 <text id="5033">Revive the Fallen Protector</text>
+<text id="5034">Revive the Titanite Abomination</text>
+<text id="5035">Revive the Marauder</text>
 <text id="5300">Beckon local companion to the player</text>
 <text id="5400">Explodes, inflicting fire damage</text>
 <text id="5410">Explodes, inflicting lightning damage</text>
@@ -1399,7 +1410,7 @@
 <text id="4203000">Hurl black fire flame that scorches vicinity</text>
 <text id="4203010">Hurl black fire flame that scorches vicinity</text>
 <text id="4204000">Hurls an exploding black fireball</text>
-<text id="4204010">Hurls an exploding black fireball with no focus cost</text>
+<text id="4204010">Hurls an exploding great black fireball</text>
 <text id="4205000">Create giant, black flame in hand</text>
 <text id="4205010">Create giant, scorching black flame in hand</text>
 <text id="4206000">Release undulating black flame that runs along the ground</text>
