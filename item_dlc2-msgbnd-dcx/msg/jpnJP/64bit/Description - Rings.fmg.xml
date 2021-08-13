@@ -56,725 +56,913 @@
 <text id="147">%null%</text>
 <text id="148">%null%</text>
 <text id="149">%null%</text>
-<text id="10000">A silver pendant depicting the Darkmoon and a sword, the crest of the Darkmoon Knights, the original Blue Sentinels. 
+<text id="10000">暗月と剣を象った銀のペンダント
+青の守護者の由来であり、暗月の騎士の証
 
-Restores 3 FP every second whilst worn.
+装備することで、ＦＰをゆっくりと回復する
+また倒した敵から
+まれに約定の証を入手できるようになる
 
-Enables the collection of Proof of a Concord Kept from enemies.
+暗月の剣は、古く青教と約定を結んでおり
+青教の誓約者が闇霊の侵入に苦しむとき
+暗月の剣として助け、闇霊を狩る使命がある</text>
+<text id="10020">古びた狼の紋章メダル
+ファランの老狼との約束の証
 
-When a member of the Way of Blue faces a dark spirit, the Blades of the Darkmoon, by an ancient accord, help to root out the invader.</text>
-<text id="10020">Ancient medallion depicting the crest of a wolf. Symbolizes the pact with the Old Wolf of Farron. 
+装備することで、攻撃時のスタミナ減少を抑える
+また倒した敵から
+まれに狼の剣草を入手できるようになる
 
-Reduces weapon stamina consumption by 10% whilst worn.
+番人は、戦士たちの眠りを守る者であり
+ファランの森に近づくものがあったとき
+誓約霊としてそれを狩る使命がある</text>
+<text id="10030">深みの聖堂のホーリーシンボル
+火の先に深海の時代を見る者たちの証
 
-Enables the collection of Wolf's Blood Swordgrass from enemies.
+装備することで、闇攻撃力を高める
+また倒した敵から
+まれに人の澱みを入手できるようになる
 
-The Watchdogs ensure that the warriors sleep in serenity, by taking the form of loyal spirits and hunting down those who would trespass the woods of Farron.</text>
-<text id="10030">The holy symbol of the Cathedral of the Deep, and crest of those who see beyond fire to the age of deep waters. 
+守り手は、エルドリッチの神喰らいを邪魔されぬよう
+廃聖堂に近づくものがあったとき
+誓約霊としてそれを狩る使命がある</text>
+<text id="10040">太陽の戦士たちに与えられた古い護符
+ホーリーシンボルが描かれている
 
-Boosts Dark damage by 5% whilst worn.
+装備することで、雷攻撃力を高める
+また倒した敵から
+まれに太陽のメダルを入手できるようになる
 
-Enables the collection of Human Dregs from enemies.
+太陽の戦士は、輝ける協力者であり
+それを求める誰かのために、黄金のサインを書き
+召喚者を成功に導く使命があるのだ</text>
+<text id="10050">狂人が見出した異形の椎骨
+剥離した内側に奇妙な印が刻まれている
+それは神の枷、その証であるはずだ
 
-The Faithful ensure that Aldrich, Devourer of Gods, remains undisturbed, by taking the form of loyal spirits and hunting down those who would trespass the ruined cathedral.</text>
-<text id="10040">An ancient talisman depicting a holy symbol bestowed upon the Warriors of Sunlight. 
+装備することで、物理攻撃力を高める
+また倒した敵から
+まれに枷の椎骨を入手できるようになる
 
-Boosts Lightning damage by 5% whilst worn.
+積む者は、ただ積むべき枷を求めており
+協力であれ侵入であれ、狂った霊となる
 
-Enables the collection of Sunlight Medal from enemies.
+相手が何者であれ関係ない
+殺し続けた先にだけ、枷は見つかるだろう</text>
+<text id="10060">盗賊の盟約を示すメダル
 
-Warriors of Sunlight are brilliantly beaming co-operators who place their golden signatures to help those in need, for it is their duty to deliver a great conquest to their summoner.</text>
-<text id="10050">A malformed vertebra found by the mad, with a queer symbol on its inside, proof of the shackles of the Gods. 
+装備することで、発見力を高める
+また倒した敵から
+まれにアイテムを入手できるようになる
 
-Increases Physical damage by 5% whilst worn.
+盗みの成功には、仲間同士の信頼が不可欠である</text>
+<text id="10070">混沌の従者の呪術書
+混沌の炎に誓いを立てた者の証
 
-Enables the collection of Vertebra Shackle from enemies.
+装備することで、炎攻撃力を高める
+また倒した敵から
+まれに火の種を入手できるようになる</text>
+<text id="10080">生まれ変わりの母、ロザリアに仕える
+大主教クリムトの聖印
 
-The mound-makers wish only to add to their mounds, becoming mad spirits whether summoned as co-operators or invaders. They are blithe to those around them, for in their minds, any kill might lead to another shackle.</text>
-<text id="10060">The emblem for the Thieves' Pact. 
+装備することで、吸収ソウルを増やす
+また倒した敵から
+まれに青ざめた舌を入手できるようになる
 
-Increases Item Discovery by 25 whilst worn.
+ロザリアの指は、彼女に舌を捧げる者たちである
+ある者は生まれ変わりのために
+またある者は、ただ声なき女神を慰めるために</text>
+<text id="10100">ヴィンハイムの賢者たちのスクロール
+賢者たちの中でも優れたる者の証
 
-Enables the collection of various consumable items from enemies.
+装備することで、魔法攻撃力を高める
+また倒した敵から
+まれに結晶の欠片を入手できるようになる</text>
+<text id="10110">真の意味を求める闇の巡礼者に与えられた書物
 
-The success of thievery depends upon bonds of trust amongst thieves.</text>
-<text id="10070">Emblem of the Chaos Servants, sworn to the Chaos Flame.
+装備することで、魔法の詠唱時間を短くする
+また倒した敵から
+まれに深淵の断片を入手できるようになる
 
-Increases Fire damage by 5% whilst worn.
+闇とは何か
+それを知りながら、恐れながらも
+巡礼者はその内に安らぎを見出すのだ</text>
+<text id="10120">白教を象徴する光の環
 
-Enables the collection of Fire Seeds from enemies.</text>
-<text id="10080">Sacred seal of Archdeacon Klimt, who served Rosaria, Mother of Rebirth. 
+装備することで、エスト瓶のＨＰ回復量を高める
+また倒した敵から
+まれに聖なる断片を入手できるようになる</text>
+<text id="10130">竜の似姿を描いた石板
 
-Increases soul absorption by 10% whilst worn.
+装備することで、攻撃時に
+敵のスタミナが大きく減少する
+また倒した敵から
+まれに古竜の瞳を入手できるようになる
 
-Enables the collection of Pale Tongues from enemies.
+人の身であることが、人間の最たる弱点であるならば
+古竜の似姿を追い求める者は
+真の先駆者と呼べるだろう</text>
+<text id="10140">色褪せた羊皮紙
+暗月と剣の印が記されている
 
-Rosaria's Fingers collect tongues in her name. Some do it to be reborn; others do it to help comfort their voiceless goddess.</text>
-<text id="10100">A scroll confirming membership to an elite cabal of Vinheim scholars.
+装備することで、最大ＦＰを増やす
+また倒した敵から
+まれに約定の証を入手できるようになる
 
-Increases Magic damage by 5% whilst worn.
+青の守護者は、古い約定を引き継いでおり
+青教の誓約者が闇霊の侵入に苦しむとき
+青霊として助け、闇霊を狩る使命がある</text>
+<text id="10150">青ざめた羊皮紙
+古い約定の月が記されている
 
-Enables the collection of Crystal Fragments from enemies.</text>
-<text id="10110">A book given to pilgrims of dark, whom seeketh its true meaning.
+装備することで、最大ＨＰを増やす
+また倒した敵から
+まれにアイテムを入手できるようになる
 
-Increases casting speed by 15 whilst worn.
+青教は、古い約定の庇護者であり
+誓約者が闇霊の侵入に苦しむとき
+闇霊を狩る、青霊の助けを得ることができる</text>
+<text id="10160">勝者の名前が刻まれた銘板
+最も誓約に身を捧げた、勇敢な戦士たちの名を
+墓碑銘のように刻みその生を称えている
 
-Enables the collection of Abyssal Fragments from enemies.
+装備することで、敵の攻撃力と防御力が高まり
+ソウル吸収量が上昇する
+また倒した敵から
+まれに力石を入手できるようになる</text>
+<text id="10170">ネズミの王の紋章
+王に忠誠を誓う人間は、その心を示すため
+いかなるときでも紋章を身に着ける
 
-What is dark? Perhaps we already know. We fear the dark, yet find solace in it.</text>
-<text id="10120">A band of light that symbolizes the Way of White.
+装備することで、防御力と耐性が高まる
+また倒した敵から
+まれにネズミのしっぽを入手できるようになる</text>
+<text id="10180">祭祀者の紋章
+儀式を行う者は、大義への忠誠を示すため
+常にこの紋章を身につけることが求められる
 
-Increases HP restored by the Estus Flask by 10% whilst worn.
+装備することで、協力者の攻撃力を高める
+また倒した敵から
+まれに儀式香を入手できるようになる</text>
+<text id="20000">古くから伝わる、小さな赤い宝石の指輪
+最大ＨＰを増やす
 
-Enables the collection of Holy Fragments from enemies.</text>
-<text id="10130">A stone tablet depicting the form of a dragon.
+指輪には、様々な力が込められている
+旅の途中でそれらを見つければ
+大きな助けになることだろう</text>
+<text id="20001">古くから伝わる、小さな赤い宝石の指輪
+最大ＨＰを増やす
 
-Increases stamina drain dealt to enemies by 25% whilst worn.
+指輪には、様々な力が込められている
+旅の途中でそれらを見つければ
+大きな助けになることだろう</text>
+<text id="20002">古くから伝わる、小さな赤い宝石の指輪
+最大ＨＰを増やす
 
-Enables the collection of Dragon Eyes from enemies.
+指輪には、様々な力が込められている
+旅の途中でそれらを見つければ
+大きな助けになることだろう</text>
+<text id="20003">古くから伝わる、小さな赤い宝石の指輪
+最大ＨＰを増やす
 
-If our human flesh is our greatest weakness,
-then those who seek a form that imitates the
-ancient dragons are true vanguards.</text>
-<text id="10140">Faded sheepskin parchment depicting the Darkmoon and a sword. 
+指輪には、様々な力が込められている
+旅の途中でそれらを見つければ
+大きな助けになることだろう</text>
+<text id="20004">古くから伝わる、小さな赤い宝石の指輪
+最大ＨＰを増やす
 
-Increases max FP by 5% whilst worn.
+指輪には、様々な力が込められている
+旅の途中でそれらを見つければ
+大きな助けになることだろう</text>
+<text id="20005">古くから伝わる、小さな赤い宝石の指輪
+最大ＨＰを増やす
 
-Enables the collection of Proof of a Concord Kept from enemies.
-
-When a member of the Way of Blue is threatened by a dark spirit, the Blue Sentinels, in compliance with an ancient accord, assume the form of blue spirits, and help to root out the leader.</text>
-<text id="10150">Pale blue sheepskin parchment detailing the moon of an ancient accord. 
-
-Increases max HP by 5% whilst worn.
-
-Enables the collection of random consumables from enemies.
-
-Members of the Way of Blue are the beneficiaries of an ancient accord. When a dark spirit threatens them, a blue spirit will grant them assistance, and help root out the invader.</text>
-<text id="10160">Crude tablet inscribed with the names of victors.
-Engraved with the names of the brave warriors who have offered the most awestones, as if they were epitaphs, honoring their lives.
-
-Increases the strength and toughness of enemies by 30%, boosts soul absorption by 10% whilst worn.
-
-Enables the collection of Awestones from enemies.</text>
-<text id="10170">Crest of the Rat King. 
-Humans that follow the Rat King must wear this crest at all times to signify their allegiance to the cause.
-
-Increases all defences and resistances by 5%.
-
-Enables the collection of Rat Tails from enemies.</text>
-<text id="10180">Sigil of the ritualists.
-Humans that utilise rituals must wear this crest at all times to signify their allegiance to the cause.
-
-Boosts the damage of companions by 25% whilst worn.
-
-Enables the collection of Ritual Incense from enemies whilst a companion is out.</text>
-<text id="20000">A generations-old ring set with a small red jewel.
-
-Raises maximum HP by 10%.
-
-Rings have unique powers, and their discovery will do much to ease a wearisome journey.</text>
-<text id="20001">A generations-old ring set with a small red jewel.
-
-Raises maximum HP by 14%.
-
-Rings have unique powers, and their discovery will do much to ease a wearisome journey.</text>
-<text id="20002">A generations-old ring set with a small red jewel.
-
-Raises maximum HP by 18%.
-
-Rings have unique powers, and their discovery will do much to ease a wearisome journey.</text>
-<text id="20003">A generations-old ring set with a small red jewel.
-
-Raises maximum HP by 22%.
-
-Rings have unique powers, and their discovery will do much to ease a wearisome journey.</text>
-<text id="20004">A generations-old ring set with a small red jewel.
-
-Raises maximum HP by 26%.
-
-Rings have unique powers, and their discovery will do much to ease a wearisome journey.</text>
-<text id="20005">A generations-old ring set with a small red jewel.
-
-Raises maximum HP by 30%.
-
-Rings have unique powers, and their discovery will do much to ease a wearisome journey.</text>
+指輪には、様々な力が込められている
+旅の途中でそれらを見つければ
+大きな助けになることだろう</text>
 <text id="20006">%null%</text>
 <text id="20007">%null%</text>
 <text id="20008">%null%</text>
 <text id="20009">%null%</text>
-<text id="20010">This old ring is named for its decorative green blossom, but its luster is long since faded.
+<text id="20010">大輪の緑花を象った古い指輪
+だが美しい緑は、とうに失われている
 
-Increases stamina recovery by 20.</text>
-<text id="20011">This old ring is named for its decorative green blossom, but its luster is long since faded.
+スタミナの回復速度を上げる</text>
+<text id="20011">大輪の緑花を象った古い指輪
+だが美しい緑は、とうに失われている
 
-Increases stamina recovery by 24.</text>
-<text id="20012">This old ring is named for its decorative green blossom, but its luster is long since faded.
+スタミナの回復速度を上げる</text>
+<text id="20012">大輪の緑花を象った古い指輪
+だが美しい緑は、とうに失われている
 
-Increases stamina recovery by 28.</text>
-<text id="20013">This old ring is named for its decorative green blossom, but its luster is long since faded.
+スタミナの回復速度を上げる</text>
+<text id="20013">大輪の緑花を象った古い指輪
+だが美しい緑は、とうに失われている
 
-Increases stamina recovery by 32.</text>
-<text id="20014">This old ring is named for its decorative green blossom, but its luster is long since faded.
+スタミナの回復速度を上げる</text>
+<text id="20014">大輪の緑花を象った古い指輪
+だが美しい緑は、とうに失われている
 
-Increases stamina recovery by 36.</text>
-<text id="20015">This old ring is named for its decorative green blossom, but its luster is long since faded.
+スタミナの回復速度を上げる</text>
+<text id="20015">大輪の緑花を象った古い指輪
+だが美しい緑は、とうに失われている
 
-Increases stamina recovery by 40.</text>
+スタミナの回復速度を上げる</text>
 <text id="20016">%null%</text>
 <text id="20017">%null%</text>
 <text id="20018">%null%</text>
 <text id="20019">%null%</text>
-<text id="20020">A ring for warriors keen on heavy accoutrements.
-Increases maximum equip load by 20%.
+<text id="20020">重厚をもってよしとする戦士たちの指輪
+最大装備重量を増やす
 
-This ring was named after Havel the Rock, the battlefield compatriot of Gwyn, the First Lord.
+最古の王グウィンの戦友として知られる
+「岩のような」ハベルに由来するという
 
-The art of war has been a constant since ages past, and those who would follow in Havel's footsteps are no fewer now than in his own day.</text>
-<text id="20021">A ring for warriors keen on heavy accoutrements.
-Increases maximum equip load by 24%.
+戦いは古くからその姿を変えず
+ハベルの信奉者が絶えることはなかった</text>
+<text id="20021">重厚をもってよしとする戦士たちの指輪
+最大装備重量を増やす
 
-This ring was named after Havel the Rock, the battlefield compatriot of Gwyn, the First Lord.
+最古の王グウィンの戦友として知られる
+「岩のような」ハベルに由来するという
 
-The art of war has been a constant since ages past, and those who would follow in Havel's footsteps are no fewer now than in his own day.</text>
-<text id="20022">A ring for warriors keen on heavy accoutrements.
-Increases maximum equip load by 28%.
+戦いは古くからその姿を変えず
+ハベルの信奉者が絶えることはなかった</text>
+<text id="20022">重厚をもってよしとする戦士たちの指輪
+最大装備重量を増やす
 
-This ring was named after Havel the Rock, the battlefield compatriot of Gwyn, the First Lord.
+最古の王グウィンの戦友として知られる
+「岩のような」ハベルに由来するという
 
-The art of war has been a constant since ages past, and those who would follow in Havel's footsteps are no fewer now than in his own day.</text>
-<text id="20023">A ring for warriors keen on heavy accoutrements.
-Increases maximum equip load by 32%.
+戦いは古くからその姿を変えず
+ハベルの信奉者が絶えることはなかった</text>
+<text id="20023">重厚をもってよしとする戦士たちの指輪
+最大装備重量を増やす
 
-This ring was named after Havel the Rock, the battlefield compatriot of Gwyn, the First Lord.
+最古の王グウィンの戦友として知られる
+「岩のような」ハベルに由来するという
 
-The art of war has been a constant since ages past, and those who would follow in Havel's footsteps are no fewer now than in his own day.</text>
-<text id="20024">A ring for warriors keen on heavy accoutrements.
-Increases maximum equip load by 36%.
+戦いは古くからその姿を変えず
+ハベルの信奉者が絶えることはなかった</text>
+<text id="20024">重厚をもってよしとする戦士たちの指輪
+最大装備重量を増やす
 
-This ring was named after Havel the Rock, the battlefield compatriot of Gwyn, the First Lord.
+最古の王グウィンの戦友として知られる
+「岩のような」ハベルに由来するという
 
-The art of war has been a constant since ages past, and those who would follow in Havel's footsteps are no fewer now than in his own day.</text>
-<text id="20025">A ring for warriors keen on heavy accoutrements.
-Increases maximum equip load by 40%.
+戦いは古くからその姿を変えず
+ハベルの信奉者が絶えることはなかった</text>
+<text id="20025">重厚をもってよしとする戦士たちの指輪
+最大装備重量を増やす
 
-This ring was named after Havel the Rock, the battlefield compatriot of Gwyn, the First Lord.
+最古の王グウィンの戦友として知られる
+「岩のような」ハベルに由来するという
 
-The art of war has been a constant since ages past, and those who would follow in Havel's footsteps are no fewer now than in his own day.</text>
+戦いは古くからその姿を変えず
+ハベルの信奉者が絶えることはなかった</text>
 <text id="20026">%null%</text>
 <text id="20027">%null%</text>
 <text id="20028">%null%</text>
 <text id="20029">%null%</text>
-<text id="20030">A ring symbolizing the favor of the Goddess Fina, whose "fateful beauty" is mentioned in legend.
+<text id="20030">「運命的な美しさ」を謡われる
+女神フィナの寵愛の指輪
 
-True to the fickle nature of Fina's favor, her ring increases max HP, stamina, and maximum equip load by 7.5%.</text>
-<text id="20031">A ring symbolizing the favor of the Goddess Fina, whose "fateful beauty" is mentioned in legend.
+女神の寵愛は蝶のように移り気で
+最大ＨＰ、スタミナ、最大装備重量
+全てを増やす</text>
+<text id="20031">「運命的な美しさ」を謡われる
+女神フィナの寵愛の指輪
 
-True to the fickle nature of Fina's favor, her ring increases max HP, stamina, and maximum equip load by 10%.</text>
-<text id="20032">A ring symbolizing the favor of the Goddess Fina, whose "fateful beauty" is mentioned in legend.
+女神の寵愛は蝶のように移り気で
+最大ＨＰ、スタミナ、最大装備重量
+全てを増やす</text>
+<text id="20032">「運命的な美しさ」を謡われる
+女神フィナの寵愛の指輪
 
-True to the fickle nature of Fina's favor, her ring increases max HP, stamina, and maximum equip load by 12.5%.</text>
-<text id="20033">A ring symbolizing the favor of the Goddess Fina, whose "fateful beauty" is mentioned in legend.
+女神の寵愛は蝶のように移り気で
+最大ＨＰ、スタミナ、最大装備重量
+全てを増やす</text>
+<text id="20033">「運命的な美しさ」を謡われる
+女神フィナの寵愛の指輪
 
-True to the fickle nature of Fina's favor, her ring increases max HP, stamina, and maximum equip load by 15%.</text>
-<text id="20034">A ring symbolizing the favor of the Goddess Fina, whose "fateful beauty" is mentioned in legend.
+女神の寵愛は蝶のように移り気で
+最大ＨＰ、スタミナ、最大装備重量
+全てを増やす</text>
+<text id="20034">「運命的な美しさ」を謡われる
+女神フィナの寵愛の指輪
 
-True to the fickle nature of Fina's favor, her ring increases max HP, stamina, and maximum equip load by 17.5%.</text>
-<text id="20035">A ring symbolizing the favor of the Goddess Fina, whose "fateful beauty" is mentioned in legend.
+女神の寵愛は蝶のように移り気で
+最大ＨＰ、スタミナ、最大装備重量
+全てを増やす</text>
+<text id="20035">「運命的な美しさ」を謡われる
+女神フィナの寵愛の指輪
 
-True to the fickle nature of Fina's favor, her ring increases max HP, stamina, and maximum equip load by 20%.</text>
+女神の寵愛は蝶のように移り気で
+最大ＨＰ、スタミナ、最大装備重量
+全てを増やす</text>
 <text id="20036">%null%</text>
 <text id="20037">%null%</text>
 <text id="20038">%null%</text>
 <text id="20039">%null%</text>
-<text id="20040">Ring of the Knight King of ancient legend.
+<text id="20040">古い伝説の騎士王の指輪
+物理カット率を高める
 
-Increases physical damage absorption by 10%.
+騎士王はその内に鉄を抱き
+巨大な飛竜の爪ですらも
+彼を十分に傷つけなかったという</text>
+<text id="20041">古い伝説の騎士王の指輪
+物理カット率を高める
 
-The Knight King was said to be lined with steel on the inside, such that even the talons of mighty dragons did him little harm.</text>
-<text id="20041">Ring of the Knight King of ancient legend.
+騎士王はその内に鉄を抱き
+巨大な飛竜の爪ですらも
+彼を十分に傷つけなかったという</text>
+<text id="20042">古い伝説の騎士王の指輪
+物理カット率を高める
 
-Increases physical damage absorption by 14%.
+騎士王はその内に鉄を抱き
+巨大な飛竜の爪ですらも
+彼を十分に傷つけなかったという</text>
+<text id="20043">古い伝説の騎士王の指輪
+物理カット率を高める
 
-The Knight King was said to be lined with steel on the inside, such that even the talons of mighty dragons did him little harm.</text>
-<text id="20042">Ring of the Knight King of ancient legend.
+騎士王はその内に鉄を抱き
+巨大な飛竜の爪ですらも
+彼を十分に傷つけなかったという</text>
+<text id="20044">古い伝説の騎士王の指輪
+物理カット率を高める
 
-Increases physical damage absorption by 18%.
+騎士王はその内に鉄を抱き
+巨大な飛竜の爪ですらも
+彼を十分に傷つけなかったという</text>
+<text id="20045">古い伝説の騎士王の指輪
+物理カット率を高める
 
-The Knight King was said to be lined with steel on the inside, such that even the talons of mighty dragons did him little harm.</text>
-<text id="20043">Ring of the Knight King of ancient legend.
-
-Increases physical damage absorption by 22%.
-
-The Knight King was said to be lined with steel on the inside, such that even the talons of mighty dragons did him little harm.</text>
-<text id="20044">Ring of the Knight King of ancient legend.
-
-Increases physical damage absorption by 26%.
-
-The Knight King was said to be lined with steel on the inside, such that even the talons of mighty dragons did him little harm.</text>
-<text id="20045">Ring of the Knight King of ancient legend.
-
-Increases physical damage absorption by 30%.
-
-The Knight King was said to be lined with steel on the inside, such that even the talons of mighty dragons did him little harm.</text>
+騎士王はその内に鉄を抱き
+巨大な飛竜の爪ですらも
+彼を十分に傷つけなかったという</text>
 <text id="20046">%null%</text>
 <text id="20047">%null%</text>
 <text id="20048">%null%</text>
 <text id="20049">%null%</text>
-<text id="20050">Stoneplates are symbols of true knights, and red stoneplates are granted to those who valiantly face Chaos.
+<text id="20050">騎士の証として知られる方石の指輪
 
-Increases fire damage absorption by 10%.</text>
-<text id="20051">Stoneplates are symbols of true knights, and red stoneplates are granted to those who valiantly face Chaos.
+赤いそれは、混沌に対する者に贈られ
+炎カット率を高める</text>
+<text id="20051">騎士の証として知られる方石の指輪
 
-Increases fire damage absorption by 14%.</text>
-<text id="20052">Stoneplates are symbols of true knights, and red stoneplates are granted to those who valiantly face Chaos.
+赤いそれは、混沌に対する者に贈られ
+炎カット率を高める</text>
+<text id="20052">騎士の証として知られる方石の指輪
 
-Increases fire damage absorption by 18%.</text>
-<text id="20053">Stoneplates are symbols of true knights, and red stoneplates are granted to those who valiantly face Chaos.
+赤いそれは、混沌に対する者に贈られ
+炎カット率を高める</text>
+<text id="20053">騎士の証として知られる方石の指輪
 
-Increases fire damage absorption by 22%.</text>
-<text id="20054">Stoneplates are symbols of true knights, and red stoneplates are granted to those who valiantly face Chaos.
+赤いそれは、混沌に対する者に贈られ
+炎カット率を高める</text>
+<text id="20054">騎士の証として知られる方石の指輪
 
-Increases fire damage absorption by 26%.</text>
-<text id="20055">Stoneplates are symbols of true knights, and red stoneplates are granted to those who valiantly face Chaos.
+赤いそれは、混沌に対する者に贈られ
+炎カット率を高める</text>
+<text id="20055">騎士の証として知られる方石の指輪
 
-Increases fire damage absorption by 30%.</text>
+赤いそれは、混沌に対する者に贈られ
+炎カット率を高める</text>
 <text id="20056">%null%</text>
 <text id="20057">%null%</text>
 <text id="20058">%null%</text>
 <text id="20059">%null%</text>
-<text id="20060">Stoneplates are symbols of true knights, and yellow stoneplates are granted to those who would become dragons.
+<text id="20060">騎士の証として知られる方石の指輪
 
-Increases lightning damage absorption by 10%.</text>
-<text id="20061">Stoneplates are symbols of true knights, and yellow stoneplates are granted to those who would become dragons.
+黄色いそれは、竜を目指す者に贈られ
+雷カット率を高める</text>
+<text id="20061">騎士の証として知られる方石の指輪
 
-Increases lightning damage absorption by 14%.</text>
-<text id="20062">Stoneplates are symbols of true knights, and yellow stoneplates are granted to those who would become dragons.
+黄色いそれは、竜を目指す者に贈られ
+雷カット率を高める</text>
+<text id="20062">騎士の証として知られる方石の指輪
 
-Increases lightning damage absorption by 18%.</text>
-<text id="20063">Stoneplates are symbols of true knights, and yellow stoneplates are granted to those who would become dragons.
+黄色いそれは、竜を目指す者に贈られ
+雷カット率を高める</text>
+<text id="20063">騎士の証として知られる方石の指輪
 
-Increases lightning damage absorption by 22%.</text>
-<text id="20064">Stoneplates are symbols of true knights, and yellow stoneplates are granted to those who would become dragons.
+黄色いそれは、竜を目指す者に贈られ
+雷カット率を高める</text>
+<text id="20064">騎士の証として知られる方石の指輪
 
-Increases lightning damage absorption by 26%.</text>
-<text id="20065">Stoneplates are symbols of true knights, and yellow stoneplates are granted to those who would become dragons.
+黄色いそれは、竜を目指す者に贈られ
+雷カット率を高める</text>
+<text id="20065">騎士の証として知られる方石の指輪
 
-Increases lightning damage absorption by 30%.</text>
+黄色いそれは、竜を目指す者に贈られ
+雷カット率を高める</text>
 <text id="20066">%null%</text>
 <text id="20067">%null%</text>
 <text id="20068">%null%</text>
 <text id="20069">%null%</text>
-<text id="20070">Stoneplates are symbols of true knights, and blue stoneplates are granted to the royal palace guards.
+<text id="20070">騎士の証として知られる方石の指輪
 
-Increases magic damage absorption by 10%.</text>
-<text id="20071">Stoneplates are symbols of true knights, and blue stoneplates are granted to the royal palace guards.
+青いそれは、王の近衛たちに贈られ
+魔力カット率を高める</text>
+<text id="20071">騎士の証として知られる方石の指輪
 
-Increases magic damage absorption by 14%.</text>
-<text id="20072">Stoneplates are symbols of true knights, and blue stoneplates are granted to the royal palace guards.
+青いそれは、王の近衛たちに贈られ
+魔力カット率を高める</text>
+<text id="20072">騎士の証として知られる方石の指輪
 
-Increases magic damage absorption by 18%.</text>
-<text id="20073">Stoneplates are symbols of true knights, and blue stoneplates are granted to the royal palace guards.
+青いそれは、王の近衛たちに贈られ
+魔力カット率を高める</text>
+<text id="20073">騎士の証として知られる方石の指輪
 
-Increases magic damage absorption by 22%.</text>
-<text id="20074">Stoneplates are symbols of true knights, and blue stoneplates are granted to the royal palace guards.
+青いそれは、王の近衛たちに贈られ
+魔力カット率を高める</text>
+<text id="20074">騎士の証として知られる方石の指輪
 
-Increases magic damage absorption by 26%.</text>
-<text id="20075">Stoneplates are symbols of true knights, and blue stoneplates are granted to the royal palace guards.
+青いそれは、王の近衛たちに贈られ
+魔力カット率を高める</text>
+<text id="20075">騎士の証として知られる方石の指輪
 
-Increases magic damage absorption by 30%.</text>
+青いそれは、王の近衛たちに贈られ
+魔力カット率を高める</text>
 <text id="20076">%null%</text>
 <text id="20077">%null%</text>
 <text id="20078">%null%</text>
 <text id="20079">%null%</text>
-<text id="20080">Stoneplates are symbols of true knights, and dark purple stoneplates are granted to Undead knights.
+<text id="20080">騎士の証として知られる方石の指輪
 
-Increases dark damage absorption by 10%.</text>
-<text id="20081">Stoneplates are symbols of true knights, and dark purple stoneplates are granted to Undead knights.
+黒紫のそれは、不死の騎士たちに贈られ
+闇カット率を高める</text>
+<text id="20081">騎士の証として知られる方石の指輪
 
-Increases dark damage absorption by 14%.</text>
-<text id="20082">Stoneplates are symbols of true knights, and dark purple stoneplates are granted to Undead knights.
+黒紫のそれは、不死の騎士たちに贈られ
+闇カット率を高める</text>
+<text id="20082">騎士の証として知られる方石の指輪
 
-Increases dark damage absorption by 18%.</text>
-<text id="20083">Stoneplates are symbols of true knights, and dark purple stoneplates are granted to Undead knights.
+黒紫のそれは、不死の騎士たちに贈られ
+闇カット率を高める</text>
+<text id="20083">騎士の証として知られる方石の指輪
 
-Increases dark damage absorption by 22%.</text>
-<text id="20084">Stoneplates are symbols of true knights, and dark purple stoneplates are granted to Undead knights.
+黒紫のそれは、不死の騎士たちに贈られ
+闇カット率を高める</text>
+<text id="20084">騎士の証として知られる方石の指輪
 
-Increases dark damage absorption by 26%.</text>
-<text id="20085">Stoneplates are symbols of true knights, and dark purple stoneplates are granted to Undead knights.
+黒紫のそれは、不死の騎士たちに贈られ
+闇カット率を高める</text>
+<text id="20085">騎士の証として知られる方石の指輪
 
-Increases dark damage absorption by 30%.</text>
+黒紫のそれは、不死の騎士たちに贈られ
+闇カット率を高める</text>
 <text id="20086">%null%</text>
 <text id="20087">%null%</text>
 <text id="20088">%null%</text>
 <text id="20089">%null%</text>
-<text id="20090">Stoneplates are symbols of true knights, and speckled stoneplates are granted to those who face an endless journey.
+<text id="20090">騎士の証として知られる方石の指輪
 
-Slightly increases magic, lightning, fire and dark damage absorption by 6%.</text>
-<text id="20091">Stoneplates are symbols of true knights, and speckled stoneplates are granted to those who face an endless journey.
+四色斑のそれは、果てない旅立ちに贈られ
+炎、雷、魔力、闇
+全てのカット率を少し高める</text>
+<text id="20091">騎士の証として知られる方石の指輪
 
-Slightly increases magic, lightning, fire and dark damage absorption by 8%.</text>
-<text id="20092">Stoneplates are symbols of true knights, and speckled stoneplates are granted to those who face an endless journey.
+四色斑のそれは、果てない旅立ちに贈られ
+炎、雷、魔力、闇
+全てのカット率を少し高める</text>
+<text id="20092">騎士の証として知られる方石の指輪
 
-Slightly increases magic, lightning, fire and dark damage absorption by 10%.</text>
-<text id="20093">Stoneplates are symbols of true knights, and speckled stoneplates are granted to those who face an endless journey.
+四色斑のそれは、果てない旅立ちに贈られ
+炎、雷、魔力、闇
+全てのカット率を少し高める</text>
+<text id="20093">騎士の証として知られる方石の指輪
 
-Slightly increases magic, lightning, fire and dark damage absorption by 12%.</text>
-<text id="20094">Stoneplates are symbols of true knights, and speckled stoneplates are granted to those who face an endless journey.
+四色斑のそれは、果てない旅立ちに贈られ
+炎、雷、魔力、闇
+全てのカット率を少し高める</text>
+<text id="20094">騎士の証として知られる方石の指輪
 
-Slightly increases magic, lightning, fire and dark damage absorption by 14%.</text>
-<text id="20095">Stoneplates are symbols of true knights, and speckled stoneplates are granted to those who face an endless journey.
+四色斑のそれは、果てない旅立ちに贈られ
+炎、雷、魔力、闇
+全てのカット率を少し高める</text>
+<text id="20095">騎士の証として知られる方石の指輪
 
-Slightly increases magic, lightning, fire and dark damage absorption by 16%.</text>
+四色斑のそれは、果てない旅立ちに贈られ
+炎、雷、魔力、闇
+全てのカット率を少し高める</text>
 <text id="20096">%null%</text>
 <text id="20097">%null%</text>
 <text id="20098">%null%</text>
 <text id="20099">%null%</text>
-<text id="20100">One of the bite rings native to Carim.
+<text id="20100">カリムに伝わる「咬み指輪」のひとつ
+出血耐性を高める
 
-Increases bleed resistance by 100.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20101">カリムに伝わる「咬み指輪」のひとつ
+出血耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20101">One of the bite rings native to Carim.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20102">カリムに伝わる「咬み指輪」のひとつ
+出血耐性を高める
 
-Increases bleed resistance by 120.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20103">カリムに伝わる「咬み指輪」のひとつ
+出血耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20102">One of the bite rings native to Carim.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20104">カリムに伝わる「咬み指輪」のひとつ
+出血耐性を高める
 
-Increases bleed resistance by 140.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20105">カリムに伝わる「咬み指輪」のひとつ
+出血耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20103">One of the bite rings native to Carim.
-
-Increases bleed resistance by 160.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20104">One of the bite rings native to Carim.
-
-Increases bleed resistance by 180.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20105">One of the bite rings native to Carim.
-
-Increases bleed resistance by 200.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
 <text id="20106">%null%</text>
 <text id="20107">%null%</text>
 <text id="20108">%null%</text>
 <text id="20109">%null%</text>
-<text id="20110">One of the bite rings native to Carim.
+<text id="20110">カリムに伝わる「咬み指輪」のひとつ
+毒耐性を高める
 
-Increases poison resistance by 100.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20111">カリムに伝わる「咬み指輪」のひとつ
+毒耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20111">One of the bite rings native to Carim.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20112">カリムに伝わる「咬み指輪」のひとつ
+毒耐性を高める
 
-Increases poison resistance by 120.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20113">カリムに伝わる「咬み指輪」のひとつ
+毒耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20112">One of the bite rings native to Carim.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20114">カリムに伝わる「咬み指輪」のひとつ
+毒耐性を高める
 
-Increases poison resistance by 140.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20115">カリムに伝わる「咬み指輪」のひとつ
+毒耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20113">One of the bite rings native to Carim.
-
-Increases poison resistance by 160.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20114">One of the bite rings native to Carim.
-
-Increases poison resistance by 180.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20115">One of the bite rings native to Carim.
-
-Increases poison resistance by 200.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
 <text id="20116">%null%</text>
 <text id="20117">%null%</text>
 <text id="20118">%null%</text>
 <text id="20119">%null%</text>
-<text id="20120">One of the bite rings native to Carim.
+<text id="20120">カリムに伝わる「咬み指輪」のひとつ
+呪死耐性を高める
 
-Increases curse resistance by 100.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20121">カリムに伝わる「咬み指輪」のひとつ
+呪死耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20121">One of the bite rings native to Carim.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20122">カリムに伝わる「咬み指輪」のひとつ
+呪死耐性を高める
 
-Increases curse resistance by 120.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20123">カリムに伝わる「咬み指輪」のひとつ
+呪死耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20122">One of the bite rings native to Carim.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20124">カリムに伝わる「咬み指輪」のひとつ
+呪死耐性を高める
 
-Increases curse resistance by 140.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20125">カリムに伝わる「咬み指輪」のひとつ
+呪死耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20123">One of the bite rings native to Carim.
-
-Increases curse resistance by 160.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20124">One of the bite rings native to Carim.
-
-Increases curse resistance by 180.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20125">One of the bite rings native to Carim.
-
-Increases curse resistance by 200.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
 <text id="20126">%null%</text>
 <text id="20127">%null%</text>
 <text id="20128">%null%</text>
 <text id="20129">%null%</text>
-<text id="20130">One of the bite rings native to Carim.
+<text id="20130">カリムに伝わる「咬み指輪」のひとつ
+出血、毒、冷気、呪死
+全ての耐性を高める
 
-Raises poison, bleed, frost and curse resistance by 50.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20131">カリムに伝わる「咬み指輪」のひとつ
+出血、毒、冷気、呪死
+全ての耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20131">One of the bite rings native to Carim.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20132">カリムに伝わる「咬み指輪」のひとつ
+出血、毒、冷気、呪死
+全ての耐性を高める
 
-Raises poison, bleed, frost and curse resistance by 60.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20133">カリムに伝わる「咬み指輪」のひとつ
+出血、毒、冷気、呪死
+全ての耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20132">One of the bite rings native to Carim.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20134">カリムに伝わる「咬み指輪」のひとつ
+出血、毒、冷気、呪死
+全ての耐性を高める
 
-Raises poison, bleed, frost and curse resistance by 70.
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
+<text id="20135">カリムに伝わる「咬み指輪」のひとつ
+出血、毒、冷気、呪死
+全ての耐性を高める
 
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20133">One of the bite rings native to Carim.
-
-Raises poison, bleed, frost and curse resistance by 80.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20134">One of the bite rings native to Carim.
-
-Raises poison, bleed, frost and curse resistance by 90.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
-<text id="20135">One of the bite rings native to Carim.
-
-Raises poison, bleed, frost and curse resistance by 100.
-
-The crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.</text>
+柔らかな石に不吉を感じるものか
+その製法は禁忌であるという
+聖職者だけが、それを弄ぶのだろう</text>
 <text id="20136">%null%</text>
 <text id="20137">%null%</text>
 <text id="20138">%null%</text>
 <text id="20139">%null%</text>
-<text id="20140">This special ring crafted in an Eastern land is made of metal, but with a wood grain crest on its surface. 
+<text id="20140">東の地で作られる特殊な指輪
+金属でありながら、表面には木目の文様があり
+攻撃時のスタミナ減少を抑える
 
-Reduces weapon stamina consumption by 20%.
+同じく東で作られる刀剣の使用者に
+これを愛用する者が多い
+彼らは刀剣に、特別な銘を刻むという</text>
+<text id="20141">東の地で作られる特殊な指輪
+金属でありながら、表面には木目の文様があり
+攻撃時のスタミナ減少を抑える
 
-Wielders of swords originating in the same region follow a practice of inscribing special words on the blades of their swords, and are naturally drawn to this ring.</text>
-<text id="20141">This special ring crafted in an Eastern land on its surface. 
+同じく東で作られる刀剣の使用者に
+これを愛用する者が多い
+彼らは刀剣に、特別な銘を刻むという</text>
+<text id="20142">東の地で作られる特殊な指輪
+金属でありながら、表面には木目の文様があり
+攻撃時のスタミナ減少を抑える
 
-Reduces weapon stamina consumption by 24%.
+同じく東で作られる刀剣の使用者に
+これを愛用する者が多い
+彼らは刀剣に、特別な銘を刻むという</text>
+<text id="20143">東の地で作られる特殊な指輪
+金属でありながら、表面には木目の文様があり
+攻撃時のスタミナ減少を抑える
 
-Wielders of swords originating in the same region follow a practice of inscribing special words on the blades of their swords, and are naturally drawn to this ring.</text>
-<text id="20142">This special ring crafted in an Eastern land is made of metal, but with a wood grain crest on its surface. 
+同じく東で作られる刀剣の使用者に
+これを愛用する者が多い
+彼らは刀剣に、特別な銘を刻むという</text>
+<text id="20144">東の地で作られる特殊な指輪
+金属でありながら、表面には木目の文様があり
+攻撃時のスタミナ減少を抑える
 
-Reduces weapon stamina consumption by 28%.
+同じく東で作られる刀剣の使用者に
+これを愛用する者が多い
+彼らは刀剣に、特別な銘を刻むという</text>
+<text id="20145">東の地で作られる特殊な指輪
+金属でありながら、表面には木目の文様があり
+攻撃時のスタミナ減少を抑える
 
-Wielders of swords originating in the same region follow a practice of inscribing special words on the blades of their swords, and are naturally drawn to this ring.</text>
-<text id="20143">This special ring crafted in an Eastern land is made of metal, but with a wood grain crest on its surface. 
-
-Reduces weapon stamina consumption by 32%.
-
-Wielders of swords originating in the same region follow a practice of inscribing special words on the blades of their swords, and are naturally drawn to this ring.</text>
-<text id="20144">This special ring crafted in an Eastern land is made of metal, but with a wood grain crest on its surface. 
-
-Reduces weapon stamina consumption by 36%.
-
-Wielders of swords originating in the same region follow a practice of inscribing special words on the blades of their swords, and are naturally drawn to this ring.</text>
-<text id="20145">This special ring crafted in an Eastern land is made of metal, but with a wood grain crest on its surface. 
-
-Reduces weapon stamina consumption by 40%.
-
-Wielders of swords originating in the same region follow a practice of inscribing special words on the blades of their swords, and are naturally drawn to this ring.</text>
+同じく東で作られる刀剣の使用者に
+これを愛用する者が多い
+彼らは刀剣に、特別な銘を刻むという</text>
 <text id="20146">%null%</text>
 <text id="20147">%null%</text>
 <text id="20148">%null%</text>
 <text id="20149">%null%</text>
-<text id="20150">A ring engraved with a portrait of a scholar.
+<text id="20150">賢者の姿が刻まれた肖像の指輪
+理力を高める
 
-Increases intelligence by 6.
+古くよりロスリックでは
+賢者は王を支える三柱のひとつとされ
+故に大書庫の領主たるを許されたという</text>
+<text id="20151">賢者の姿が刻まれた肖像の指輪
+理力を高める
 
-In Lothric, the Scholar has long been considered one of the Three Pillars of the king's rule, and is therefore master of the Grand Archives.</text>
-<text id="20151">A ring engraved with a portrait of a scholar.
+古くよりロスリックでは
+賢者は王を支える三柱のひとつとされ
+故に大書庫の領主たるを許されたという</text>
+<text id="20152">賢者の姿が刻まれた肖像の指輪
+理力を高める
 
-Increases intelligence by 8.
+古くよりロスリックでは
+賢者は王を支える三柱のひとつとされ
+故に大書庫の領主たるを許されたという</text>
+<text id="20153">賢者の姿が刻まれた肖像の指輪
+理力を高める
 
-In Lothric, the Scholar has long been considered one of the Three Pillars of the king's rule, and is therefore master of the Grand Archives.</text>
-<text id="20152">A ring engraved with a portrait of a scholar.
+古くよりロスリックでは
+賢者は王を支える三柱のひとつとされ
+故に大書庫の領主たるを許されたという</text>
+<text id="20154">賢者の姿が刻まれた肖像の指輪
+理力を高める
 
-Increases intelligence by 10.
+古くよりロスリックでは
+賢者は王を支える三柱のひとつとされ
+故に大書庫の領主たるを許されたという</text>
+<text id="20155">賢者の姿が刻まれた肖像の指輪
+理力を高める
 
-In Lothric, the Scholar has long been considered  and is therefore master of the Grand Archives.</text>
-<text id="20153">A ring engraved with a portrait of a scholar.
-
-Increases intelligence by 12.
-
-In Lothric, the Scholar has long been considered one of the Three Pillars of the king's rule, and is therefore master of the Grand Archives.</text>
-<text id="20154">A ring engraved with a portrait of a scholar.
-
-Increases intelligence by 14.
-
-In Lothric, the Scholar has long been considered one of the Three Pillars of the king's rule, and is therefore master of the Grand Archives.</text>
-<text id="20155">A ring engraved with a portrait of a scholar.
-
-Increases intelligence by 16.
-
-In Lothric, the Scholar has long been considered one of the Three Pillars of the king's rule, and is therefore master of the Grand Archives.</text>
+古くよりロスリックでは
+賢者は王を支える三柱のひとつとされ
+故に大書庫の領主たるを許されたという</text>
 <text id="20156">%null%</text>
 <text id="20157">%null%</text>
 <text id="20158">%null%</text>
 <text id="20159">%null%</text>
-<text id="20160">A ring engraved with a portrait of the High Priestess.
+<text id="20160">祭儀長の姿が刻まれた肖像の指輪
+信仰を高める
 
-Increases faith by 6.
+古くよりロスリックでは
+祭儀長は王を支える三柱のひとつとされた
+それは常に女であり、王子の乳母でもあったという</text>
+<text id="20161">祭儀長の姿が刻まれた肖像の指輪
+信仰を高める
 
-In Lothric, the High Priestess has long been considered one of the Three Pillars of the king's rule. The High Priestess also served as the prince's wet nurse.</text>
-<text id="20161">A ring engraved with a portrait of the High Priestess.
+古くよりロスリックでは
+祭儀長は王を支える三柱のひとつとされた
+それは常に女であり、王子の乳母でもあったという</text>
+<text id="20162">祭儀長の姿が刻まれた肖像の指輪
+信仰を高める
 
-Increases faith by 8.
+古くよりロスリックでは
+祭儀長は王を支える三柱のひとつとされた
+それは常に女であり、王子の乳母でもあったという</text>
+<text id="20163">祭儀長の姿が刻まれた肖像の指輪
+信仰を高める
 
-In Lothric, the High Priestess has long been considered one of the Three Pillars of the king's rule. The High Priestess also served as the prince's wet nurse.</text>
-<text id="20162">A ring engraved with a portrait of the High Priestess.
+古くよりロスリックでは
+祭儀長は王を支える三柱のひとつとされた
+それは常に女であり、王子の乳母でもあったという</text>
+<text id="20164">祭儀長の姿が刻まれた肖像の指輪
+信仰を高める
 
-Increases faith by 10.
+古くよりロスリックでは
+祭儀長は王を支える三柱のひとつとされた
+それは常に女であり、王子の乳母でもあったという</text>
+<text id="20165">祭儀長の姿が刻まれた肖像の指輪
+信仰を高める
 
-In Lothric, the High Priestess has long been considered one of the Three Pillars of the king's rule. The High Priestess also served as the prince's wet nurse.</text>
-<text id="20163">A ring engraved with a portrait of the High Priestess.
-
-Increases faith by 12.
-
-In Lothric, the High Priestess has long been considered one of the Three Pillars of the king's rule. The High Priestess also served as the prince's wet nurse.</text>
-<text id="20164">A ring engraved with a portrait of the High Priestess.
-
-Increases faith by 14.
-
-In Lothric, the High Priestess has long been considered one of the Three Pillars of the king's rule. The High Priestess also served as the prince's wet nurse.</text>
-<text id="20165">A ring engraved with a portrait of the High Priestess.
-
-Increases faith by 16.
-
-In Lothric, the High Priestess has long been considered one of the Three Pillars of the king's rule. The High Priestess also served as the prince's wet nurse.</text>
+古くよりロスリックでは
+祭儀長は王を支える三柱のひとつとされた
+それは常に女であり、王子の乳母でもあったという</text>
 <text id="20166">%null%</text>
 <text id="20167">%null%</text>
 <text id="20168">%null%</text>
 <text id="20169">%null%</text>
-<text id="20170">A ring set with a large rare tearstone jewel.
+<text id="20170">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、攻撃力を一時的に高める
 
-Temporarily boosts attack by 20% whilst below 25% HP.
+それは女神クァトの、悼みの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
+<text id="20171">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、攻撃力を一時的に高める
 
-This stone is said to be a tear of mourning of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
-<text id="20171">A ring set with a large rare tearstone jewel.
+それは女神クァトの、悼みの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
+<text id="20172">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、攻撃力を一時的に高める
 
-Temporarily boosts attack by 20% whilst below 30% HP.
+それは女神クァトの、悼みの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
+<text id="20173">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、攻撃力を一時的に高める
 
-This stone is said to be a tear of mourning of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
-<text id="20172">A ring set with a large rare tearstone jewel.
+それは女神クァトの、悼みの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
+<text id="20174">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、攻撃力を一時的に高める
 
-Temporarily boosts attack by 20% whilst below 35% HP.
+それは女神クァトの、悼みの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
+<text id="20175">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、攻撃力を一時的に高める
 
-This stone is said to be a tear of mourning of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
-<text id="20173">A ring set with a large rare tearstone jewel.
-
-Temporarily boosts attack by 20% whilst below 40% HP.
-
-This stone is said to be a tear of mourning of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
-<text id="20174">A ring set with a large rare tearstone jewel.
-
-Temporarily boosts attack by 20% whilst below 45% HP.
-
-This stone is said to be a tear of mourning of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
-<text id="20175">A ring set with a large rare tearstone jewel.
-
-Temporarily boosts attack by 20% whilst below 50% HP.
-
-This stone is said to be a tear of mourning of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
+それは女神クァトの、悼みの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
 <text id="20176">%null%</text>
 <text id="20177">%null%</text>
 <text id="20178">%null%</text>
 <text id="20179">%null%</text>
-<text id="20180">A ring set with a large rare tearstone jewel.
+<text id="20180">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、カット率を一時的に高める
 
-Temporarily boosts damage absorption by 40% whilst below 25% HP.
+それは女神クァトの、哀れみの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
+<text id="20181">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、カット率を一時的に高める
 
-This stone is said to be a tear of sorrow of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
-<text id="20181">A ring set with a large rare tearstone jewel.
+それは女神クァトの、哀れみの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
+<text id="20182">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、カット率を一時的に高める
 
-Temporarily boosts damage absorption by 40% whilst below 30% HP.
+それは女神クァトの、哀れみの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
+<text id="20183">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、カット率を一時的に高める
 
-This stone is said to be a tear of sorrow of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
-<text id="20182">A ring set with a large rare tearstone jewel.
+それは女神クァトの、哀れみの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
+<text id="20184">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、カット率を一時的に高める
 
-Temporarily boosts damage absorption by 40% whilst below 35% HP.
+それは女神クァトの、哀れみの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
+<text id="20185">涙石と呼ばれる希少な大宝石の指輪
+ＨＰが大きく減ると、カット率を一時的に高める
 
-This stone is said to be a tear of sorrow of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
-<text id="20183">A ring set with a large rare tearstone jewel.
-
-Temporarily boosts damage absorption by 40% whilst below 40% HP.
-
-This stone is said to be a tear of sorrow of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
-<text id="20184">A ring set with a large rare tearstone jewel.
-
-Temporarily boosts damage absorption by 40% whilst below 45% HP.
-
-This stone is said to be a tear of sorrow of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
-<text id="20185">A ring set with a large rare tearstone jewel.
-
-Temporarily boosts damage absorption by 40% whilst below 50% HP.
-
-This stone is said to be a tear of sorrow of the goddess Caitha, and of course, tears are always more beautiful near death.</text>
+それは女神クァトの、哀れみの涙であるという
+そして涙とは、死の側でこそ美しいものだ</text>
 <text id="20186">%null%</text>
 <text id="20187">%null%</text>
 <text id="20188">%null%</text>
 <text id="20189">%null%</text>
-<text id="20190">Ring associated with Abysswalker Artorias, one of the Four Knights of Gwyn, the First Lord.
+<text id="20190">最古の王グウィンに仕えた四騎士のひとり
+「深淵歩き」アルトリウスの名で伝わる指輪
 
-Boosts poise by 25% whilst worn.
+強靭度を高める
 
-Artorias had an unbendable will of steel, and was unmatched with a greatsword.</text>
-<text id="20191">Ring associated with Abysswalker Artorias, one of the Four Knights of Gwyn, the First Lord.
+アルトリウスは、強靭な意志により決して怯まず
+大剣を振るえば、まさに無双であったという</text>
+<text id="20191">最古の王グウィンに仕えた四騎士のひとり
+「深淵歩き」アルトリウスの名で伝わる指輪
 
-Boosts poise by 30% whilst worn.
+強靭度を高める
 
-Artorias had an unbendable will of steel, and was unmatched with a greatsword.</text>
-<text id="20192">Ring associated with Abysswalker Artorias, one of the Four Knights of Gwyn, the First Lord.
+アルトリウスは、強靭な意志により決して怯まず
+大剣を振るえば、まさに無双であったという</text>
+<text id="20192">最古の王グウィンに仕えた四騎士のひとり
+「深淵歩き」アルトリウスの名で伝わる指輪
 
-Boosts poise by 35% whilst worn.
+強靭度を高める
 
-Artorias had an unbendable will of steel, and was unmatched with a greatsword.</text>
-<text id="20193">Ring associated with Abysswalker Artorias, one of the Four Knights of Gwyn, the First Lord.
+アルトリウスは、強靭な意志により決して怯まず
+大剣を振るえば、まさに無双であったという</text>
+<text id="20193">最古の王グウィンに仕えた四騎士のひとり
+「深淵歩き」アルトリウスの名で伝わる指輪
 
-Boosts poise by 40% whilst worn.
+強靭度を高める
 
-Artorias had an unbendable will of steel, and was unmatched with a greatsword.</text>
-<text id="20194">Ring associated with Abysswalker Artorias, one of the Four Knights of Gwyn, the First Lord.
+アルトリウスは、強靭な意志により決して怯まず
+大剣を振るえば、まさに無双であったという</text>
+<text id="20194">最古の王グウィンに仕えた四騎士のひとり
+「深淵歩き」アルトリウスの名で伝わる指輪
 
-Boosts poise by 45% whilst worn.
+強靭度を高める
 
-Artorias had an unbendable will of steel, and was unmatched with a greatsword.</text>
-<text id="20195">Ring associated with Abysswalker Artorias, one of the Four Knights of Gwyn, the First Lord.
+アルトリウスは、強靭な意志により決して怯まず
+大剣を振るえば、まさに無双であったという</text>
+<text id="20195">最古の王グウィンに仕えた四騎士のひとり
+「深淵歩き」アルトリウスの名で伝わる指輪
 
-Boosts poise by 50% whilst worn.
+強靭度を高める
 
-Artorias had an unbendable will of steel, and was unmatched with a greatsword.</text>
+アルトリウスは、強靭な意志により決して怯まず
+大剣を振るえば、まさに無双であったという</text>
 <text id="20196">%null%</text>
 <text id="20197">%null%</text>
 <text id="20198">%null%</text>
 <text id="20199">%null%</text>
-<text id="20200">Ring associated with Dragon Slayer Ornstein, one of the Four Knights of Gwyn, the First Lord.
+<text id="20200">最古の王グウィンに仕えた四騎士のひとり
+「竜狩り」オーンスタインの名で伝わる指輪
 
-Strengthens weapon counter attacks by 10%.
+武器のカウンター攻撃力を高める
 
-Ornstein was the first knight of the sun's eldest born, and his cross spear is said to have pierced scales made of stone.</text>
+オーンスタインは、太陽の長子の筆頭騎士であり
+その十字槍は岩のウロコをも貫いたと言う</text>
 <text id="20201">%null%</text>
 <text id="20202">%null%</text>
 <text id="20203">%null%</text>
@@ -784,11 +972,13 @@ Ornstein was the first knight of the sun's eldest born, and his cross spear is s
 <text id="20207">%null%</text>
 <text id="20208">%null%</text>
 <text id="20209">%null%</text>
-<text id="20210">This mystical ring was created in a sacrificial rite of Velka, the Goddess of Sin.
+<text id="20210">犠牲の儀式によって作られる
+罪の女神ベルカの、神秘の指輪
 
-Its wearer will lose nothing upon death, but the ring itself breaks.
+死んだときソウルを手放さないが
+引き換えに、この指輪は失われる
 
-A sacrifice is only worth as much as the life it spares.</text>
+犠牲の価値は救う者次第だ</text>
 <text id="20211">%null%</text>
 <text id="20212">%null%</text>
 <text id="20213">%null%</text>
@@ -798,12 +988,15 @@ A sacrifice is only worth as much as the life it spares.</text>
 <text id="20217">%null%</text>
 <text id="20218">%null%</text>
 <text id="20219">%null%</text>
-<text id="20220">This mystical ring was created in a sacrificial rite of Velka, the Goddess of Sin. 
-This magenta-shaded ring is especially rare.
+<text id="20220">犠牲の儀式によって作られる
+罪の女神ベルカの、神秘の指輪
+中でも赤混じりは特別とされる
 
-Its wearer will lose nothing upon death, and will be freed from any curse whatsoever, but the ring itself breaks.
+死んだときソウルを手放さず
+呪死により呪いが蓄積することもないが
+引き換えに、この指輪は失われる
 
-A sacrifice is only worth as much as the life it spares.</text>
+犠牲の価値は救う者次第だ</text>
 <text id="20221">%null%</text>
 <text id="20222">%null%</text>
 <text id="20223">%null%</text>
@@ -813,11 +1006,13 @@ A sacrifice is only worth as much as the life it spares.</text>
 <text id="20227">%null%</text>
 <text id="20228">%null%</text>
 <text id="20229">%null%</text>
-<text id="20230">Ring given in Vinheim, home of sorcery, when newly ordained as a sorcerer.
+<text id="20230">魔術の故郷として知られるヴィンハイムにおいて
+魔術師の名と共に贈られた指輪
 
-Periodically summons homing soulmasses.
+一定間隔で追尾するソウルの塊を召喚する
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A young dragon presages the great length of the journey to mastery.</text>
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+幼い竜は、その先に続く探究の長きを教えるものだ</text>
 <text id="20231">%null%</text>
 <text id="20232">%null%</text>
 <text id="20233">%null%</text>
@@ -827,11 +1022,13 @@ Apropos to the Dragon School, the seal depicts an everlasting dragon. A young dr
 <text id="20237">%null%</text>
 <text id="20238">%null%</text>
 <text id="20239">%null%</text>
-<text id="20240">Ring said to be chiselled from the bone of a flame salamander by blighted Pyromancers living in the Great Swamp.
+<text id="20240">大沼に住まう異形の呪術師たちが
+火蜥蜴の骨を削り出したという指輪
 
-Periodically emit pillars of flame.
+一定間隔で周囲に幾つもの炎の柱を吹き上げる
 
-It is believed that salamanders are the descendants of demons, born of the Chaos Flame, from which Pyromancy is also said to have originated.</text>
+火蜥蜴は、呪術のはじまりとなる混沌の火
+すなわちデーモンの末裔と信じられている</text>
 <text id="20241">%null%</text>
 <text id="20242">%null%</text>
 <text id="20243">%null%</text>
@@ -841,12 +1038,13 @@ It is believed that salamanders are the descendants of demons, born of the Chaos
 <text id="20247">%null%</text>
 <text id="20248">%null%</text>
 <text id="20249">%null%</text>
-<text id="20250">A malformed ring given to knights of Carim.
+<text id="20250">カリムの騎士に与えられる異形の指輪
 
-Periodically emit damaging force wave.
+一定間隔で衝撃波を発生させ、周囲にダメージを与える
 
-Morne served the goddess Caitha and later became an apostle of the Archbishop.
-They labored together to provide comfort to the suffering.</text>
+モーンとは、女神クァトの従者であり
+後に大司教の使徒になったという
+全ての弱き者を慰める力として</text>
 <text id="20251">%null%</text>
 <text id="20252">%null%</text>
 <text id="20253">%null%</text>
@@ -866,79 +1064,112 @@ They labored together to provide comfort to the suffering.</text>
 <text id="20267">%null%</text>
 <text id="20268">%null%</text>
 <text id="20269">%null%</text>
-<text id="20270">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+<text id="20270">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Extends length of spell effect by 100%.
+魔法の効果時間を延ばす
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A lingering dragon symbolizes the true nature of the consummate sorcerer.</text>
-<text id="20271">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+佇む竜は魔術師の理想、その外面を教えるものだ</text>
+<text id="20271">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Extends length of spell effect by 120%.
+魔法の効果時間を延ばす
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A lingering dragon symbolizes the true nature of the consummate sorcerer.</text>
-<text id="20272">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+佇む竜は魔術師の理想、その外面を教えるものだ</text>
+<text id="20272">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Extends length of spell effect by 140%.
+魔法の効果時間を延ばす
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A lingering dragon symbolizes the true nature of the consummate sorcerer.</text>
-<text id="20273">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+佇む竜は魔術師の理想、その外面を教えるものだ</text>
+<text id="20273">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Extends length of spell effect by 160%.
+魔法の効果時間を延ばす
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A lingering dragon symbolizes the true nature of the consummate sorcerer.</text>
-<text id="20274">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+佇む竜は魔術師の理想、その外面を教えるものだ</text>
+<text id="20274">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Extends length of spell effect by 180%.
+魔法の効果時間を延ばす
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A lingering dragon symbolizes the true nature of the consummate sorcerer.</text>
-<text id="20275">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+佇む竜は魔術師の理想、その外面を教えるものだ</text>
+<text id="20275">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Extends length of spell effect by 200%.
+魔法の効果時間を延ばす
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A lingering dragon symbolizes the true nature of the consummate sorcerer.</text>
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+佇む竜は魔術師の理想、その外面を教えるものだ</text>
 <text id="20276">%null%</text>
 <text id="20277">%null%</text>
 <text id="20278">%null%</text>
 <text id="20279">%null%</text>
-<text id="20280">A ring given to Farron's Undead Legion by one of the preacher twins, known more commonly as the Crystal Sages.
+<text id="20280">結晶の古老として知られる双子の導師
+その片割れがファランの不死隊に贈った指輪
 
-Increases casting speed by 20.
+魔法の詠唱時間を短くする
 
-The sorcerers of Farron's Abyss Watchers were known to be lonesome warriors who would only rely upon more pragmatic spells.</text>
-<text id="20281">A ring given to Farron's Undead Legion by one of the preacher twins, known more commonly as the Crystal Sages.
+深淵の監視者の一員たるファランの魔術師は
+すべからく孤独な戦士であった
+彼らは、より実戦的な魔術を好んだという</text>
+<text id="20281">結晶の古老として知られる双子の導師
+その片割れがファランの不死隊に贈った指輪
 
-Increases casting speed by 24.
+魔法の詠唱時間を短くする
 
-The sorcerers of Farron's Abyss Watchers were known to be lonesome warriors who would only rely upon more pragmatic spells.</text>
-<text id="20282">A ring given to Farron's Undead Legion by one of the preacher twins, known more commonly as the Crystal Sages.
+深淵の監視者の一員たるファランの魔術師は
+すべからく孤独な戦士であった
+彼らは、より実戦的な魔術を好んだという</text>
+<text id="20282">結晶の古老として知られる双子の導師
+その片割れがファランの不死隊に贈った指輪
 
-Increases casting speed by 28.
+魔法の詠唱時間を短くする
 
-The sorcerers of Farron's Abyss Watchers were known to be lonesome warriors who would only rely upon more pragmatic spells.</text>
-<text id="20283">A ring given to Farron's Undead Legion by one of the preacher twins, known more commonly as the Crystal Sages.
+深淵の監視者の一員たるファランの魔術師は
+すべからく孤独な戦士であった
+彼らは、より実戦的な魔術を好んだという</text>
+<text id="20283">結晶の古老として知られる双子の導師
+その片割れがファランの不死隊に贈った指輪
 
-Increases casting speed by 32.
+魔法の詠唱時間を短くする
 
-The sorcerers of Farron's Abyss Watchers were known to be lonesome warriors who would only rely upon more pragmatic spells.</text>
-<text id="20284">A ring given to Farron's Undead Legion by one of the preacher twins, known more commonly as the Crystal Sages.
+深淵の監視者の一員たるファランの魔術師は
+すべからく孤独な戦士であった
+彼らは、より実戦的な魔術を好んだという</text>
+<text id="20284">結晶の古老として知られる双子の導師
+その片割れがファランの不死隊に贈った指輪
 
-Increases casting speed by 36.
+魔法の詠唱時間を短くする
 
-The sorcerers of Farron's Abyss Watchers were known to be lonesome warriors who would only rely upon more pragmatic spells.</text>
-<text id="20285">A ring given to Farron's Undead Legion by one of the preacher twins, known more commonly as the Crystal Sages.
+深淵の監視者の一員たるファランの魔術師は
+すべからく孤独な戦士であった
+彼らは、より実戦的な魔術を好んだという</text>
+<text id="20285">結晶の古老として知られる双子の導師
+その片割れがファランの不死隊に贈った指輪
 
-Increases casting speed by 40.
+魔法の詠唱時間を短くする
 
-The sorcerers of Farron's Abyss Watchers were known to be lonesome warriors who would only rely upon more pragmatic spells.</text>
+深淵の監視者の一員たるファランの魔術師は
+すべからく孤独な戦士であった
+彼らは、より実戦的な魔術を好んだという</text>
 <text id="20286">%null%</text>
 <text id="20287">%null%</text>
 <text id="20288">%null%</text>
 <text id="20289">%null%</text>
-<text id="20290">Ring of a clandestine guild of sorcerers based in Vinheim, home of sorcery.
+<text id="20290">魔術の故郷として知られるヴィンハイムにおいて
+密かにあった裏の魔術師たちの指輪
 
-Masks the sound of its wearer, reducing enemy detection via hearing by 90%.
+装備者の出す音を消し
+敵から見つかりにくくする
 
-The Dragon School held effective sovereignty over Vinheim, with a great many adept assassins at its disposal.</text>
+竜の学院は、ヴィンハイムの実質的支配者であり
+多くの優秀な隠密を抱えていたという</text>
 <text id="20291">%null%</text>
 <text id="20292">%null%</text>
 <text id="20293">%null%</text>
@@ -948,45 +1179,64 @@ The Dragon School held effective sovereignty over Vinheim, with a great many ade
 <text id="20297">%null%</text>
 <text id="20298">%null%</text>
 <text id="20299">%null%</text>
-<text id="20300">Leaf-colored crown ring bestowed upon the princess of Oolacile, ancient land of golden sorceries.
+<text id="20300">古い黄金の魔術の国、ウーラシール
+その姫君に与えられたという若葉色の指冠
 
-Boosts max FP by 25% but reduces max HP by 30%.
+最大ＦＰを増やすが、ＨＰも減ってしまう
 
-Oolacile is synonymous for its lost sorceries, of which the xanthous sorcerers are dedicated scholars. This crown ring is a rare artifact of great magic heritage.</text>
-<text id="20301">Leaf-colored crown ring bestowed upon the princess of Oolacile, ancient land of golden sorceries.
+その国の名は、失われた魔術の代名詞でもあり
+黄衣の魔術師はその探究者である
+この指冠は、数少ない魔術遺産のひとつなのだ</text>
+<text id="20301">古い黄金の魔術の国、ウーラシール
+その姫君に与えられたという若葉色の指冠
 
-Boosts max FP by 25% but reduces max HP by 26%.
+最大ＦＰを増やすが、ＨＰも減ってしまう
 
-Oolacile is synonymous for its lost sorceries, of which the xanthous sorcerers are dedicated scholars. This crown ring is a rare artifact of great magic heritage.</text>
-<text id="20302">Leaf-colored crown ring bestowed upon the princess of Oolacile, ancient land of golden sorceries.
+その国の名は、失われた魔術の代名詞でもあり
+黄衣の魔術師はその探究者である
+この指冠は、数少ない魔術遺産のひとつなのだ</text>
+<text id="20302">古い黄金の魔術の国、ウーラシール
+その姫君に与えられたという若葉色の指冠
 
-Boosts max FP by 25% but reduces max HP by 22%.
+最大ＦＰを増やすが、ＨＰも減ってしまう
 
-Oolacile is synonymous for its lost sorceries, of which the xanthous sorcerers are dedicated scholars. This crown ring is a rare artifact of great magic heritage.</text>
-<text id="20303">Leaf-colored crown ring bestowed upon the princess of Oolacile, ancient land of golden sorceries.
+その国の名は、失われた魔術の代名詞でもあり
+黄衣の魔術師はその探究者である
+この指冠は、数少ない魔術遺産のひとつなのだ</text>
+<text id="20303">古い黄金の魔術の国、ウーラシール
+その姫君に与えられたという若葉色の指冠
 
-Boosts max FP by 25% but reduces max HP by 18%.
+最大ＦＰを増やすが、ＨＰも減ってしまう
 
-Oolacile is synonymous for its lost sorceries, of which the xanthous sorcerers are dedicated scholars. This crown ring is a rare artifact of great magic heritage.</text>
-<text id="20304">Leaf-colored crown ring bestowed upon the princess of Oolacile, ancient land of golden sorceries.
+その国の名は、失われた魔術の代名詞でもあり
+黄衣の魔術師はその探究者である
+この指冠は、数少ない魔術遺産のひとつなのだ</text>
+<text id="20304">古い黄金の魔術の国、ウーラシール
+その姫君に与えられたという若葉色の指冠
 
-Boosts max FP by 25% but reduces max HP by 14%.
+最大ＦＰを増やすが、ＨＰも減ってしまう
 
-Oolacile is synonymous for its lost sorceries, of which the xanthous sorcerers are dedicated scholars. This crown ring is a rare artifact of great magic heritage.</text>
-<text id="20305">Leaf-colored crown ring bestowed upon the princess of Oolacile, ancient land of golden sorceries.
+その国の名は、失われた魔術の代名詞でもあり
+黄衣の魔術師はその探究者である
+この指冠は、数少ない魔術遺産のひとつなのだ</text>
+<text id="20305">古い黄金の魔術の国、ウーラシール
+その姫君に与えられたという若葉色の指冠
 
-Boosts max FP by 25% but reduces max HP by 10%.
+最大ＦＰを増やすが、ＨＰも減ってしまう
 
-Oolacile is synonymous for its lost sorceries, of which the xanthous sorcerers are dedicated scholars. This crown ring is a rare artifact of great magic heritage.</text>
+その国の名は、失われた魔術の代名詞でもあり
+黄衣の魔術師はその探究者である
+この指冠は、数少ない魔術遺産のひとつなのだ</text>
 <text id="20306">%null%</text>
 <text id="20307">%null%</text>
 <text id="20308">%null%</text>
 <text id="20309">%null%</text>
-<text id="20310">A ring bestowed upon a Carim saint.
+<text id="20310">カリムの聖女に与えられる指輪
+記憶スロットを増やす
 
-Grants 3 additional attunement slots.
-
-In Carim, the saints give voice to the ancient tales. They memorize countless cumbersome sacred books and read them in sonorous tones, a function for which they are widely renowned.</text>
+カリムでは、聖女は物語の語り部である
+分厚い聖書を何冊もよく覚え、よい声で語る
+そのように、彼女たちは名高い</text>
 <text id="20311">%null%</text>
 <text id="20312">%null%</text>
 <text id="20313">%null%</text>
@@ -996,11 +1246,13 @@ In Carim, the saints give voice to the ancient tales. They memorize countless cu
 <text id="20317">%null%</text>
 <text id="20318">%null%</text>
 <text id="20319">%null%</text>
-<text id="20320">A ring bestowed upon the Deacons of the Cathedral of the Deep. 
+<text id="20320">深みの聖堂、その主教たちに与えられる指輪
 
-Periodically leave a wake of abyssal explosions behind you.
+一定間隔で爆発する深みの塊を生み出す
 
-In the Cathedral slumber things most terrible, and as such, the deacons require a grand narrative, to ensure they do not falter in their duty. A philosophy, to ward away the madness beckoned by the grotesqueries at hand.</text>
+聖堂はおぞましいものの寝床であり
+故に彼らには、大きな物語が必要だった
+おぞみと共に深くあり、狂わぬほどの物語が</text>
 <text id="20321">%null%</text>
 <text id="20322">%null%</text>
 <text id="20323">%null%</text>
@@ -1010,181 +1262,261 @@ In the Cathedral slumber things most terrible, and as such, the deacons require 
 <text id="20327">%null%</text>
 <text id="20328">%null%</text>
 <text id="20329">%null%</text>
-<text id="20330">Ring of the moon deity Gwyndolin, youngest son of Gwyn, the First Lord.
+<text id="20330">最古の王グウィンの末子
+暗月の神グウィンドリンの指輪
 
-Restores 3 FP every second.
+ＦＰをゆっくりと回復する
 
-Gwyndolin, also known as the Dark Sun, commands the Darkmoon Knights, and bestows this ring upon the best of them.</text>
-<text id="20331">Ring of the moon deity Gwyndolin, youngest son of Gwyn, the First Lord.
+陰の太陽とも呼ばれるグウィンドリンは
+暗月の騎士たちを率い
+この指輪を、優れた騎士に与えたという</text>
+<text id="20331">最古の王グウィンの末子
+暗月の神グウィンドリンの指輪
 
-Restores 4 FP every second.
+ＦＰをゆっくりと回復する
 
-Gwyndolin, also known as the Dark Sun, commands the Darkmoon Knights, and bestows this ring upon the best of them.</text>
-<text id="20332">Ring of the moon deity Gwyndolin, youngest son of Gwyn, the First Lord.
+陰の太陽とも呼ばれるグウィンドリンは
+暗月の騎士たちを率い
+この指輪を、優れた騎士に与えたという</text>
+<text id="20332">最古の王グウィンの末子
+暗月の神グウィンドリンの指輪
 
-Restores 5 FP every second.
+ＦＰをゆっくりと回復する
 
-Gwyndolin, also known as the Dark Sun, commands the Darkmoon Knights, and bestows this ring upon the best of them.</text>
-<text id="20333">Ring of the moon deity Gwyndolin, youngest son of Gwyn, the First Lord.
+陰の太陽とも呼ばれるグウィンドリンは
+暗月の騎士たちを率い
+この指輪を、優れた騎士に与えたという</text>
+<text id="20333">最古の王グウィンの末子
+暗月の神グウィンドリンの指輪
 
-Restores 6 FP every second.
+ＦＰをゆっくりと回復する
 
-Gwyndolin, also known as the Dark Sun, commands the Darkmoon Knights, and bestows this ring upon the best of them.</text>
-<text id="20334">Ring of the moon deity Gwyndolin, youngest son of Gwyn, the First Lord.
+陰の太陽とも呼ばれるグウィンドリンは
+暗月の騎士たちを率い
+この指輪を、優れた騎士に与えたという</text>
+<text id="20334">最古の王グウィンの末子
+暗月の神グウィンドリンの指輪
 
-Restores 7 FP every second.
+ＦＰをゆっくりと回復する
 
-Gwyndolin, also known as the Dark Sun, commands the Darkmoon Knights, and bestows this ring upon the best of them.</text>
-<text id="20335">Ring of the moon deity Gwyndolin, youngest son of Gwyn, the First Lord.
+陰の太陽とも呼ばれるグウィンドリンは
+暗月の騎士たちを率い
+この指輪を、優れた騎士に与えたという</text>
+<text id="20335">最古の王グウィンの末子
+暗月の神グウィンドリンの指輪
 
-Restores 8 FP every second.
+ＦＰをゆっくりと回復する
 
-Gwyndolin, also known as the Dark Sun, commands the Darkmoon Knights, and bestows this ring upon the best of them.</text>
+陰の太陽とも呼ばれるグウィンドリンは
+暗月の騎士たちを率い
+この指輪を、優れた騎士に与えたという</text>
 <text id="20336">%null%</text>
 <text id="20337">%null%</text>
 <text id="20338">%null%</text>
 <text id="20339">%null%</text>
-<text id="20340">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+<text id="20340">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Boosts potency of sorceries by 10%.
+魔術の威力を大きく高める
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A bellowing dragon symbolizes the true nature of the consummate sorcerer.</text>
-<text id="20341">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+吠える竜は魔術師の理想、その内面を教えるものだ</text>
+<text id="20341">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Boosts potency of sorceries by 12%.
+魔術の威力を大きく高める
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A bellowing dragon symbolizes the true nature of the consummate sorcerer.</text>
-<text id="20342">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+吠える竜は魔術師の理想、その内面を教えるものだ</text>
+<text id="20342">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Boosts potency of sorceries by 14%.
+魔術の威力を大きく高める
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A bellowing dragon symbolizes the true nature of the consummate sorcerer.</text>
-<text id="20343">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+吠える竜は魔術師の理想、その内面を教えるものだ</text>
+<text id="20343">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Boosts potency of sorceries by 16%.
+魔術の威力を大きく高める
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A bellowing dragon symbolizes the true nature of the consummate sorcerer.</text>
-<text id="20344">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+吠える竜は魔術師の理想、その内面を教えるものだ</text>
+<text id="20344">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Boosts potency of sorceries by 18%.
+魔術の威力を大きく高める
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A bellowing dragon symbolizes the true nature of the consummate sorcerer.</text>
-<text id="20345">A special ring given to those who are deemed fit to undertake the journey of discovery in Vinheim, home of sorcery.
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+吠える竜は魔術師の理想、その内面を教えるものだ</text>
+<text id="20345">魔術の故郷として知られるヴィンハイムにおいて
+探究の旅を許された者に贈られた特別な指輪
 
-Boosts potency of sorceries by 20%.
+魔術の威力を大きく高める
 
-Apropos to the Dragon School, the seal depicts an everlasting dragon. A bellowing dragon symbolizes the true nature of the consummate sorcerer.</text>
+竜の学院に相応しく、その印は朽ちぬ古竜を象る
+吠える竜は魔術師の理想、その内面を教えるものだ</text>
 <text id="20346">%null%</text>
 <text id="20347">%null%</text>
 <text id="20348">%null%</text>
 <text id="20349">%null%</text>
-<text id="20350">The Witch of Izalith and her daughters, scorched by the Flame of Chaos, taught humans the art of pyromancy and offered them this ring.
+<text id="20350">混沌の火に焼かれたイザリスの魔女たちが
+人に呪術を伝え、そして贈ったという指輪
 
-Boosts potency of pyromancies by 10%.
+呪術の威力を大きく高める
 
-Every pyromancer is familiar with the parable that tells of the witches espousing the need to fear the flame, and teaching the art of pyromancy to men in hopes that they might learn to control it.</text>
-<text id="20351">The Witch of Izalith and her daughters, scorched by the Flame of Chaos, taught humans the art of pyromancy and offered them this ring.
+彼女たちは、火の畏れを伝え
+それを御するため呪術を伝えたという
+呪術師なら誰もが知る、お伽噺だ</text>
+<text id="20351">混沌の火に焼かれたイザリスの魔女たちが
+人に呪術を伝え、そして贈ったという指輪
 
-Boosts potency of pyromancies by 12%.
+呪術の威力を大きく高める
 
-Every pyromancer is familiar with the parable that tells of the witches espousing the need to fear the flame, and teaching the art of pyromancy to men in hopes that they might learn to control it.</text>
-<text id="20352">The Witch of Izalith and her daughters, scorched by the Flame of Chaos, taught humans the art of pyromancy and offered them this ring.
+彼女たちは、火の畏れを伝え
+それを御するため呪術を伝えたという
+呪術師なら誰もが知る、お伽噺だ</text>
+<text id="20352">混沌の火に焼かれたイザリスの魔女たちが
+人に呪術を伝え、そして贈ったという指輪
 
-Boosts potency of pyromancies by 14%.
+呪術の威力を大きく高める
 
-Every pyromancer is familiar with the parable that tells of the witches espousing the need to fear the flame, and teaching the art of pyromancy to men in hopes that they might learn to control it.</text>
-<text id="20353">The Witch of Izalith and her daughters, scorched by the Flame of Chaos, taught humans the art of pyromancy and offered them this ring.
+彼女たちは、火の畏れを伝え
+それを御するため呪術を伝えたという
+呪術師なら誰もが知る、お伽噺だ</text>
+<text id="20353">混沌の火に焼かれたイザリスの魔女たちが
+人に呪術を伝え、そして贈ったという指輪
 
-Boosts potency of pyromancies by 16%.
+呪術の威力を大きく高める
 
-Every pyromancer is familiar with the parable that tells of the witches espousing the need to fear the flame, and teaching the art of pyromancy to men in hopes that they might learn to control it.</text>
-<text id="20354">The Witch of Izalith and her daughters, scorched by the Flame of Chaos, taught humans the art of pyromancy and offered them this ring.
+彼女たちは、火の畏れを伝え
+それを御するため呪術を伝えたという
+呪術師なら誰もが知る、お伽噺だ</text>
+<text id="20354">混沌の火に焼かれたイザリスの魔女たちが
+人に呪術を伝え、そして贈ったという指輪
 
-Boosts potency of pyromancies by 18%.
+呪術の威力を大きく高める
 
-Every pyromancer is familiar with the parable that tells of the witches espousing the need to fear the flame, and teaching the art of pyromancy to men in hopes that they might learn to control it.</text>
-<text id="20355">The Witch of Izalith and her daughters, scorched by the Flame of Chaos, taught humans the art of pyromancy and offered them this ring.
+彼女たちは、火の畏れを伝え
+それを御するため呪術を伝えたという
+呪術師なら誰もが知る、お伽噺だ</text>
+<text id="20355">混沌の火に焼かれたイザリスの魔女たちが
+人に呪術を伝え、そして贈ったという指輪
 
-Boosts potency of pyromancies by 20%.
+呪術の威力を大きく高める
 
-Every pyromancer is familiar with the parable that tells of the witches espousing the need to fear the flame, and teaching the art of pyromancy to men in hopes that they might learn to control it.</text>
+彼女たちは、火の畏れを伝え
+それを御するため呪術を伝えたという
+呪術師なら誰もが知る、お伽噺だ</text>
 <text id="20356">%null%</text>
 <text id="20357">%null%</text>
 <text id="20358">%null%</text>
 <text id="20359">%null%</text>
-<text id="20360">Ring of the Sun's first born, who inherited the light of Gwyn, the First Lord.
+<text id="20360">最古の王グウィンの光を継いだという
+太陽の長子の指輪
 
-Boosts potency of miracles by 10%.
+奇跡の威力を大きく高める
 
-The Sun's first born was once a god of war, until he was stripped of his stature as punishment for his foolishness. No wonder his very name has slipped from the annals of history.</text>
-<text id="20361">Ring of the Sun's first born, who inherited the light of Gwyn, the First Lord.
+太陽の長子はかつて戦神であったが
+その愚かさにより、神を追われたという
+いまやその名前すら伝わっていない</text>
+<text id="20361">最古の王グウィンの光を継いだという
+太陽の長子の指輪
 
-Boosts potency of miracles by 12%.
+奇跡の威力を大きく高める
 
-The Sun's first born was once a god of war, until he was stripped of his stature as punishment for his foolishness. No wonder his very name has slipped from the annals of history.</text>
-<text id="20362">Ring of the Sun's first born, who inherited the light of Gwyn, the First Lord.
+太陽の長子はかつて戦神であったが
+その愚かさにより、神を追われたという
+いまやその名前すら伝わっていない</text>
+<text id="20362">最古の王グウィンの光を継いだという
+太陽の長子の指輪
 
-Boosts potency of miracles by 14%.
+奇跡の威力を大きく高める
 
-The Sun's first born was once a god of war, until he was stripped of his stature as punishment for his foolishness. No wonder his very name has slipped from the annals of history.</text>
-<text id="20363">Ring of the Sun's first born, who inherited the light of Gwyn, the First Lord.
+太陽の長子はかつて戦神であったが
+その愚かさにより、神を追われたという
+いまやその名前すら伝わっていない</text>
+<text id="20363">最古の王グウィンの光を継いだという
+太陽の長子の指輪
 
-Boosts potency of miracles by 16%.
+奇跡の威力を大きく高める
 
-The Sun's first born was once a god of war, until he was stripped of his stature as punishment for his foolishness. No wonder his very name has slipped from the annals of history.</text>
-<text id="20364">Ring of the Sun's first born, who inherited the light of Gwyn, the First Lord.
+太陽の長子はかつて戦神であったが
+その愚かさにより、神を追われたという
+いまやその名前すら伝わっていない</text>
+<text id="20364">最古の王グウィンの光を継いだという
+太陽の長子の指輪
 
-Boosts potency of miracles by 18%.
+奇跡の威力を大きく高める
 
-The Sun's first born was once a god of war, until he was stripped of his stature as punishment for his foolishness. No wonder his very name has slipped from the annals of history.</text>
-<text id="20365">Ring of the Sun's first born, who inherited the light of Gwyn, the First Lord.
+太陽の長子はかつて戦神であったが
+その愚かさにより、神を追われたという
+いまやその名前すら伝わっていない</text>
+<text id="20365">最古の王グウィンの光を継いだという
+太陽の長子の指輪
 
-Boosts potency of miracles by 20%.
+奇跡の威力を大きく高める
 
-The Sun's first born was once a god of war, until he was stripped of his stature as punishment for his foolishness. No wonder his very name has slipped from the annals of history.</text>
+太陽の長子はかつて戦神であったが
+その愚かさにより、神を追われたという
+いまやその名前すら伝わっていない</text>
 <text id="20366">%null%</text>
 <text id="20367">%null%</text>
 <text id="20368">%null%</text>
 <text id="20369">%null%</text>
-<text id="20370">Ring associated with Hawkeye Gough, one of the Four Knights of Gwyn, the First Lord.
+<text id="20370">最古の王グウィンに仕えた四騎士のひとり
+「鷹の目」ゴーの名で伝わる指輪
 
-Extends the range of bows, greatbows and crossbows by 100.
+弓の射程距離を延ばす
 
-In his later years, the giant Gough was blinded, but this did not prevent him from striking down a calamitous dragon with his Greatbow.</text>
-<text id="20371">Ring associated with Hawkeye Gough, one of the Four Knights of Gwyn, the First Lord.
+巨人ゴーは、晩年その目を塞がれてなお
+その大弓で災厄の竜を射落としたという</text>
+<text id="20371">最古の王グウィンに仕えた四騎士のひとり
+「鷹の目」ゴーの名で伝わる指輪
 
-Extends the range of bows, greatbows and crossbows by 120.
+弓の射程距離を延ばす
 
-In his later years, the giant Gough was blinded, but this did not prevent him from striking down a calamitous dragon with his Greatbow.</text>
-<text id="20372">Ring associated with Hawkeye Gough, one of the Four Knights of Gwyn, the First Lord.
+巨人ゴーは、晩年その目を塞がれてなお
+その大弓で災厄の竜を射落としたという</text>
+<text id="20372">最古の王グウィンに仕えた四騎士のひとり
+「鷹の目」ゴーの名で伝わる指輪
 
-Extends the range of bows, greatbows and crossbows by 140.
+弓の射程距離を延ばす
 
-In his later years, the giant Gough was blinded, but this did not prevent him from striking down a calamitous dragon with his Greatbow.</text>
-<text id="20373">Ring associated with Hawkeye Gough, one of the Four Knights of Gwyn, the First Lord.
+巨人ゴーは、晩年その目を塞がれてなお
+その大弓で災厄の竜を射落としたという</text>
+<text id="20373">最古の王グウィンに仕えた四騎士のひとり
+「鷹の目」ゴーの名で伝わる指輪
 
-Extends the range of bows, greatbows and crossbows by 160.
+弓の射程距離を延ばす
 
-In his later years, the giant Gough was blinded, but this did not prevent him from striking down a calamitous dragon with his Greatbow.</text>
-<text id="20374">Ring associated with Hawkeye Gough, one of the Four Knights of Gwyn, the First Lord.
+巨人ゴーは、晩年その目を塞がれてなお
+その大弓で災厄の竜を射落としたという</text>
+<text id="20374">最古の王グウィンに仕えた四騎士のひとり
+「鷹の目」ゴーの名で伝わる指輪
 
-Extends the range of bows, greatbows and crossbows by 180.
+弓の射程距離を延ばす
 
-In his later years, the giant Gough was blinded, but this did not prevent him from striking down a calamitous dragon with his Greatbow.</text>
-<text id="20375">Ring associated with Hawkeye Gough, one of the Four Knights of Gwyn, the First Lord.
+巨人ゴーは、晩年その目を塞がれてなお
+その大弓で災厄の竜を射落としたという</text>
+<text id="20375">最古の王グウィンに仕えた四騎士のひとり
+「鷹の目」ゴーの名で伝わる指輪
 
-Extends the range of bows, greatbows and crossbows by 200.
+弓の射程距離を延ばす
 
-In his later years, the giant Gough was blinded, but this did not prevent him from striking down a calamitous dragon with his Greatbow.</text>
+巨人ゴーは、晩年その目を塞がれてなお
+その大弓で災厄の竜を射落としたという</text>
 <text id="20376">%null%</text>
 <text id="20377">%null%</text>
 <text id="20378">%null%</text>
 <text id="20379">%null%</text>
-<text id="20380">Ring associated with the Lord's Blade Ciaran, one of the Four Knights of Gwyn, the First Lord.
+<text id="20380">最古の王グウィンに仕えた四騎士のひとり
+「王の刃」キアランの名で伝わる指輪
 
-Boosts backstab and riposte attacks by 50%.
+致命攻撃力を高める
 
-The masked Ciaran was the only woman to serve in Gwyn's Four Knights, and her curved sword granted a swift death to any and all enemies of the throne.</text>
+仮面のキアランは四騎士唯一の女性であり
+その双曲剣は王の敵ことごとくを抹殺したという</text>
 <text id="20381">%null%</text>
 <text id="20382">%null%</text>
 <text id="20383">%null%</text>
@@ -1194,113 +1526,138 @@ The masked Ciaran was the only woman to serve in Gwyn's Four Knights, and her cu
 <text id="20387">%null%</text>
 <text id="20388">%null%</text>
 <text id="20389">%null%</text>
-<text id="20390">A gold ring depicting a snake that could have been, but never was, a dragon. Fallen foes are more likely to drop items.
+<text id="20390">竜のなりそこない、蛇を象った金の指輪
+発見力を高める
 
-Increases Item Discovery by 100.
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
+<text id="20391">竜のなりそこない、蛇を象った金の指輪
+発見力を高める
 
-Snakes are known as creatures of great avarice, devouring prey even larger than themselves by swallowing them whole.</text>
-<text id="20391">A gold ring depicting a snake that could have been, but never was, a dragon. Fallen foes are more likely to drop items.
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
+<text id="20392">竜のなりそこない、蛇を象った金の指輪
+発見力を高める
 
-Increases Item Discovery by 120.
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
+<text id="20393">竜のなりそこない、蛇を象った金の指輪
+発見力を高める
 
-Snakes are known as creatures of great avarice, devouring prey even larger than themselves by swallowing them whole.</text>
-<text id="20392">A gold ring depicting a snake that could have been, but never was, a dragon. Fallen foes are more likely to drop items.
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
+<text id="20394">竜のなりそこない、蛇を象った金の指輪
+発見力を高める
 
-Increases Item Discovery by 140.
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
+<text id="20395">竜のなりそこない、蛇を象った金の指輪
+発見力を高める
 
-Snakes are known as creatures of great avarice, devouring prey even larger than themselves by swallowing them whole.</text>
-<text id="20393">A gold ring depicting a snake that could have been, but never was, a dragon. Fallen foes are more likely to drop items.
-
-Increases Item Discovery by 160.
-
-Snakes are known as creatures of great avarice, devouring prey even larger than themselves by swallowing them whole.</text>
-<text id="20394">A gold ring depicting a snake that could have been, but never was, a dragon. Fallen foes are more likely to drop items.
-
-Increases Item Discovery by 180.
-
-Snakes are known as creatures of great avarice, devouring prey even larger than themselves by swallowing them whole.</text>
-<text id="20395">A gold ring depicting a snake that could have been, but never was, a dragon. Fallen foes are more likely to drop items.
-
-Increases Item Discovery by 200.
-
-Snakes are known as creatures of great avarice, devouring prey even larger than themselves by swallowing them whole.</text>
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
 <text id="20396">%null%</text>
 <text id="20397">%null%</text>
 <text id="20398">%null%</text>
 <text id="20399">%null%</text>
-<text id="20400">A silver ring depicting a snake that could have been, but never was, a dragon. Fallen foes yield more souls.
+<text id="20400">竜のなりそこない、蛇を象った銀の指輪
+敵を倒したとき吸収するソウルを増やす
 
-Increases soul absorption by 25%.
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
+<text id="20401">竜のなりそこない、蛇を象った銀の指輪
+敵を倒したとき吸収するソウルを増やす
 
-Snakes are known as creatures of great avarice, dwarfed only by puppets.</text>
-<text id="20401">A silver ring depicting a snake that could have been, but never was, a dragon. Fallen foes yield more souls.
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
+<text id="20402">竜のなりそこない、蛇を象った銀の指輪
+敵を倒したとき吸収するソウルを増やす
 
-Increases soul absorption by 30%.
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
+<text id="20403">竜のなりそこない、蛇を象った銀の指輪
+敵を倒したとき吸収するソウルを増やす
 
-Snakes are known as creatures of great avarice, dwarfed only by puppets.</text>
-<text id="20402">A silver ring depicting a snake that could have been, but never was, a dragon. Fallen foes yield more souls.
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
+<text id="20404">竜のなりそこない、蛇を象った銀の指輪
+敵を倒したとき吸収するソウルを増やす
 
-Increases soul absorption by 35%.
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
+<text id="20405">竜のなりそこない、蛇を象った銀の指輪
+敵を倒したとき吸収するソウルを増やす
 
-Snakes are known as creatures of great avarice, dwarfed only by puppets.</text>
-<text id="20403">A silver ring depicting a snake that could have been, but never was, a dragon. Fallen foes yield more souls.
-
-Increases soul absorption by 40%.
-
-Snakes are known as creatures of great avarice, dwarfed only by puppets.</text>
-<text id="20404">A silver ring depicting a snake that could have been, but never was, a dragon. Fallen foes yield more souls.
-
-Increases soul absorption by 45%.
-
-Snakes are known as creatures of great avarice, dwarfed only by puppets.</text>
-<text id="20405">A silver ring depicting a snake that could have been, but never was, a dragon. Fallen foes yield more souls.
-
-Increases soul absorption by 50%.
-
-Snakes are known as creatures of great avarice, dwarfed only by puppets.</text>
+蛇は、己よりも大きな獲物を丸のみにする
+きわめて貪欲な生物としても知られている</text>
 <text id="20406">%null%</text>
 <text id="20407">%null%</text>
 <text id="20408">%null%</text>
 <text id="20409">%null%</text>
-<text id="20410">Ring associated with Gwynevere, princess of sunlight and eldest daughter of Gwyn, the First Lord.
+<text id="20410">最古の王グウィンの長女として知られる
+太陽の光の王女グウィネヴィアの名で伝わる指輪
 
-The ring is vaguely warm, like a beam of sunlight, restoring 3 HP every second.
+それは陽光に似てわずかに温かく
+ＨＰをゆっくりと回復する
 
-Gwynevere left her home with a great many other deities, and became a wife and mother, raising several heavenly children.</text>
-<text id="20411">Ring associated with Gwynevere, princess of sunlight and eldest daughter of Gwyn, the First Lord.
+多くの神と共に故郷を去った彼女は
+やがて妻となり、母となった
+そして貴い子たちをもうけたという</text>
+<text id="20411">最古の王グウィンの長女として知られる
+太陽の光の王女グウィネヴィアの名で伝わる指輪
 
-The ring is vaguely warm, like a beam of sunlight, restoring 4 HP every second.
+それは陽光に似てわずかに温かく
+ＨＰをゆっくりと回復する
 
-Gwynevere left her home with a great many other deities, and became a wife and mother, raising several heavenly children.</text>
-<text id="20412">Ring associated with Gwynevere, princess of sunlight and eldest daughter of Gwyn, the First Lord.
+多くの神と共に故郷を去った彼女は
+やがて妻となり、母となった
+そして貴い子たちをもうけたという</text>
+<text id="20412">最古の王グウィンの長女として知られる
+太陽の光の王女グウィネヴィアの名で伝わる指輪
 
-The ring is vaguely warm, like a beam of sunlight, restoring 5 HP every second.
+それは陽光に似てわずかに温かく
+ＨＰをゆっくりと回復する
 
-Gwynevere left her home with a great many other deities, and became a wife and mother, raising several heavenly children.</text>
-<text id="20413">Ring associated with Gwynevere, princess of sunlight and eldest daughter of Gwyn, the First Lord.
+多くの神と共に故郷を去った彼女は
+やがて妻となり、母となった
+そして貴い子たちをもうけたという</text>
+<text id="20413">最古の王グウィンの長女として知られる
+太陽の光の王女グウィネヴィアの名で伝わる指輪
 
-The ring is vaguely warm, like a beam of sunlight, restoring 6 HP every second.
+それは陽光に似てわずかに温かく
+ＨＰをゆっくりと回復する
 
-Gwynevere left her home with a great many other deities, and became a wife and mother, raising several heavenly children.</text>
-<text id="20414">Ring associated with Gwynevere, princess of sunlight and eldest daughter of Gwyn, the First Lord.
+多くの神と共に故郷を去った彼女は
+やがて妻となり、母となった
+そして貴い子たちをもうけたという</text>
+<text id="20414">最古の王グウィンの長女として知られる
+太陽の光の王女グウィネヴィアの名で伝わる指輪
 
-The ring is vaguely warm, like a beam of sunlight, restoring 7 HP every second.
+それは陽光に似てわずかに温かく
+ＨＰをゆっくりと回復する
 
-Gwynevere left her home with a great many other deities, and became a wife and mother, raising several heavenly children.</text>
-<text id="20415">Ring associated with Gwynevere, princess of sunlight and eldest daughter of Gwyn, the First Lord.
+多くの神と共に故郷を去った彼女は
+やがて妻となり、母となった
+そして貴い子たちをもうけたという</text>
+<text id="20415">最古の王グウィンの長女として知られる
+太陽の光の王女グウィネヴィアの名で伝わる指輪
 
-The ring is vaguely warm, like a beam of sunlight, restoring 8 HP every second.
+それは陽光に似てわずかに温かく
+ＨＰをゆっくりと回復する
 
-Gwynevere left her home with a great many other deities, and became a wife and mother, raising several heavenly children.</text>
+多くの神と共に故郷を去った彼女は
+やがて妻となり、母となった
+そして貴い子たちをもうけたという</text>
 <text id="20416">%null%</text>
 <text id="20417">%null%</text>
 <text id="20418">%null%</text>
 <text id="20419">%null%</text>
-<text id="20420">Silver ring depicting a leaping feline.
+<text id="20420">飛び跳ねる猫を象った銀色の指輪
+落下ダメージを完全に無くす
 
-Prevents damage from falling.
-
-In the Age of Gods, or possibly just following it, an old cat was said to speak a human tongue, with the voice of an old woman, and the form of a fanciful immortal.</text>
+神の時代、あるいはその名残の時代
+年老いた猫は人語を介したという
+老女の声を持ち、幻のように不死であったと</text>
 <text id="20421">%null%</text>
 <text id="20422">%null%</text>
 <text id="20423">%null%</text>
@@ -1310,36 +1667,60 @@ In the Age of Gods, or possibly just following it, an old cat was said to speak 
 <text id="20427">%null%</text>
 <text id="20428">%null%</text>
 <text id="20429">%null%</text>
-<text id="20430">One of Courland's transposed wonders. Derived from the soul of a Soulfeeder.
+<text id="20430">クールラントが錬成した秘宝のひとつ
+「魂喰らい」のソウルに由来するもの
 
-Boosts physical attack by 12.5% but reduces damage absorption by 10%.
+攻撃力が高まるが、被ダメージも増えてしまう
 
-The Soulfeeder was a beast that insatiably absorbed souls to feed its own power. Even after its accursed corpse was burned, it is said that the pungent stench of souls left the air permanently stained.</text>
-<text id="20431">One of Courland's transposed wonders. Derived from the soul of a Soulfeeder.
+「魂喰らい」は無限のソウルを吸収し
+己の力とする化け物であったという
+その呪われた死骸が燃え尽きようと
+ソウルの臭いの消えることはなかったと</text>
+<text id="20431">クールラントが錬成した秘宝のひとつ
+「魂喰らい」のソウルに由来するもの
 
-Boosts physical attack by 15% but reduces damage absorption by 10%.
+攻撃力が高まるが、被ダメージも増えてしまう
 
-The Soulfeeder was a beast that insatiably absorbed souls to feed its own power. Even after its accursed corpse was burned, it is said that the pungent stench of souls left the air permanently stained.</text>
-<text id="20432">One of Courland's transposed wonders. Derived from the soul of a Soulfeeder.
+「魂喰らい」は無限のソウルを吸収し
+己の力とする化け物であったという
+その呪われた死骸が燃え尽きようと
+ソウルの臭いの消えることはなかったと</text>
+<text id="20432">クールラントが錬成した秘宝のひとつ
+「魂喰らい」のソウルに由来するもの
 
-Boosts physical attack by 17.5% but reduces damage absorption by 10%.
+攻撃力が高まるが、被ダメージも増えてしまう
 
-The Soulfeeder was a beast that insatiably absorbed souls to feed its own power. Even after its accursed corpse was burned, it is said that the pungent stench of souls left the air permanently stained.</text>
-<text id="20433">One of Courland's transposed wonders. Derived from the soul of a Soulfeeder.
+「魂喰らい」は無限のソウルを吸収し
+己の力とする化け物であったという
+その呪われた死骸が燃え尽きようと
+ソウルの臭いの消えることはなかったと</text>
+<text id="20433">クールラントが錬成した秘宝のひとつ
+「魂喰らい」のソウルに由来するもの
 
-Boosts physical attack by 20% but reduces damage absorption by 10%.
+攻撃力が高まるが、被ダメージも増えてしまう
 
-The Soulfeeder was a beast that insatiably absorbed souls to feed its own power. Even after its accursed corpse was burned, it is said that the pungent stench of souls left the air permanently stained.</text>
-<text id="20434">One of Courland's transposed wonders. Derived from the soul of a Soulfeeder.
+「魂喰らい」は無限のソウルを吸収し
+己の力とする化け物であったという
+その呪われた死骸が燃え尽きようと
+ソウルの臭いの消えることはなかったと</text>
+<text id="20434">クールラントが錬成した秘宝のひとつ
+「魂喰らい」のソウルに由来するもの
 
-Boosts physical attack by 22.5% but reduces damage absorption by 10%.
+攻撃力が高まるが、被ダメージも増えてしまう
 
-The Soulfeeder was a beast that insatiably absorbed souls to feed its own power. Even after its accursed corpse was burned, it is said that the pungent stench of souls left the air permanently stained.</text>
-<text id="20435">One of Courland's transposed wonders. Derived from the soul of a Soulfeeder.
+「魂喰らい」は無限のソウルを吸収し
+己の力とする化け物であったという
+その呪われた死骸が燃え尽きようと
+ソウルの臭いの消えることはなかったと</text>
+<text id="20435">クールラントが錬成した秘宝のひとつ
+「魂喰らい」のソウルに由来するもの
 
-Boosts physical attack by 25% but reduces damage absorption by 10%.
+攻撃力が高まるが、被ダメージも増えてしまう
 
-The Soulfeeder was a beast that insatiably absorbed souls to feed its own power. Even after its accursed corpse was burned, it is said that the pungent stench of souls left the air permanently stained.</text>
+「魂喰らい」は無限のソウルを吸収し
+己の力とする化け物であったという
+その呪われた死骸が燃え尽きようと
+ソウルの臭いの消えることはなかったと</text>
 <text id="20436">%null%</text>
 <text id="20437">%null%</text>
 <text id="20438">%null%</text>
@@ -1354,11 +1735,11 @@ The Soulfeeder was a beast that insatiably absorbed souls to feed its own power.
 <text id="20447">%null%</text>
 <text id="20448">%null%</text>
 <text id="20449">%null%</text>
-<text id="20450">Ring worn by warriors of the sand kingdom, Carthus.
+<text id="20450">砂の国、カーサスの剣士たちの指輪
+スタミナの消費量を抑え、ローリング時に姿が見えにくくなる
 
-Reduces evasion stamina consumption by 25% and obscures rolling.
-
-The sword technique of Carthus allows for fluid movement with a curved sword. Masters of the technique are said to dazzle their opponents by moving as weightlessly as a grain of sand.</text>
+曲刀を自在に用いるカーサスの剣技は
+砂塵のように身軽に、対手を翻弄したという</text>
 <text id="20451">%null%</text>
 <text id="20452">%null%</text>
 <text id="20453">%null%</text>
@@ -1368,240 +1749,306 @@ The sword technique of Carthus allows for fluid movement with a curved sword. Ma
 <text id="20457">%null%</text>
 <text id="20458">%null%</text>
 <text id="20459">%null%</text>
-<text id="20460">Ring engraved with a portrait of a knight.
+<text id="20460">騎士の姿が刻まれた肖像の指輪
+筋力を高める
 
-Increases strength by 6.
+古くよりロスリックでは
+騎士は王を支える三柱のひとつとされ
+故に竜の友たるを許されたという</text>
+<text id="20461">騎士の姿が刻まれた肖像の指輪
+筋力を高める
 
-In Lothric, the Knight has long been considered one of the Three Pillars of the king's rule, and were thus allowed to rear dragons.</text>
-<text id="20461">Ring engraved with a portrait of a knight.
+古くよりロスリックでは
+騎士は王を支える三柱のひとつとされ
+故に竜の友たるを許されたという</text>
+<text id="20462">騎士の姿が刻まれた肖像の指輪
+筋力を高める
 
-Increases strength by 8.
+古くよりロスリックでは
+騎士は王を支える三柱のひとつとされ
+故に竜の友たるを許されたという</text>
+<text id="20463">騎士の姿が刻まれた肖像の指輪
+筋力を高める
 
-In Lothric, the Knight has long been considered one of the Three Pillars of the king's rule, and were thus allowed to rear dragons.</text>
-<text id="20462">Ring engraved with a portrait of a knight.
+古くよりロスリックでは
+騎士は王を支える三柱のひとつとされ
+故に竜の友たるを許されたという</text>
+<text id="20464">騎士の姿が刻まれた肖像の指輪
+筋力を高める
 
-Increases strength by 10.
+古くよりロスリックでは
+騎士は王を支える三柱のひとつとされ
+故に竜の友たるを許されたという</text>
+<text id="20465">騎士の姿が刻まれた肖像の指輪
+筋力を高める
 
-In Lothric, the Knight has long been considered one of the Three Pillars of the king's rule, and were thus allowed to rear dragons.</text>
-<text id="20463">Ring engraved with a portrait of a knight.
-
-Increases strength by 12.
-
-In Lothric, the Knight has long been considered one of the Three Pillars of the king's rule, and were thus allowed to rear dragons.</text>
-<text id="20464">Ring engraved with a portrait of a knight.
-
-Increases strength by 14.
-
-In Lothric, the Knight has long been considered one of the Three Pillars of the king's rule, and were thus allowed to rear dragons.</text>
-<text id="20465">Ring engraved with a portrait of a knight.
-
-Increases strength by 16.
-
-In Lothric, the Knight has long been considered one of the Three Pillars of the king's rule, and were thus allowed to rear dragons.</text>
+古くよりロスリックでは
+騎士は王を支える三柱のひとつとされ
+故に竜の友たるを許されたという</text>
 <text id="20466">%null%</text>
 <text id="20467">%null%</text>
 <text id="20468">%null%</text>
 <text id="20469">%null%</text>
-<text id="20470">Ring engraved with a portrait of a hunter.
+<text id="20470">狩人の姿が刻まれた肖像の指輪
+技量を高める
 
-Increases dexterity by 6.
+狩人は、古くよりロスリックの黒い手であった
+三柱に対抗し、また密かに刑するために
+代々の王たちは黒い手を頼んだのだ</text>
+<text id="20471">狩人の姿が刻まれた肖像の指輪
+技量を高める
 
-The hunters serve Lothric on the fringes and in the shadows. For generations, rulers of Lothric have relied especially upon the Black Hand hunters to punish enemies in ways that the king's Three Pillars cannot.</text>
-<text id="20471">Ring engraved with a portrait of a hunter.
+狩人は、古くよりロスリックの黒い手であった
+三柱に対抗し、また密かに刑するために
+代々の王たちは黒い手を頼んだのだ</text>
+<text id="20472">狩人の姿が刻まれた肖像の指輪
+技量を高める
 
-Increases dexterity by 8.
+狩人は、古くよりロスリックの黒い手であった
+三柱に対抗し、また密かに刑するために
+代々の王たちは黒い手を頼んだのだ</text>
+<text id="20473">狩人の姿が刻まれた肖像の指輪
+技量を高める
 
-The hunters serve Lothric on the fringes and in the shadows. For generations, rulers of Lothric have relied especially upon the Black Hand hunters to punish enemies in ways that the king's Three Pillars cannot.</text>
-<text id="20472">Ring engraved with a portrait of a hunter.
+狩人は、古くよりロスリックの黒い手であった
+三柱に対抗し、また密かに刑するために
+代々の王たちは黒い手を頼んだのだ</text>
+<text id="20474">狩人の姿が刻まれた肖像の指輪
+技量を高める
 
-Increases dexterity by 10.
+狩人は、古くよりロスリックの黒い手であった
+三柱に対抗し、また密かに刑するために
+代々の王たちは黒い手を頼んだのだ</text>
+<text id="20475">狩人の姿が刻まれた肖像の指輪
+技量を高める
 
-The hunters serve Lothric on the fringes and in the shadows. For generations, rulers of Lothric have relied especially upon the Black Hand hunters to punish enemies in ways that the king's Three Pillars cannot.</text>
-<text id="20473">Ring engraved with a portrait of a hunter.
-
-Increases dexterity by 12.
-
-The hunters serve Lothric on the fringes and in the shadows. For generations, rulers of Lothric have relied especially upon the Black Hand hunters to punish enemies in ways that the king's Three Pillars cannot.</text>
-<text id="20474">Ring engraved with a portrait of a hunter.
-
-Increases dexterity by 14.
-
-The hunters serve Lothric on the fringes and in the shadows. For generations, rulers of Lothric have relied especially upon the Black Hand hunters to punish enemies in ways that the king's Three Pillars cannot.</text>
-<text id="20475">Ring engraved with a portrait of a hunter.
-
-Increases dexterity by 16.
-
-The hunters serve Lothric on the fringes and in the shadows. For generations, rulers of Lothric have relied especially upon the Black Hand hunters to punish enemies in ways that the king's Three Pillars cannot.</text>
+狩人は、古くよりロスリックの黒い手であった
+三柱に対抗し、また密かに刑するために
+代々の王たちは黒い手を頼んだのだ</text>
 <text id="20476">%null%</text>
 <text id="20477">%null%</text>
 <text id="20478">%null%</text>
 <text id="20479">%null%</text>
-<text id="20480">Ring of the savage Tsorig, more commonly known as the Knight Slayer.
+<text id="20480">騎士狩りゾリグの名で知られる指輪
 
-Increases stamina drain dealt to enemies by 100%.
+盾受けに対するスタミナ攻撃力を高める
 
-Long ago, Tsorig engaged the guardians of an ancient city in a bloody confrontation, and returned with their rings as his prize, still frozen on their dismembered fingers.</text>
-<text id="20481">Ring of the savage Tsorig, more commonly known as the Knight Slayer.
+ゾリグは、かつて古い都で守護戦士と死闘を演じ
+彼らの指ごと、凍りついた指輪を奪ったという</text>
+<text id="20481">騎士狩りゾリグの名で知られる指輪
 
-Increases stamina drain dealt to enemies by 120%.
+盾受けに対するスタミナ攻撃力を高める
 
-Long ago, Tsorig engaged the guardians of an ancient city in a bloody confrontation, and returned with their rings as his prize, still frozen on their dismembered fingers.</text>
-<text id="20482">Ring of the savage Tsorig, more commonly known as the Knight Slayer.
+ゾリグは、かつて古い都で守護戦士と死闘を演じ
+彼らの指ごと、凍りついた指輪を奪ったという</text>
+<text id="20482">騎士狩りゾリグの名で知られる指輪
 
-Increases stamina drain dealt to enemies by 140%.
+盾受けに対するスタミナ攻撃力を高める
 
-Long ago, Tsorig engaged the guardians of an ancient city in a bloody confrontation, and returned with their rings as his prize, still frozen on their dismembered fingers.</text>
-<text id="20483">Ring of the savage Tsorig, more commonly known as the Knight Slayer.
+ゾリグは、かつて古い都で守護戦士と死闘を演じ
+彼らの指ごと、凍りついた指輪を奪ったという</text>
+<text id="20483">騎士狩りゾリグの名で知られる指輪
 
-Increases stamina drain dealt to enemies by 160%.
+盾受けに対するスタミナ攻撃力を高める
 
-Long ago, Tsorig engaged the guardians of an ancient city in a bloody confrontation, and returned with their rings as his prize, still frozen on their dismembered fingers.</text>
-<text id="20484">Ring of the savage Tsorig, more commonly known as the Knight Slayer.
+ゾリグは、かつて古い都で守護戦士と死闘を演じ
+彼らの指ごと、凍りついた指輪を奪ったという</text>
+<text id="20484">騎士狩りゾリグの名で知られる指輪
 
-Increases stamina drain dealt to enemies by 180%.
+盾受けに対するスタミナ攻撃力を高める
 
-Long ago, Tsorig engaged the guardians of an ancient city in a bloody confrontation, and returned with their rings as his prize, still frozen on their dismembered fingers.</text>
-<text id="20485">Ring of the savage Tsorig, more commonly known as the Knight Slayer.
+ゾリグは、かつて古い都で守護戦士と死闘を演じ
+彼らの指ごと、凍りついた指輪を奪ったという</text>
+<text id="20485">騎士狩りゾリグの名で知られる指輪
 
-Increases stamina drain dealt to enemies by 200%.
+盾受けに対するスタミナ攻撃力を高める
 
-Long ago, Tsorig engaged the guardians of an ancient city in a bloody confrontation, and returned with their rings as his prize, still frozen on their dismembered fingers.</text>
+ゾリグは、かつて古い都で守護戦士と死闘を演じ
+彼らの指ごと、凍りついた指輪を奪ったという</text>
 <text id="20486">%null%</text>
 <text id="20487">%null%</text>
 <text id="20488">%null%</text>
 <text id="20489">%null%</text>
-<text id="20490">Ring depicting a hand grasping a blue stone.
+<text id="20490">青石を掴む奇手の指輪
+魔力攻撃力を高めるが
+カット率が下がってしまう
 
-Increases magic attack by 12.5% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20491">青石を掴む奇手の指輪
+魔力攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20491">Ring depicting a hand grasping a blue stone.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20492">青石を掴む奇手の指輪
+魔力攻撃力を高めるが
+カット率が下がってしまう
 
-Increases magic attack by 15% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20493">青石を掴む奇手の指輪
+魔力攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20492">Ring depicting a hand grasping a blue stone.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20494">青石を掴む奇手の指輪
+魔力攻撃力を高めるが
+カット率が下がってしまう
 
-Increases magic attack by 17.5% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20495">青石を掴む奇手の指輪
+魔力攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20493">Ring depicting a hand grasping a blue stone.
-
-Increases magic attack by 20% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20494">Ring depicting a hand grasping a blue stone.
-
-Increases magic attack by 22.5% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20495">Ring depicting a hand grasping a blue stone.
-
-Increases magic attack by 25% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
 <text id="20496">%null%</text>
 <text id="20497">%null%</text>
 <text id="20498">%null%</text>
 <text id="20499">%null%</text>
-<text id="20500">Ring depicting a hand grasping a yellow stone.
+<text id="20500">黄石を掴む奇手の指輪
+雷攻撃力を高めるが
+カット率が下がってしまう
 
-Increases lightning attack by 12.5% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20501">黄石を掴む奇手の指輪
+雷攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20501">Ring depicting a hand grasping a yellow stone.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20502">黄石を掴む奇手の指輪
+雷攻撃力を高めるが
+カット率が下がってしまう
 
-Increases lightning attack by 15% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20503">黄石を掴む奇手の指輪
+雷攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20502">Ring depicting a hand grasping a yellow stone.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20504">黄石を掴む奇手の指輪
+雷攻撃力を高めるが
+カット率が下がってしまう
 
-Increases lightning attack by 17.5% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20505">黄石を掴む奇手の指輪
+雷攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20503">Ring depicting a hand grasping a yellow stone.
-
-Increases lightning attack by 20% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20504">Ring depicting a hand grasping a yellow stone.
-
-Increases lightning attack by 22.5% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20505">Ring depicting a hand grasping a yellow stone.
-
-Increases lightning attack by 25% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
 <text id="20506">%null%</text>
 <text id="20507">%null%</text>
 <text id="20508">%null%</text>
 <text id="20509">%null%</text>
-<text id="20510">Ring depicting a hand grasping a red stone.
+<text id="20510">赤石を掴む奇手の指輪
+炎攻撃力を高めるが
+カット率が下がってしまう
 
-Increases fire attack by 12.5% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20511">赤石を掴む奇手の指輪
+炎攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20511">Ring depicting a hand grasping a red stone.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20512">赤石を掴む奇手の指輪
+炎攻撃力を高めるが
+カット率が下がってしまう
 
-Increases fire attack by 15% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20513">赤石を掴む奇手の指輪
+炎攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20512">Ring depicting a hand grasping a red stone.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20514">赤石を掴む奇手の指輪
+炎攻撃力を高めるが
+カット率が下がってしまう
 
-Increases fire attack by 17.5% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20515">赤石を掴む奇手の指輪
+炎攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20513">Ring depicting a hand grasping a red stone.
-
-Increases fire attack by 20% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20514">Ring depicting a hand grasping a red stone.
-
-Increases fire attack by 22.5% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20515">Ring depicting a hand grasping a red stone.
-
-Increases fire attack by 25% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
 <text id="20516">%null%</text>
 <text id="20517">%null%</text>
 <text id="20518">%null%</text>
 <text id="20519">%null%</text>
-<text id="20520">Ring depicting a hand grasping a purple stone.
+<text id="20520">紫石を掴む奇手の指輪
+闇攻撃力を高めるが
+カット率が下がってしまう
 
-Increases dark attack by 12.5% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20521">紫石を掴む奇手の指輪
+闇攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20521">Ring depicting a hand grasping a purple stone.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20522">紫石を掴む奇手の指輪
+闇攻撃力を高めるが
+カット率が下がってしまう
 
-Increases dark attack by 15% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20523">紫石を掴む奇手の指輪
+闇攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20522">Ring depicting a hand grasping a purple stone.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20524">紫石を掴む奇手の指輪
+闇攻撃力を高めるが
+カット率が下がってしまう
 
-Increases dark attack by 17.5% but reduces damage absorption by 10%.
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
+<text id="20525">紫石を掴む奇手の指輪
+闇攻撃力を高めるが
+カット率が下がってしまう
 
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20523">Ring depicting a hand grasping a purple stone.
-
-Increases dark attack by 20% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20524">Ring depicting a hand grasping a purple stone.
-
-Increases dark attack by 22.5% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
-<text id="20525">Ring depicting a hand grasping a purple stone.
-
-Increases dark attack by 25% but reduces damage absorption by 10%.
-
-An old fable in Londor claims that the lure of the clutch ring reaches out to the crestfallen, who might otherwise be overcome by despair.</text>
+ロンドールの古い言い伝えによれば
+絶望に心折れようとする者の前にこそ
+奇手の誘いが現れるのだという</text>
 <text id="20526">%null%</text>
 <text id="20527">%null%</text>
 <text id="20528">%null%</text>
@@ -1616,70 +2063,82 @@ An old fable in Londor claims that the lure of the clutch ring reaches out to th
 <text id="20537">%null%</text>
 <text id="20538">%null%</text>
 <text id="20539">%null%</text>
-<text id="20540">Ring of Flynn, the eulogized thief.
+<text id="20540">義賊として謳われるフリンの指輪
+装備重量が少ないほど、攻撃力を高める
 
-Lowering equip load below 30 increases weapon damage, up to a max of 30%.
+風の力を助けに戦ったというフリンは
+小さく貧しい者たちの英雄である
+そして彼らは、それが夢物語であると知っている</text>
+<text id="20541">義賊として謳われるフリンの指輪
+装備重量が少ないほど、攻撃力を高める
 
-Flynn fought with the wind on his side, and was a hero among the weak and poor, yet even his admirers knew that it was little more than an idyllic fable.</text>
-<text id="20541">Ring of Flynn, the eulogized thief.
+風の力を助けに戦ったというフリンは
+小さく貧しい者たちの英雄である
+そして彼らは、それが夢物語であると知っている</text>
+<text id="20542">義賊として謳われるフリンの指輪
+装備重量が少ないほど、攻撃力を高める
 
-Lowering equip load below 30 increases weapon damage, up to a max of 32%.
+風の力を助けに戦ったというフリンは
+小さく貧しい者たちの英雄である
+そして彼らは、それが夢物語であると知っている</text>
+<text id="20543">義賊として謳われるフリンの指輪
+装備重量が少ないほど、攻撃力を高める
 
-Flynn fought with the wind on his side, and was a hero among the weak and poor, yet even his admirers knew that it was little more than an idyllic fable.</text>
-<text id="20542">Ring of Flynn, the eulogized thief.
+風の力を助けに戦ったというフリンは
+小さく貧しい者たちの英雄である
+そして彼らは、それが夢物語であると知っている</text>
+<text id="20544">義賊として謳われるフリンの指輪
+装備重量が少ないほど、攻撃力を高める
 
-Lowering equip load below 30 increases weapon damage, up to a max of 34%.
+風の力を助けに戦ったというフリンは
+小さく貧しい者たちの英雄である
+そして彼らは、それが夢物語であると知っている</text>
+<text id="20545">義賊として謳われるフリンの指輪
+装備重量が少ないほど、攻撃力を高める
 
-Flynn fought with the wind on his side, and was a hero among the weak and poor, yet even his admirers knew that it was little more than an idyllic fable.</text>
-<text id="20543">Ring of Flynn, the eulogized thief.
-
-Lowering equip load below 30 increases weapon damage, up to a max of 36%.
-
-Flynn fought with the wind on his side, and was a hero among the weak and poor, yet even his admirers knew that it was little more than an idyllic fable.</text>
-<text id="20544">Ring of Flynn, the eulogized thief.
-
-Lowering equip load below 30 increases weapon damage, up to a max of 38%.
-
-Flynn fought with the wind on his side, and was a hero among the weak and poor, yet even his admirers knew that it was little more than an idyllic fable.</text>
-<text id="20545">Ring of Flynn, the eulogized thief.
-
-Lowering equip load below 30 increases weapon damage, up to a max of 40%.
-
-Flynn fought with the wind on his side, and was a hero among the weak and poor, yet even his admirers knew that it was little more than an idyllic fable.</text>
+風の力を助けに戦ったというフリンは
+小さく貧しい者たちの英雄である
+そして彼らは、それが夢物語であると知っている</text>
 <text id="20546">%null%</text>
 <text id="20547">%null%</text>
 <text id="20548">%null%</text>
 <text id="20549">%null%</text>
-<text id="20550">Portion of a steel chain used to restrain Gundyr.
+<text id="20550">かつてグンダを縛った鉄鎖の一部
+生命力、持久力、体力が高まるが
+被ダメージも増えてしまう
 
-Increases Vigor, Endurance, and Vitality by 5 but reduces absorption by 10%.
+虜囚とは、自由の代償に全てを受け容れるものだ
+英雄の運命であれば尚更であろう</text>
+<text id="20551">かつてグンダを縛った鉄鎖の一部
+生命力、持久力、体力が高まるが
+被ダメージも増えてしまう
 
-A prisoner is one who has staked everything on a belief, a proclivity most apparent in the greatest of champions.</text>
-<text id="20551">Portion of a steel chain used to restrain Gundyr.
+虜囚とは、自由の代償に全てを受け容れるものだ
+英雄の運命であれば尚更であろう</text>
+<text id="20552">かつてグンダを縛った鉄鎖の一部
+生命力、持久力、体力が高まるが
+被ダメージも増えてしまう
 
-Increases Vigor, Endurance, and Vitality by 5 but reduces absorption by 9%.
+虜囚とは、自由の代償に全てを受け容れるものだ
+英雄の運命であれば尚更であろう</text>
+<text id="20553">かつてグンダを縛った鉄鎖の一部
+生命力、持久力、体力が高まるが
+被ダメージも増えてしまう
 
-A prisoner is one who has staked everything on a belief, a proclivity most apparent in the greatest of champions.</text>
-<text id="20552">Portion of a steel chain used to restrain Gundyr.
+虜囚とは、自由の代償に全てを受け容れるものだ
+英雄の運命であれば尚更であろう</text>
+<text id="20554">かつてグンダを縛った鉄鎖の一部
+生命力、持久力、体力が高まるが
+被ダメージも増えてしまう
 
-Increases Vigor, Endurance, and Vitality by 5 but reduces absorption by 8%.
+虜囚とは、自由の代償に全てを受け容れるものだ
+英雄の運命であれば尚更であろう</text>
+<text id="20555">かつてグンダを縛った鉄鎖の一部
+生命力、持久力、体力が高まるが
+被ダメージも増えてしまう
 
-A prisoner is one who has staked everything on a belief, a proclivity most apparent in the greatest of champions.</text>
-<text id="20553">Portion of a steel chain used to restrain Gundyr.
-
-Increases Vigor, Endurance, and Vitality by 5 but reduces absorption by 7%.
-
-A prisoner is one who has staked everything on a belief, a proclivity most apparent in the greatest of champions.</text>
-<text id="20554">Portion of a steel chain used to restrain Gundyr.
-
-Increases Vigor, Endurance, and Vitality by 5 but reduces absorption by 6%.
-
-A prisoner is one who has staked everything on a belief, a proclivity most apparent in the greatest of champions.</text>
-<text id="20555">Portion of a steel chain used to restrain Gundyr.
-
-Increases Vigor, Endurance, and Vitality by 5 but reduces absorption by 5%.
-
-A prisoner is one who has staked everything on a belief, a proclivity most apparent in the greatest of champions.</text>
+虜囚とは、自由の代償に全てを受け容れるものだ
+英雄の運命であれば尚更であろう</text>
 <text id="20556">%null%</text>
 <text id="20557">%null%</text>
 <text id="20558">%null%</text>
@@ -1704,11 +2163,15 @@ A prisoner is one who has staked everything on a belief, a proclivity most appar
 <text id="20577">%null%</text>
 <text id="20578">%null%</text>
 <text id="20579">%null%</text>
-<text id="20580">Ring bestowed upon the Fingers of Rosaria, invaders who seek tongues for their goddess.
+<text id="20580">舌を捧げる侵入者たち
+ロザリアの指に与えられる指輪
 
-Hides the presence of the wearer when far away, reducing enemy detection via sight by 90%.
+遠い距離で、装備者の姿を隠し
+敵から見つかりにくくする
 
-It is said that Rosaria, the mother of rebirth, was robbed of her tongue by her firstborn, and has been waiting for their return ever since.</text>
+生まれ変わりの母、ロザリアは
+最初の子に舌を奪われたという
+以来彼女は、それらを待っているのだと</text>
 <text id="20581">%null%</text>
 <text id="20582">%null%</text>
 <text id="20583">%null%</text>
@@ -1718,113 +2181,132 @@ It is said that Rosaria, the mother of rebirth, was robbed of her tongue by her 
 <text id="20587">%null%</text>
 <text id="20588">%null%</text>
 <text id="20589">%null%</text>
-<text id="20590">This ring captured the foul spirit of an evil eye, a creature that ravaged Astora.
+<text id="20590">かつてアストラを襲ったという魔物
+邪眼の悪霊を封じ込めた指輪
 
-Absorb HP from each defeated foe, restoring 100 HP.
+敵を倒したときＨＰを回復する
 
-The horrid spirit nearly destroyed Astora, but was eventually defeated by "the sword of one most noble."</text>
-<text id="20591">This ring captured the foul spirit of an evil eye, a creature that ravaged Astora.
+恐るべき悪霊はアストラを崩壊寸前まで追い込み
+しかし「本当に貴い者の剣」の前に敗れ去ったという</text>
+<text id="20591">かつてアストラを襲ったという魔物
+邪眼の悪霊を封じ込めた指輪
 
-Absorb HP from each defeated foe, restoring 120 HP.
+敵を倒したときＨＰを回復する
 
-The horrid spirit nearly destroyed Astora, but was eventually defeated by "the sword of one most noble."</text>
-<text id="20592">This ring captured the foul spirit of an evil eye, a creature that ravaged Astora.
+恐るべき悪霊はアストラを崩壊寸前まで追い込み
+しかし「本当に貴い者の剣」の前に敗れ去ったという</text>
+<text id="20592">かつてアストラを襲ったという魔物
+邪眼の悪霊を封じ込めた指輪
 
-Absorb HP from each defeated foe, restoring 140 HP.
+敵を倒したときＨＰを回復する
 
-The horrid spirit nearly destroyed Astora, but was eventually defeated by "the sword of one most noble."</text>
-<text id="20593">This ring captured the foul spirit of an evil eye, a creature that ravaged Astora.
+恐るべき悪霊はアストラを崩壊寸前まで追い込み
+しかし「本当に貴い者の剣」の前に敗れ去ったという</text>
+<text id="20593">かつてアストラを襲ったという魔物
+邪眼の悪霊を封じ込めた指輪
 
-Absorb HP from each defeated foe, restoring 160 HP.
+敵を倒したときＨＰを回復する
 
-The horrid spirit nearly destroyed Astora, but was eventually defeated by "the sword of one most noble."</text>
-<text id="20594">This ring captured the foul spirit of an evil eye, a creature that ravaged Astora.
+恐るべき悪霊はアストラを崩壊寸前まで追い込み
+しかし「本当に貴い者の剣」の前に敗れ去ったという</text>
+<text id="20594">かつてアストラを襲ったという魔物
+邪眼の悪霊を封じ込めた指輪
 
-Absorb HP from each defeated foe, restoring 180 HP.
+敵を倒したときＨＰを回復する
 
-The horrid spirit nearly destroyed Astora, but was eventually defeated by "the sword of one most noble."</text>
-<text id="20595">This ring captured the foul spirit of an evil eye, a creature that ravaged Astora.
+恐るべき悪霊はアストラを崩壊寸前まで追い込み
+しかし「本当に貴い者の剣」の前に敗れ去ったという</text>
+<text id="20595">かつてアストラを襲ったという魔物
+邪眼の悪霊を封じ込めた指輪
 
-Absorb HP from each defeated foe, restoring 200 HP.
+敵を倒したときＨＰを回復する
 
-The horrid spirit nearly destroyed Astora, but was eventually defeated by "the sword of one most noble."</text>
+恐るべき悪霊はアストラを崩壊寸前まで追い込み
+しかし「本当に貴い者の剣」の前に敗れ去ったという</text>
 <text id="20596">%null%</text>
 <text id="20597">%null%</text>
 <text id="20598">%null%</text>
 <text id="20599">%null%</text>
-<text id="20600">A ring made from the orange eye of a calamitous dragon. 
+<text id="20600">災厄の竜、その橙の瞳の指輪
+すべての攻撃力が高まるが、災厄の呪いを受けてしまう
 
-Boosts all damage by 20% but lose 10 HP every second.
+竜信仰の対象として隠し伝えられている指輪だが
+ときに求道者は、それを己だけの試練と思いこむのだ</text>
+<text id="20601">災厄の竜、その橙の瞳の指輪
+すべての攻撃力が高まるが、災厄の呪いを受けてしまう
 
-This ring is a symbol of dragon worship, a thing quietly passed down amongst its most fervent adherents, some of whom become convinced the task has been bestowed upon them as a sacred duty.</text>
-<text id="20601">A ring made from the orange eye of a calamitous dragon. 
+竜信仰の対象として隠し伝えられている指輪だが
+ときに求道者は、それを己だけの試練と思いこむのだ</text>
+<text id="20602">災厄の竜、その橙の瞳の指輪
+すべての攻撃力が高まるが、災厄の呪いを受けてしまう
 
-Boosts all damage by 22% but lose 10 HP every second.
+竜信仰の対象として隠し伝えられている指輪だが
+ときに求道者は、それを己だけの試練と思いこむのだ</text>
+<text id="20603">災厄の竜、その橙の瞳の指輪
+すべての攻撃力が高まるが、災厄の呪いを受けてしまう
 
-This ring is a symbol of dragon worship, a thing quietly passed down amongst its most fervent adherents, some of whom become convinced the task has been bestowed upon them as a sacred duty.</text>
-<text id="20602">A ring made from the orange eye of a calamitous dragon. 
+竜信仰の対象として隠し伝えられている指輪だが
+ときに求道者は、それを己だけの試練と思いこむのだ</text>
+<text id="20604">災厄の竜、その橙の瞳の指輪
+すべての攻撃力が高まるが、災厄の呪いを受けてしまう
 
-Boosts all damage by 24% but lose 10 HP every second.
+竜信仰の対象として隠し伝えられている指輪だが
+ときに求道者は、それを己だけの試練と思いこむのだ</text>
+<text id="20605">災厄の竜、その橙の瞳の指輪
+すべての攻撃力が高まるが、災厄の呪いを受けてしまう
 
-This ring is a symbol of dragon worship, a thing quietly passed down amongst its most fervent adherents, some of whom become convinced the task has been bestowed upon them as a sacred duty.</text>
-<text id="20603">A ring made from the orange eye of a calamitous dragon. 
-
-Boosts all damage by 26% but lose 10 HP every second.
-
-This ring is a symbol of dragon worship, a thing quietly passed down amongst its most fervent adherents, some of whom become convinced the task has been bestowed upon them as a sacred duty.</text>
-<text id="20604">A ring made from the orange eye of a calamitous dragon. 
-
-Boosts all damage by 28% but lose 10 HP every second.
-
-This ring is a symbol of dragon worship, a thing quietly passed down amongst its most fervent adherents, some of whom become convinced the task has been bestowed upon them as a sacred duty.</text>
-<text id="20605">A ring made from the orange eye of a calamitous dragon. 
-
-Boosts all damage by 30% but lose 10 HP every second.
-
-This ring is a symbol of dragon worship, a thing quietly passed down amongst its most fervent adherents, some of whom become convinced the task has been bestowed upon them as a sacred duty.</text>
+竜信仰の対象として隠し伝えられている指輪だが
+ときに求道者は、それを己だけの試練と思いこむのだ</text>
 <text id="20606">%null%</text>
 <text id="20607">%null%</text>
 <text id="20608">%null%</text>
 <text id="20609">%null%</text>
-<text id="20610">A ring given to Undead Legion of Farron.
+<text id="20610">ファランの不死隊に与えられた指輪
+戦技の消費ＦＰを減らす
 
-Reduces Skill FP consumption by 30%.
+深淵の監視者として化け物を狩る彼らには
+尋常を超えた剣技こそが必要であった
+狼の血がそれを与え、この指輪がそれを支えたのだ</text>
+<text id="20611">ファランの不死隊に与えられた指輪
+戦技の消費ＦＰを減らす
 
-The Abyss Watchers, for their hunting, required a sword technique that went beyond any existing art. Wolf's blood provided just that, and this ring further extends the effect.</text>
-<text id="20611">A ring given to Undead Legion of Farron.
+深淵の監視者として化け物を狩る彼らには
+尋常を超えた剣技こそが必要であった
+狼の血がそれを与え、この指輪がそれを支えたのだ</text>
+<text id="20612">ファランの不死隊に与えられた指輪
+戦技の消費ＦＰを減らす
 
-Reduces Skill FP consumption by 34%.
+深淵の監視者として化け物を狩る彼らには
+尋常を超えた剣技こそが必要であった
+狼の血がそれを与え、この指輪がそれを支えたのだ</text>
+<text id="20613">ファランの不死隊に与えられた指輪
+戦技の消費ＦＰを減らす
 
-The Abyss Watchers, for their hunting, required a sword technique that went beyond any existing art. Wolf's blood provided just that, and this ring further extends the effect.</text>
-<text id="20612">A ring given to Undead Legion of Farron.
+深淵の監視者として化け物を狩る彼らには
+尋常を超えた剣技こそが必要であった
+狼の血がそれを与え、この指輪がそれを支えたのだ</text>
+<text id="20614">ファランの不死隊に与えられた指輪
+戦技の消費ＦＰを減らす
 
-Reduces Skill FP consumption by 38%.
+深淵の監視者として化け物を狩る彼らには
+尋常を超えた剣技こそが必要であった
+狼の血がそれを与え、この指輪がそれを支えたのだ</text>
+<text id="20615">ファランの不死隊に与えられた指輪
+戦技の消費ＦＰを減らす
 
-The Abyss Watchers, for their hunting, required a sword technique that went beyond any existing art. Wolf's blood provided just that, and this ring further extends the effect.</text>
-<text id="20613">A ring given to Undead Legion of Farron.
-
-Reduces Skill FP consumption by 42%.
-
-The Abyss Watchers, for their hunting, required a sword technique that went beyond any existing art. Wolf's blood provided just that, and this ring further extends the effect.</text>
-<text id="20614">A ring given to Undead Legion of Farron.
-
-Reduces Skill FP consumption by 46%.
-
-The Abyss Watchers, for their hunting, required a sword technique that went beyond any existing art. Wolf's blood provided just that, and this ring further extends the effect.</text>
-<text id="20615">A ring given to Undead Legion of Farron.
-
-Reduces Skill FP consumption by 50%.
-
-The Abyss Watchers, for their hunting, required a sword technique that went beyond any existing art. Wolf's blood provided just that, and this ring further extends the effect.</text>
+深淵の監視者として化け物を狩る彼らには
+尋常を超えた剣技こそが必要であった
+狼の血がそれを与え、この指輪がそれを支えたのだ</text>
 <text id="20616">%null%</text>
 <text id="20617">%null%</text>
 <text id="20618">%null%</text>
 <text id="20619">%null%</text>
-<text id="20620">A malformed ring left by Aldrich, Saint of the Deep. 
+<text id="20620">深みの聖者エルドリッチの残した歪んだ指輪
+致命攻撃時にＨＰを回復する
 
-Recovers HP from backstabs and ripostes, restoring 100 HP.
-
-Aldrich, infamous for his appetite for flesh, apparently had the desire to share with others his joy of imbibing the final shudders of life while luxuriating in his victim's screams.</text>
+おぞましい人喰いで知られるエルドリッチは
+きっと伝えたいのだろう
+悲鳴に浴し、生命の震えをこそ喰らうやり方を</text>
 <text id="20621">%null%</text>
 <text id="20622">%null%</text>
 <text id="20623">%null%</text>
@@ -1834,11 +2316,12 @@ Aldrich, infamous for his appetite for flesh, apparently had the desire to share
 <text id="20627">%null%</text>
 <text id="20628">%null%</text>
 <text id="20629">%null%</text>
-<text id="20630">A malformed ring left by Aldrich, Saint of the Deep. 
+<text id="20630">深みの聖者エルドリッチの残した歪んだ指輪
+致命攻撃時にＦＰを回復する
 
-Recovers FP from backstabs and ripostes, restoring 100 FP.
-
-Aldrich, infamous for his appetite for flesh, apparently had the desire to share with others his joy of imbibing the final shudders of life while luxuriating in his victim's screams.</text>
+おぞましい人喰いで知られるエルドリッチは
+きっと伝えたいのだろう
+悲鳴に浴し、生命の震えをこそ喰らうやり方を</text>
 <text id="20631">%null%</text>
 <text id="20632">%null%</text>
 <text id="20633">%null%</text>
@@ -1868,70 +2351,106 @@ Aldrich, infamous for his appetite for flesh, apparently had the desire to share
 <text id="20657">%null%</text>
 <text id="20658">%null%</text>
 <text id="20659">%null%</text>
-<text id="20660">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Sword of Law.
+<text id="20660">白教に仕える騎士に与えられる指輪
+主神ロイドの法の剣を象っている
 
-Boosts attack power by 15% when HP is full.
+ＨＰが最大のとき、攻撃力を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
-<text id="20661">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Sword of Law.
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
+<text id="20661">白教に仕える騎士に与えられる指輪
+主神ロイドの法の剣を象っている
 
-Boosts attack power by 15% when HP is above 98%.
+ＨＰが最大のとき、攻撃力を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
-<text id="20662">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Sword of Law.
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
+<text id="20662">白教に仕える騎士に与えられる指輪
+主神ロイドの法の剣を象っている
 
-Boosts attack power by 15% when HP is above 96%.
+ＨＰが最大のとき、攻撃力を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
-<text id="20663">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Sword of Law.
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
+<text id="20663">白教に仕える騎士に与えられる指輪
+主神ロイドの法の剣を象っている
 
-Boosts attack power by 15% when HP is above 94%.
+ＨＰが最大のとき、攻撃力を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
-<text id="20664">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Sword of Law.
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
+<text id="20664">白教に仕える騎士に与えられる指輪
+主神ロイドの法の剣を象っている
 
-Boosts attack power by 15% when HP is above 92%.
+ＨＰが最大のとき、攻撃力を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
-<text id="20665">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Sword of Law.
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
+<text id="20665">白教に仕える騎士に与えられる指輪
+主神ロイドの法の剣を象っている
 
-Boosts attack power by 15% when HP is above 90%.
+ＨＰが最大のとき、攻撃力を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
 <text id="20666">%null%</text>
 <text id="20667">%null%</text>
 <text id="20668">%null%</text>
 <text id="20669">%null%</text>
-<text id="20670">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Shield of Caste.
+<text id="20670">白教に仕える騎士に与えられる指輪
+主神ロイドの階級の盾を象っている
 
-Boosts damage absorption by 40% when HP is full.
+ＨＰが最大のとき、カット率を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
-<text id="20671">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Shield of Caste.
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
+<text id="20671">白教に仕える騎士に与えられる指輪
+主神ロイドの階級の盾を象っている
 
-Boosts damage absorption by 40% when HP is above 98%.
+ＨＰが最大のとき、カット率を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
-<text id="20672">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Shield of Caste.
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
+<text id="20672">白教に仕える騎士に与えられる指輪
+主神ロイドの階級の盾を象っている
 
-Boosts damage absorption by 40% when HP is above 96%.
+ＨＰが最大のとき、カット率を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
-<text id="20673">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Shield of Caste.
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
+<text id="20673">白教に仕える騎士に与えられる指輪
+主神ロイドの階級の盾を象っている
 
-Boosts damage absorption by 40% when HP is above 94%.
+ＨＰが最大のとき、カット率を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
-<text id="20674">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Shield of Caste.
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
+<text id="20674">白教に仕える騎士に与えられる指輪
+主神ロイドの階級の盾を象っている
 
-Boosts damage absorption by 40% when HP is above 92%.
+ＨＰが最大のとき、カット率を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
-<text id="20675">Ring given to knights of the Way of White. Depicts Allfather Lloyd's Shield of Caste.
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
+<text id="20675">白教に仕える騎士に与えられる指輪
+主神ロイドの階級の盾を象っている
 
-Boosts damage absorption by 40% when HP is above 90%.
+ＨＰが最大のとき、カット率を一時的に高める
 
-Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</text>
+だが白教のロイド信仰は、今や廃れて久しい
+カリムの司祭たちは声高に主張する
+ロイドは傍系にすぎず、主神を僭称したのだと</text>
 <text id="20676">%null%</text>
 <text id="20677">%null%</text>
 <text id="20678">%null%</text>
@@ -1956,119 +2475,166 @@ Much time has passed since the worship of Lloyd was common in the Way of White. 
 <text id="20697">%null%</text>
 <text id="20698">%null%</text>
 <text id="20699">%null%</text>
-<text id="20700">A green ring crafted from shards.
+<text id="20700">かけらから作られた緑色の指輪
+エスト瓶のＨＰ回復量を高める
 
-Increases HP restored by the Estus Flask by 50%.
+それはある火防女に託され
+だが彼女は、終に英雄に出会えなかったという
+やがて愚か者の悲劇は、大衆好みの伝承となった</text>
+<text id="20701">かけらから作られた緑色の指輪
+エスト瓶のＨＰ回復量を高める
 
-This ring was entrusted to a certain Fire Keeper, but in the end she never met her champion, and the ensuing tragic farce became a favorite tale of the masses.</text>
-<text id="20701">A green ring crafted from shards.
+それはある火防女に託され
+だが彼女は、終に英雄に出会えなかったという
+やがて愚か者の悲劇は、大衆好みの伝承となった</text>
+<text id="20702">かけらから作られた緑色の指輪
+エスト瓶のＨＰ回復量を高める
 
-Increases HP restored by the Estus Flask by 60%.
+それはある火防女に託され
+だが彼女は、終に英雄に出会えなかったという
+やがて愚か者の悲劇は、大衆好みの伝承となった</text>
+<text id="20703">かけらから作られた緑色の指輪
+エスト瓶のＨＰ回復量を高める
 
-This ring was entrusted to a certain Fire Keeper, but in the end she never met her champion, and the ensuing tragic farce became a favorite tale of the masses.</text>
-<text id="20702">A green ring crafted from shards.
+それはある火防女に託され
+だが彼女は、終に英雄に出会えなかったという
+やがて愚か者の悲劇は、大衆好みの伝承となった</text>
+<text id="20704">かけらから作られた緑色の指輪
+エスト瓶のＨＰ回復量を高める
 
-Increases HP restored by the Estus Flask by 70%.
+それはある火防女に託され
+だが彼女は、終に英雄に出会えなかったという
+やがて愚か者の悲劇は、大衆好みの伝承となった</text>
+<text id="20705">かけらから作られた緑色の指輪
+エスト瓶のＨＰ回復量を高める
 
-This ring was entrusted to a certain Fire Keeper, but in the end she never met her champion, and the ensuing tragic farce became a favorite tale of the masses.</text>
-<text id="20703">A green ring crafted from shards.
-
-Increases HP restored by the Estus Flask by 80%.
-
-This ring was entrusted to a certain Fire Keeper, but in the end she never met her champion, and the ensuing tragic farce became a favorite tale of the masses.</text>
-<text id="20704">A green ring crafted from shards.
-
-Increases HP restored by the Estus Flask by 90%.
-
-This ring was entrusted to a certain Fire Keeper, but in the end she never met her champion, and the ensuing tragic farce became a favorite tale of the masses.</text>
-<text id="20705">A green ring crafted from shards.
-
-Increases HP restored by the Estus Flask by 100%.
-
-This ring was entrusted to a certain Fire Keeper, but in the end she never met her champion, and the ensuing tragic farce became a favorite tale of the masses.</text>
+それはある火防女に託され
+だが彼女は、終に英雄に出会えなかったという
+やがて愚か者の悲劇は、大衆好みの伝承となった</text>
 <text id="20706">%null%</text>
 <text id="20707">%null%</text>
 <text id="20708">%null%</text>
 <text id="20709">%null%</text>
-<text id="20710">Gray crystalline ring crafted from shards.
+<text id="20710">かけらから作られた灰結晶の指輪
 
-Restores 3 FP while standing still.
+静止している間、ＦＰを回復する
 
-Once a treasure brought before Lothric's Queen, she had it enshrined in the Cemetery of Untended Graves, so that one day an Unkindled might profit from its use.</text>
-<text id="20711">Gray crystalline ring crafted from shards.
+あるとき王妃の元にもたらされ
+彼女はそれを無縁墓地に祀ったという
+いつか火の無き灰が、それを手にするように</text>
+<text id="20711">かけらから作られた灰結晶の指輪
 
-Restores 4 FP while standing still.
+静止している間、ＦＰを回復する
 
-Once a treasure brought before Lothric's Queen, she had it enshrined in the Cemetery of Untended Graves, so that one day an Unkindled might profit from its use.</text>
-<text id="20712">Gray crystalline ring crafted from shards.
+あるとき王妃の元にもたらされ
+彼女はそれを無縁墓地に祀ったという
+いつか火の無き灰が、それを手にするように</text>
+<text id="20712">かけらから作られた灰結晶の指輪
 
-Restores 5 FP while standing still.
+静止している間、ＦＰを回復する
 
-Once a treasure brought before Lothric's Queen, she had it enshrined in the Cemetery of Untended Graves, so that one day an Unkindled might profit from its use.</text>
-<text id="20713">Gray crystalline ring crafted from shards.
+あるとき王妃の元にもたらされ
+彼女はそれを無縁墓地に祀ったという
+いつか火の無き灰が、それを手にするように</text>
+<text id="20713">かけらから作られた灰結晶の指輪
 
-Restores 6 FP while standing still.
+静止している間、ＦＰを回復する
 
-Once a treasure brought before Lothric's Queen, she had it enshrined in the Cemetery of Untended Graves, so that one day an Unkindled might profit from its use.</text>
-<text id="20714">Gray crystalline ring crafted from shards.
+あるとき王妃の元にもたらされ
+彼女はそれを無縁墓地に祀ったという
+いつか火の無き灰が、それを手にするように</text>
+<text id="20714">かけらから作られた灰結晶の指輪
 
-Restores 7 FP while standing still.
+静止している間、ＦＰを回復する
 
-Once a treasure brought before Lothric's Queen, she had it enshrined in the Cemetery of Untended Graves, so that one day an Unkindled might profit from its use.</text>
-<text id="20715">Gray crystalline ring crafted from shards.
+あるとき王妃の元にもたらされ
+彼女はそれを無縁墓地に祀ったという
+いつか火の無き灰が、それを手にするように</text>
+<text id="20715">かけらから作られた灰結晶の指輪
 
-Restores 8 FP while standing still.
+静止している間、ＦＰを回復する
 
-Once a treasure brought before Lothric's Queen, she had it enshrined in the Cemetery of Untended Graves, so that one day an Unkindled might profit from its use.</text>
+あるとき王妃の元にもたらされ
+彼女はそれを無縁墓地に祀ったという
+いつか火の無き灰が、それを手にするように</text>
 <text id="20716">%null%</text>
 <text id="20717">%null%</text>
 <text id="20718">%null%</text>
 <text id="20719">%null%</text>
-<text id="20720">An old ring with a seal depicting a horse's hoof.
+<text id="20720">馬の足が刻印された古い指輪
 
-Enables simple kicking, overriding guard or left attack.
-Boosts stamina drain by 100% when kicking.
+左手武器の弱攻撃が蹴りに変化し
+蹴りの攻撃力を高める
 
-Unbreakable Patches adored this ring and the feeling that it gave it him when he kicked his marks into the depths of treacherous traps, but suffered no shortage of ridicule from his associates for relying so heavily on the tired old trick. But who is the sorrier? The horse who knows only to kick, or the fool who approaches the old beast without thought?</text>
-<text id="20721">An old ring with a seal depicting a horse's hoof.
+不屈のパッチはこれを愛用し
+罠にはめた相手を蹴り落としていたが
+それは後ろめたい仲間の嘲笑の的でもあった
 
-Enables simple kicking, overriding guard or left attack.
-Boosts stamina drain by 120% when kicking.
+だからお前は、すぐに馬脚をあらわすのだと</text>
+<text id="20721">馬の足が刻印された古い指輪
 
-Unbreakable Patches adored this ring and the feeling that it gave it him when he kicked his marks into the depths of treacherous traps, but suffered no shortage of ridicule from his associates for relying so heavily on the tired old trick. But who is the sorrier? The horse who knows only to kick, or the fool who approaches the old beast without thought?</text>
-<text id="20722">An old ring with a seal depicting a horse's hoof.
+左手武器の弱攻撃が蹴りに変化し
+蹴りの攻撃力を高める
 
-Enables simple kicking, overriding guard or left attack.
-Boosts stamina drain by 140% when kicking.
+不屈のパッチはこれを愛用し
+罠にはめた相手を蹴り落としていたが
+それは後ろめたい仲間の嘲笑の的でもあった
 
-Unbreakable Patches adored this ring and the feeling that it gave it him when he kicked his marks into the depths of treacherous traps, but suffered no shortage of ridicule from his associates for relying so heavily on the tired old trick. But who is the sorrier? The horse who knows only to kick, or the fool who approaches the old beast without thought?</text>
-<text id="20723">An old ring with a seal depicting a horse's hoof.
+だからお前は、すぐに馬脚をあらわすのだと</text>
+<text id="20722">馬の足が刻印された古い指輪
 
-Enables simple kicking, overriding guard or left attack.
-Boosts stamina drain by 160% when kicking.
+左手武器の弱攻撃が蹴りに変化し
+蹴りの攻撃力を高める
 
-Unbreakable Patches adored this ring and the feeling that it gave it him when he kicked his marks into the depths of treacherous traps, but suffered no shortage of ridicule from his associates for relying so heavily on the tired old trick. But who is the sorrier? The horse who knows only to kick, or the fool who approaches the old beast without thought?</text>
-<text id="20724">An old ring with a seal depicting a horse's hoof.
+不屈のパッチはこれを愛用し
+罠にはめた相手を蹴り落としていたが
+それは後ろめたい仲間の嘲笑の的でもあった
 
-Enables simple kicking, overriding guard or left attack.
-Boosts stamina drain by 180% when kicking.
+だからお前は、すぐに馬脚をあらわすのだと</text>
+<text id="20723">馬の足が刻印された古い指輪
 
-Unbreakable Patches adored this ring and the feeling that it gave it him when he kicked his marks into the depths of treacherous traps, but suffered no shortage of ridicule from his associates for relying so heavily on the tired old trick. But who is the sorrier? The horse who knows only to kick, or the fool who approaches the old beast without thought?</text>
-<text id="20725">An old ring with a seal depicting a horse's hoof.
+左手武器の弱攻撃が蹴りに変化し
+蹴りの攻撃力を高める
 
-Enables simple kicking, overriding guard or left attack.
-Boosts stamina drain by 200% when kicking.
+不屈のパッチはこれを愛用し
+罠にはめた相手を蹴り落としていたが
+それは後ろめたい仲間の嘲笑の的でもあった
 
-Unbreakable Patches adored this ring and the feeling that it gave it him when he kicked his marks into the depths of treacherous traps, but suffered no shortage of ridicule from his associates for relying so heavily on the tired old trick. But who is the sorrier? The horse who knows only to kick, or the fool who approaches the old beast without thought?</text>
+だからお前は、すぐに馬脚をあらわすのだと</text>
+<text id="20724">馬の足が刻印された古い指輪
+
+左手武器の弱攻撃が蹴りに変化し
+蹴りの攻撃力を高める
+
+不屈のパッチはこれを愛用し
+罠にはめた相手を蹴り落としていたが
+それは後ろめたい仲間の嘲笑の的でもあった
+
+だからお前は、すぐに馬脚をあらわすのだと</text>
+<text id="20725">馬の足が刻印された古い指輪
+
+左手武器の弱攻撃が蹴りに変化し
+蹴りの攻撃力を高める
+
+不屈のパッチはこれを愛用し
+罠にはめた相手を蹴り落としていたが
+それは後ろめたい仲間の嘲笑の的でもあった
+
+だからお前は、すぐに馬脚をあらわすのだと</text>
 <text id="20726">%null%</text>
 <text id="20727">%null%</text>
 <text id="20728">%null%</text>
 <text id="20729">%null%</text>
-<text id="20730">Ring worn by warriors of the sand kingdom, Carthus.
+<text id="20730">砂の国、カーサスの剣士たちの指輪
+スタミナの消費量を抑え、ローリング時に姿が見えにくくなる
 
-Shifts evasion class downwards and obscures rolling, but increases evasive stamina costs by 50%.
+またローリングのアクションを
+一段階軽いものに変化させる
 
-The sword technique of Carthus allows for fluid movement with a curved sword. Masters of the technique are said to dazzle their opponents by moving as weightlessly as a grain of sand.</text>
+曲刀を自在に用いるカーサスの剣技は
+砂塵のように身軽に、対手を翻弄したという
+そして彼らは、多くの国々を席巻した
+覇王ウォルニールの名と共に</text>
 <text id="20731">%null%</text>
 <text id="20732">%null%</text>
 <text id="20733">%null%</text>
@@ -2078,11 +2644,14 @@ The sword technique of Carthus allows for fluid movement with a curved sword. Ma
 <text id="20737">%null%</text>
 <text id="20738">%null%</text>
 <text id="20739">%null%</text>
-<text id="20740">A divine ring granted to the Darkmoon Gwyndolin in his youth.
+<text id="20740">暗月の神グウィンドリンに
+幼き頃与えられた神秘の指輪
 
-Causes males to perform female actions, and vice-versa.
+男性であれば女性、女性であれば男性に
+動作が別性のものに変化する
 
-Gwyndolin was raised like a daughter through the aura of the moon, and was said to behave like a sullen brooding goddess.</text>
+彼はその月の力から、娘として育てられ
+暗く儚い女神のごとく振る舞ったという</text>
 <text id="20741">%null%</text>
 <text id="20742">%null%</text>
 <text id="20743">%null%</text>
@@ -2092,36 +2661,42 @@ Gwyndolin was raised like a daughter through the aura of the moon, and was said 
 <text id="20747">%null%</text>
 <text id="20748">%null%</text>
 <text id="20749">%null%</text>
-<text id="20750">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
+<text id="20750">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＨＰを回復する
 
-Recovers HP with successive attacks, restoring 5% HP per attack once triggered.
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
+<text id="20751">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＨＰを回復する
 
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
-<text id="20751">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
+<text id="20752">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＨＰを回復する
 
-Recovers HP with successive attacks, restoring 6% HP per attack once triggered.
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
+<text id="20753">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＨＰを回復する
 
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
-<text id="20752">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
+<text id="20754">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＨＰを回復する
 
-Recovers HP with successive attacks, restoring 7% HP per attack once triggered.
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
+<text id="20755">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＨＰを回復する
 
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
-<text id="20753">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
-
-Recovers HP with successive attacks, restoring 8% HP per attack once triggered.
-
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
-<text id="20754">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
-
-Recovers HP with successive attacks, restoring 9% HP per attack once triggered.
-
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
-<text id="20755">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
-
-Recovers HP with successive attacks, restoring 10% HP per attack once triggered.
-
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
 <text id="20756">%null%</text>
 <text id="20757">%null%</text>
 <text id="20758">%null%</text>
@@ -2156,36 +2731,42 @@ Knights who peer into the black orb are lured into battles of death, transformed
 <text id="20787">%null%</text>
 <text id="20788">%null%</text>
 <text id="20789">%null%</text>
-<text id="20790">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
+<text id="20790">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＦＰを回復する
 
-Recovers FP with successive attacks, restoring 5% FP per attack once triggered.
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
+<text id="20791">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＦＰを回復する
 
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
-<text id="20791">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
+<text id="20792">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＦＰを回復する
 
-Recovers FP with successive attacks, restoring 6% FP per attack once triggered.
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
+<text id="20793">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＦＰを回復する
 
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
-<text id="20792">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
+<text id="20794">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＦＰを回復する
 
-Recovers FP with successive attacks, restoring 7% FP per attack once triggered.
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
+<text id="20795">法王サリヴァーンが騎士たちに与えた魔性の指輪
+攻撃が連続すると、ＦＰを回復する
 
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
-<text id="20793">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
-
-Recovers FP with successive attacks, restoring 8% FP per attack once triggered.
-
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
-<text id="20794">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
-
-Recovers FP with successive attacks, restoring 9% FP per attack once triggered.
-
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
-<text id="20795">Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.
-
-Recovers FP with successive attacks, restoring 10% FP per attack once triggered.
-
-Knights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.</text>
+その黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い
+やがて騎士を獣のような狂戦士に貶めてしまう
+故に法王は、外征に際してのみこれを与えたという</text>
 <text id="20796">%null%</text>
 <text id="20797">%null%</text>
 <text id="20798">%null%</text>
@@ -2220,48 +2801,60 @@ Knights who peer into the black orb are lured into battles of death, transformed
 <text id="20827">%null%</text>
 <text id="20828">%null%</text>
 <text id="20829">%null%</text>
-<text id="20830">Ring of Oceiros, former king of Lothric.
+<text id="20830">ロスリックの先王、オスロエスの指輪
+最大ＦＰを増やす
 
-Increases max FP by 10%.
+オスロエスは晩年竜に魅入られた
+正気を失った彼は妖王と呼ばれ
+多くの刺客が差し向けられたが
+そのことごとくが失敗したという
 
-In his later years, Oceiros became fascinated with dragons. After going mad, he was more commonly known as the Consumed King. Many assassins were dispatched to his domain, but none returned.
+妖王はそれを竜鱗の加護と呼んだ</text>
+<text id="20831">ロスリックの先王、オスロエスの指輪
+最大ＦＰを増やす
 
-The Consumed King ascribed his resilience to the divine protection of the dragon scale.</text>
-<text id="20831">Ring of Oceiros, former king of Lothric.
+オスロエスは晩年竜に魅入られた
+正気を失った彼は妖王と呼ばれ
+多くの刺客が差し向けられたが
+そのことごとくが失敗したという
 
-Increases max FP by 14%.
+妖王はそれを竜鱗の加護と呼んだ</text>
+<text id="20832">ロスリックの先王、オスロエスの指輪
+最大ＦＰを増やす
 
-In his later years, Oceiros became fascinated with dragons. After going mad, he was more commonly known as the Consumed King. Many assassins were dispatched to his domain, but none returned.
+オスロエスは晩年竜に魅入られた
+正気を失った彼は妖王と呼ばれ
+多くの刺客が差し向けられたが
+そのことごとくが失敗したという
 
-The Consumed King ascribed his resilience to the divine protection of the dragon scale.</text>
-<text id="20832">Ring of Oceiros, former king of Lothric.
+妖王はそれを竜鱗の加護と呼んだ</text>
+<text id="20833">ロスリックの先王、オスロエスの指輪
+最大ＦＰを増やす
 
-Increases max FP by 18%.
+オスロエスは晩年竜に魅入られた
+正気を失った彼は妖王と呼ばれ
+多くの刺客が差し向けられたが
+そのことごとくが失敗したという
 
-In his later years, Oceiros became fascinated with dragons. After going mad, he was more commonly known as the Consumed King. Many assassins were dispatched to his domain, but none returned.
+妖王はそれを竜鱗の加護と呼んだ</text>
+<text id="20834">ロスリックの先王、オスロエスの指輪
+最大ＦＰを増やす
 
-The Consumed King ascribed his resilience to the divine protection of the dragon scale.</text>
-<text id="20833">Ring of Oceiros, former king of Lothric.
+オスロエスは晩年竜に魅入られた
+正気を失った彼は妖王と呼ばれ
+多くの刺客が差し向けられたが
+そのことごとくが失敗したという
 
-Increases max FP by 22%.
+妖王はそれを竜鱗の加護と呼んだ</text>
+<text id="20835">ロスリックの先王、オスロエスの指輪
+最大ＦＰを増やす
 
-In his later years, Oceiros became fascinated with dragons. After going mad, he was more commonly known as the Consumed King. Many assassins were dispatched to his domain, but none returned.
+オスロエスは晩年竜に魅入られた
+正気を失った彼は妖王と呼ばれ
+多くの刺客が差し向けられたが
+そのことごとくが失敗したという
 
-The Consumed King ascribed his resilience to the divine protection of the dragon scale.</text>
-<text id="20834">Ring of Oceiros, former king of Lothric.
-
-Increases max FP by 26%.
-
-In his later years, Oceiros became fascinated with dragons. After going mad, he was more commonly known as the Consumed King. Many assassins were dispatched to his domain, but none returned.
-
-The Consumed King ascribed his resilience to the divine protection of the dragon scale.</text>
-<text id="20835">Ring of Oceiros, former king of Lothric.
-
-Increases max FP by 30%.
-
-In his later years, Oceiros became fascinated with dragons. After going mad, he was more commonly known as the Consumed King. Many assassins were dispatched to his domain, but none returned.
-
-The Consumed King ascribed his resilience to the divine protection of the dragon scale.</text>
+妖王はそれを竜鱗の加護と呼んだ</text>
 <text id="20836">%null%</text>
 <text id="20837">%null%</text>
 <text id="20838">%null%</text>
@@ -3617,171 +4210,171 @@ Stand still in contemplation to gain Gwynevere's Blessing, granting one the chan
 Can only be triggered every 60 seconds.
 
 Through daily discipline and concerted effort, all shall find peace in the Sun Princess.</text>
-<text id="30980">Metal dial crafted by Ritualist Ellie.
+<text id="30980">Metal dial crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Increases the duration of a companion is present for to 90 seconds whilst worn.</text>
-<text id="30981">Metal dial crafted by Ritualist Ellie.
+<text id="30981">Metal dial crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Increases the duration of a companion is present for to 120 seconds whilst worn.</text>
-<text id="30982">Metal dial crafted by Ritualist Ellie.
+<text id="30982">Metal dial crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Increases the duration of a companion is present for to 150 seconds whilst worn.</text>
-<text id="30983">Metal dial crafted by Ritualist Ellie.
+<text id="30983">Metal dial crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Increases the duration of a companion is present for to 180 seconds whilst worn.</text>
-<text id="30984">Metal dial crafted by Ritualist Ellie.
+<text id="30984">Metal dial crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Increases the duration of a companion is present for to 210 seconds whilst worn.</text>
-<text id="30985">Metal dial crafted by Ritualist Ellie.
+<text id="30985">Metal dial crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Increases the duration of a companion is present for to 250 seconds whilst worn.</text>
-<text id="30990">Ritual offering crafted by Ritualist Ellie.
+<text id="30990">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the damage of companions by 20% whilst worn.</text>
-<text id="30991">Ritual offering crafted by Ritualist Ellie.
+<text id="30991">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the damage of companions by 40% whilst worn.</text>
-<text id="30992">Ritual offering crafted by Ritualist Ellie.
+<text id="30992">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the damage of companions by 60% whilst worn.</text>
-<text id="30993">Ritual offering crafted by Ritualist Ellie.
+<text id="30993">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the damage of companions by 80% whilst worn.</text>
-<text id="30994">Ritual offering crafted by Ritualist Ellie.
+<text id="30994">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the damage of companions by 100% whilst worn.</text>
-<text id="30995">Ritual offering crafted by Ritualist Ellie.
+<text id="30995">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the damage of companions by 150% whilst worn.</text>
-<text id="31000">Ritual offering crafted by Ritualist Ellie.
+<text id="31000">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the absorption of companions by 10% whilst worn.</text>
-<text id="31001">Ritual offering crafted by Ritualist Ellie.
+<text id="31001">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the absorption of companions by 20% whilst worn.</text>
-<text id="31002">Ritual offering crafted by Ritualist Ellie.
+<text id="31002">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the absorption of companions by 30% whilst worn.</text>
-<text id="31003">Ritual offering crafted by Ritualist Ellie.
+<text id="31003">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the absorption of companions by 40% whilst worn.</text>
-<text id="31004">Ritual offering crafted by Ritualist Ellie.
+<text id="31004">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the absorption of companions by 50% whilst worn.</text>
-<text id="31005">Ritual offering crafted by Ritualist Ellie.
+<text id="31005">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the absorption of companions by 60% whilst worn.</text>
-<text id="31010">Ritual offering crafted by Ritualist Ellie.
+<text id="31010">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the poise of companions by 25 whilst worn.</text>
-<text id="31011">Ritual offering crafted by Ritualist Ellie.
+<text id="31011">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the poise of companions by 50 whilst worn.</text>
-<text id="31012">Ritual offering crafted by Ritualist Ellie.
+<text id="31012">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the poise of companions by 75 whilst worn.</text>
-<text id="31013">Ritual offering crafted by Ritualist Ellie.
+<text id="31013">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the poise of companions by 100 whilst worn.</text>
-<text id="31014">Ritual offering crafted by Ritualist Ellie.
+<text id="31014">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the poise of companions by 125 whilst worn.</text>
-<text id="31015">Ritual offering crafted by Ritualist Ellie.
+<text id="31015">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the poise of companions by 150 whilst worn.</text>
-<text id="31020">Ritual offering crafted by Ritualist Ellie.
+<text id="31020">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the HP of companions by 25% whilst worn.</text>
-<text id="31021">Ritual offering crafted by Ritualist Ellie.
+<text id="31021">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the HP of companions by 50% whilst worn.</text>
-<text id="31022">Ritual offering crafted by Ritualist Ellie.
+<text id="31022">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the HP of companions by 75% whilst worn.</text>
-<text id="31023">Ritual offering crafted by Ritualist Ellie.
+<text id="31023">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the HP of companions by 100% whilst worn.</text>
-<text id="31024">Ritual offering crafted by Ritualist Ellie.
+<text id="31024">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the HP of companions by 150% whilst worn.</text>
-<text id="31025">Ritual offering crafted by Ritualist Ellie.
+<text id="31025">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Boosts the HP of companions by 200% whilst worn.</text>
-<text id="31030">Ritual offering crafted by Ritualist Ellie.
+<text id="31030">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now restore 1% HP per second whilst worn.</text>
-<text id="31031">Ritual offering crafted by Ritualist Ellie.
+<text id="31031">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now restore 2% HP per second whilst worn.</text>
-<text id="31032">Ritual offering crafted by Ritualist Ellie.
+<text id="31032">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now restore 3% HP per second whilst worn.</text>
-<text id="31033">Ritual offering crafted by Ritualist Ellie.
+<text id="31033">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now restore 4% HP per second whilst worn.</text>
-<text id="31034">Ritual offering crafted by Ritualist Ellie.
+<text id="31034">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now restore 5% HP per second whilst worn.</text>
-<text id="31035">Ritual offering crafted by Ritualist Ellie.
+<text id="31035">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now restore 6% HP per second whilst worn.</text>
-<text id="31040">Ritual offering crafted by Ritualist Ellie.
+<text id="31040">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now gain an additional 30 stamina recovery whilst worn.</text>
-<text id="31041">Ritual offering crafted by Ritualist Ellie.
+<text id="31041">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now gain an additional 40 stamina recovery whilst worn.</text>
-<text id="31042">Ritual offering crafted by Ritualist Ellie.
+<text id="31042">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now gain an additional 50 stamina recovery whilst worn.</text>
-<text id="31043">Ritual offering crafted by Ritualist Ellie.
+<text id="31043">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now gain an additional 60 stamina recovery whilst worn.</text>
-<text id="31044">Ritual offering crafted by Ritualist Ellie.
+<text id="31044">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now gain an additional 70 stamina recovery whilst worn.</text>
-<text id="31045">Ritual offering crafted by Ritualist Ellie.
+<text id="31045">Ritual offering crafted by 祭祀者エリー.
 Imbued with occult power.
 
 Companions now gain an additional 80 stamina recovery whilst worn.</text>
